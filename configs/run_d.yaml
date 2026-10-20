@@ -1,0 +1,8 @@
+# Run D: pre-trained on noisy synthetic data, fine-tuned on PHINC.
+name: run_d
+tokeniser: bpe
+init_from: pretrain_noisy
+train: data/processed/phinc_train.tsv
+val: data/processed/phinc_val.tsv
+lr: 0.0002
+max_tokens: 2000

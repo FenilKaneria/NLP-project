@@ -1,0 +1,12 @@
+# PyTorch is installed separately from the CUDA wheel index:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+sentencepiece
+sacrebleu
+scikit-learn
+ftfy
+pandas
+pyyaml
+streamlit
+pytest
+wordfreq
+vaderSentiment

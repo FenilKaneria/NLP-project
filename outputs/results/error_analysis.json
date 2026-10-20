@@ -1,0 +1,23 @@
+{
+  "compared": 100,
+  "better": {
+    "D": 49,
+    "same": 26,
+    "B": 25
+  },
+  "sign_test_p_value": 0.007084252673880493,
+  "error_run_d": {
+    "wrong word": 14,
+    "wrong meaning": 37,
+    "missing": 12,
+    "none": 19,
+    "untranslated": 6,
+    "grammar": 10,
+    "repetition": 2
+  },
+  "checked": 50,
+  "verdict": {
+    "needs change": 40,
+    "correct": 10
+  }
+}

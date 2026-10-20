@@ -1,0 +1,10 @@
+# Pre-training on code-mixed synthetic Hinglish (noisy spelling, English words mixed in), model with the copy mechanism.
+name: pretrain_mixed_copy
+tokeniser: bpe
+copy: true
+train: data/processed/synth_mixed.tsv
+val: data/processed/synth_mixed_val.tsv
+lr: 0.001
+max_tokens: 4000
+max_epochs: 10
+patience: 3

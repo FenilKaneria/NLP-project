@@ -1,0 +1,319 @@
+{
+  "run": "run_f",
+  "tweets": 3000,
+  "removed_as_seen": null,
+  "label_counts": {
+    "neutral": 1100,
+    "negative": 900,
+    "positive": 1000
+  },
+  "systems": {
+    "majority": {
+      "accuracy": 36.666666666666664,
+      "macro_f1": 17.88617886178862,
+      "f1_negative": 0.0,
+      "f1_neutral": 53.65853658536586,
+      "f1_positive": 0.0
+    },
+    "raw": {
+      "accuracy": 47.5,
+      "macro_f1": 45.06713090727379,
+      "f1_negative": 31.310861423220977,
+      "f1_neutral": 42.32619151727153,
+      "f1_positive": 61.56433978132885
+    },
+    "translated": {
+      "accuracy": 49.2,
+      "macro_f1": 46.70182004473533,
+      "f1_negative": 40.6578947368421,
+      "f1_neutral": 37.771587743732596,
+      "f1_positive": 61.675977653631286
+    },
+    "trained": {
+      "accuracy": 67.60000000000001,
+      "macro_f1": 68.14958116275118,
+      "f1_negative": 70.70245573957739,
+      "f1_neutral": 61.142121082009446,
+      "f1_positive": 72.60416666666667
+    }
+  },
+  "comparisons": {
+    "macro_f1": {
+      "difference": 1.6346891374615353,
+      "low": -0.2638548696620546,
+      "high": 3.4536253284971323,
+      "p_value": 0.049000000000000044
+    },
+    "accuracy": {
+      "difference": 1.7000000000000028,
+      "low": -0.10000000000000142,
+      "high": 3.3999999999999915,
+      "p_value": 0.03200000000000003
+    }
+  },
+  "groups": {
+    "Hindi only": {
+      "tweets": 173,
+      "raw": {
+        "accuracy": 33.52601156069364,
+        "macro_f1": 19.8841021167349,
+        "f1_negative": 4.938271604938271,
+        "f1_neutral": 50.45871559633027,
+        "f1_positive": 4.25531914893617
+      },
+      "translated": {
+        "accuracy": 45.664739884393065,
+        "macro_f1": 44.66548315232526,
+        "f1_negative": 44.44444444444444,
+        "f1_neutral": 54.13533834586466,
+        "f1_positive": 35.41666666666667
+      }
+    },
+    "Mixed, low (CMI up to 20)": {
+      "tweets": 1331,
+      "raw": {
+        "accuracy": 43.65138993238167,
+        "macro_f1": 41.7997054910532,
+        "f1_negative": 26.959247648902824,
+        "f1_neutral": 39.80861244019139,
+        "f1_positive": 58.63125638406538
+      },
+      "translated": {
+        "accuracy": 47.40796393688956,
+        "macro_f1": 45.171133827644574,
+        "f1_negative": 40.105540897097626,
+        "f1_neutral": 35.752688172043015,
+        "f1_positive": 59.6551724137931
+      }
+    },
+    "Mixed, high (CMI above 20)": {
+      "tweets": 1325,
+      "raw": {
+        "accuracy": 52.075471698113205,
+        "macro_f1": 49.6967358194059,
+        "f1_negative": 39.86371379897785,
+        "f1_neutral": 44.80171489817792,
+        "f1_positive": 64.42477876106196
+      },
+      "translated": {
+        "accuracy": 50.71698113207547,
+        "macro_f1": 47.88892466895794,
+        "f1_negative": 41.35702746365105,
+        "f1_neutral": 38.349514563106794,
+        "f1_positive": 63.96023198011599
+      }
+    },
+    "English only": {
+      "tweets": 171,
+      "raw": {
+        "accuracy": 56.14035087719298,
+        "macro_f1": 42.01063511408339,
+        "f1_negative": 27.586206896551722,
+        "f1_neutral": 26.373626373626376,
+        "f1_positive": 72.07207207207207
+      },
+      "translated": {
+        "accuracy": 54.97076023391813,
+        "macro_f1": 39.92666971390375,
+        "f1_negative": 23.076923076923077,
+        "f1_neutral": 25.53191489361702,
+        "f1_positive": 71.17117117117117
+      }
+    },
+    "All": {
+      "tweets": 3000,
+      "raw": {
+        "accuracy": 47.5,
+        "macro_f1": 45.06713090727379,
+        "f1_negative": 31.310861423220977,
+        "f1_neutral": 42.32619151727153,
+        "f1_positive": 61.56433978132885
+      },
+      "translated": {
+        "accuracy": 49.2,
+        "macro_f1": 46.70182004473533,
+        "f1_negative": 40.6578947368421,
+        "f1_neutral": 37.771587743732596,
+        "f1_positive": 61.675977653631286
+      }
+    }
+  },
+  "confusion_raw": {
+    "negative": {
+      "negative": 209,
+      "neutral": 489,
+      "positive": 202
+    },
+    "neutral": {
+      "negative": 172,
+      "neutral": 484,
+      "positive": 444
+    },
+    "positive": {
+      "negative": 54,
+      "neutral": 214,
+      "positive": 732
+    }
+  },
+  "confusion_translated": {
+    "negative": {
+      "negative": 309,
+      "neutral": 250,
+      "positive": 341
+    },
+    "neutral": {
+      "negative": 245,
+      "neutral": 339,
+      "positive": 516
+    },
+    "positive": {
+      "negative": 66,
+      "neutral": 106,
+      "positive": 828
+    }
+  },
+  "examples_corrected": [
+    {
+      "text": "@454dkhan @Heisunberg _ Agr kse ko itni importantce chaeay ni tou 😅",
+      "translation": "@454dkhan @Heisunberg _ if you don't get so much importantce",
+      "true": "neutral",
+      "raw": "positive",
+      "translated": "neutral"
+    },
+    {
+      "text": "RT @DHEERAJ48968067 @nirahua1 @msunilbishnoi Wah bhai Shandaar jabab",
+      "translation": "retweet @DHEERAJ48968067 @nirahua1 @msunilbishnoi wow brother shan shan jabab",
+      "true": "positive",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "Modi ka lehar kisano pe baras raha kehar tut rahe haath pao road ki buri halato ka aasar @aajtak @BBCBreaking … https://t.co/link",
+      "translation": "modi's work is roaming on farmer and handle a lot of troubles on the road @aajtak @BBCBreaking ... https://t.co/link",
+      "true": "negative",
+      "raw": "neutral",
+      "translated": "negative"
+    },
+    {
+      "text": "RT @ImUrsTarun Zinda Hoon Main Tujhme Tujhme Rahunga Zinda Todke Sab Zanjeerein Main Aazad Parinda 🔥 One Of The Best Song Ever 💥 🔥 GO …",
+      "translation": "retweet @ImUrsTarun i am alive in you, you will see you in the end of my heart, i am feeling happy. one of the best song ever go go",
+      "true": "positive",
+      "raw": "negative",
+      "translated": "positive"
+    },
+    {
+      "text": "@akki _ dhoni @_ iRajeev You are stalking me bro . Just shut up and nikal . Le . Faltu logo ki mention mein jagah nahi haii",
+      "translation": "@akki _ dhoni @_ irajeev you are stalking me bro . just shut up and nikal . take . there is no place in the mention of false people",
+      "true": "negative",
+      "raw": "neutral",
+      "translated": "negative"
+    },
+    {
+      "text": "@narendramodi government job ke bare me sharkar ku responsible nahi vacancy itni kam aur vo final nahi kar va pa r … https://t.co/link",
+      "translation": "@narendramodi the government is not responsible for the job of vacance, but not so much and he won't final the final. https://t.co/link",
+      "true": "negative",
+      "raw": "positive",
+      "translated": "negative"
+    },
+    {
+      "text": "Bhai ye to sahi h . mgr hamare pas h hi kya . Bjp ne to achut bna hi diya h . Nfrat bhir hi di logon ke dilon me . Khuda … https://t.co/link",
+      "translation": "brother this is true. what is ours. bjp has made us good. in the hearts of people of god, god. https://t.co/link",
+      "true": "positive",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "@HamidMirPAK Sir leave ..... maza nae ha Pakistan ma kici b media journalist ka .. q k yahn koe such Bolta e nae",
+      "translation": "@HamidMirPAK sir leave ..... it is not fun pakistan. ki ki b media journalist ka .. q ya ya ko ko such suchta",
+      "true": "negative",
+      "raw": "positive",
+      "translated": "negative"
+    },
+    {
+      "text": "@Zorawar68324101 @danvir _ chauhan Hindi Rajbhasha he Rashtrabhasa nahi Kripya 10wi tak ki padhai kare",
+      "translation": "@Zorawar68324101 @danvir _ chauhan is not a hindi rajbhasha, please don't study till 10wi",
+      "true": "positive",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "EID ke iss Mubarak mauke par Unik Bazar lekar aaya hai aapke liye dhamekedaar offers Karein 3000 Rs ki khareedari … https://t.co/link",
+      "translation": "this time of eid has come to see aikikzar on you. forgive offers for buying 3000 rs. https://t.co/link",
+      "true": "positive",
+      "raw": "neutral",
+      "translated": "positive"
+    }
+  ],
+  "examples_made_wrong": [
+    {
+      "text": "Samarthan ke aabhav aur rajnitik swartho ke karan iska kabhi bhi sahi nyay nahi Kiya Gaya roshavash dharmik imarat … https://t.co/link",
+      "translation": "he was supporting support of the support and the slippers did not have done a good job roamvashing. https://t.co/link",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "@QasimalirazaAli Ye such bolne walo ko mar sakte lekin such ko daba nhi sakhte or such ko jitna dabane ki koshish k … https://t.co/link",
+      "translation": "@QasimalirazaAli they can die these people, but can not be able to press such and try to press such things. https://t.co/link",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "negative"
+    },
+    {
+      "text": "JcdPs moulladad k hudood Goth faqeerabad me 3 chor chori karty hue Gaon walon k hath pakry gaye 1 Farar police ky hawaly . Nabi bux Pandrani",
+      "translation": "jcdps mou hadood goth in moulladad, 3 minutes in faqeerabad went to pakistani's hand. it was a police police. nabi bux pandrani",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "@priyankagandhi Esa koi exam nahi up govt . M jo in 2 saal m leak na huaa hu Ye to sarkar ki rajniti h ki na to ham … https://t.co/link",
+      "translation": "@priyankagandhi he does not have any exam that i am not able to take a 2 years in this 2 years, it is the politics of the government. https://t.co/link",
+      "true": "negative",
+      "raw": "negative",
+      "translated": "neutral"
+    },
+    {
+      "text": "Ab btaao ki isko samprdaayik roop kisne diya us ldke ne ya muslmaan ne ? @KapilMishra _ IND @sardanarohit … https://t.co/link",
+      "translation": "now what ldke has made it a property of love and muslmaan? @KapilMishra",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "@mahisub Gud mrng Actually aapka msg box show naHi kar raha hai otherwise mai aapko msg hi karta Aap mjhe ek msg … https://t.co/link",
+      "translation": "@mahisub good mrng actually, you are not show your msg box otherwise otherwise i will give you msg and you will give me a msg ... https://t.co/link",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "@its _ fatiiiii Nhi yaar yahan tw 1year walo k bhe khatam ho gye thy",
+      "translation": "@its _ there is no problem, the news of twit people here has gone over.",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "@RubikaLiyaquat Ek dum sahi kaha TV news ke jariye naam kaam liya paisa bana liya or ab boycott ka natak ... Joker saale",
+      "translation": "@RubikaLiyaquat one is right, where did you make the name in the name of tc news, and now boycott's drama ... joker saale",
+      "true": "negative",
+      "raw": "negative",
+      "translated": "positive"
+    },
+    {
+      "text": "@IamSRKfanbig @RahulVerma4860 @iamsrk @Atlee _ dir Pehle chalta tha ab nahi pichle 2 saal ki Bollywood ki track check … https://t.co/link",
+      "translation": "@IamSRKfanbig @RahulVerma4860 @iamsrk @Atlee _ it was very good, now he would have a track of bollywood last year. https://t.co/link",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "positive"
+    },
+    {
+      "text": "RT @bhumika7677 ghutan si hone lagi uss ke paas jate hue main khud se rooth gaya hun usey manaate hue ~ Azhar Iqbal",
+      "translation": "retweet @bhumika7677 i have gone to the neighbours that i have lost, i am afraid of saying that ~ az i ibal",
+      "true": "neutral",
+      "raw": "neutral",
+      "translated": "negative"
+    }
+  ]
+}

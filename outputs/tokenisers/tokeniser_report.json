@@ -1,0 +1,47 @@
+{
+  "word": {
+    "trained_on": [
+      "phinc_train.tsv"
+    ],
+    "vocabulary": 12695,
+    "phinc_train_src": {
+      "unknown": 0.036445405617949914,
+      "tokens_per_word": 1.0
+    },
+    "phinc_val_src": {
+      "unknown": 0.07775715541662596,
+      "tokens_per_word": 1.0
+    },
+    "phinc_train_tgt": {
+      "unknown": 0.01917200847755139,
+      "tokens_per_word": 1.0
+    },
+    "phinc_val_tgt": {
+      "unknown": 0.05311790212678092,
+      "tokens_per_word": 1.0
+    }
+  },
+  "bpe": {
+    "trained_on": [
+      "phinc_train.tsv",
+      "synth_noisy.tsv"
+    ],
+    "vocabulary": 8000,
+    "phinc_train_src": {
+      "unknown": 0.0004591201258261889,
+      "tokens_per_word": 1.3515642279619573
+    },
+    "phinc_val_src": {
+      "unknown": 0.0003601137959595232,
+      "tokens_per_word": 1.3563055582690242
+    },
+    "phinc_train_tgt": {
+      "unknown": 0.0001367060673082087,
+      "tokens_per_word": 1.3315671767933532
+    },
+    "phinc_val_tgt": {
+      "unknown": 0.00015499070055796651,
+      "tokens_per_word": 1.3322320875490399
+    }
+  }
+}

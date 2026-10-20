@@ -1,0 +1,201 @@
+H=Hindi E=English O=other
+CMI 17.6  ab/H bi/H bagwan/H hi/H kuch/H help/E kar/H rahe/H hai/H ./O hamari/H govt/E aur/H authorities/E kuch/H nahi/H kar/H payi/H <user>/O <user>/O 0/O <hashtag>/O
+CMI 18.2  ./O <user>/O sir/E ,/O aap/H to/H single/E hai/H ,/O aap/H ye/H kaise/H kar/H sakte/H hai/H ?/O <hashtag>/O
+CMI  6.7  happy/E new/E year/E guddu/H ,/O stay/E the/E same/E forever/E ,/O no/E matter/E how/E many/E years/E pass/E by/E
+CMI 27.3  lool/O !/O yahin/H toh/H problem/E hai/H ,/O ladkiyon/H ko/H sorrry/E bolne/H mein/H issue/E hai/H ./O
+CMI 20.0  <user>/O prateeksha/H bhi/H celeb/E hai/H kya/H ?/O
+CMI  0.0  <user>/O <user>/O <user>/O <user>/O <user>/O dadho/H sutho/H !/O
+CMI  0.0  <user>/O bhav/H kha/H liye/H
+CMI  0.0  and/E if/E you're/E from/E maryland/E ,/O early/E voting/E has/E been/E extended/E until/E tomorrow/E at/E 9/O pm/E ./O please/E go/E vote/E !/O
+CMI  0.0  hahahaa/O tashreef/H maar/H li/H aapne/H inkik/H <user>/O
+CMI 45.5  upar/H upar/H upar/H upar/H upar/H upar/H ./O ./O in/E the/E air/E ./O ./O rt/O <user>/O :/O captions/E please/E ./O ./O ./O ./O ./O ./O <hashtag>/O <hashtag>/O <hashtag>/O <url>/O
+CMI 14.3  <user>/O kolkata/E main/H kaam/H aise/H hi/H hota/H hai/H
+CMI 47.4  kejriwal/H and/E ujwal/H nikam/H can/E make/E a/E great/E pair/E ./O nikam/H can/E */O cook/E up/E */O some/E biryani/H aur/H kejriwal/H raita/H phailayega/H
+CMI 25.0  <user>/O please/E ya/H ,/O pyar/H dekho/H
+CMI 11.1  yaar/H out/E kro/H ab/H inn/H chutiyon/H ko/H ./O bahut/H hua/H <hashtag>/O
+CMI  0.0  humein/H toh/H apno/H ne/H loota/H ,/O gairon/H ko/H hum/H samajh/H aaye/H ./O <hashtag>/O <url>/O …/O
+CMI 41.7  saari/H chalk/E to/E pt/E shoes/E ko/H white/E karne/H me/H lag/H jaati/H thi/H ./O ./O :/O p/O
+CMI 11.1  <user>/O pura/H sm/E hi/H daal/H do/H ,/O sab/H bhadaas/H nikal/H jaayegi/H <user>/O <user>/O <user>/O <user>/O
+CMI 19.0  ab/H time/E aa/H gya/H h/H ki/H <hashtag>/O n/E <hashtag>/O ki/H tarah/H hi/H is/H <hashtag>/O ko/H hataiye/H taki/H sahi/H mayne/H me/H <hashtag>/O develop/E country/E ho/H jaye/H ./O
+CMI  0.0  <user>/O <user>/O <user>/O <user>/O kahan/H hai/H ?/O
+CMI  0.0  ajjab/H chutyon/H ki/H gajjab/H kahaani/H ./O <url>/O …/O
+CMI 46.7  sir/E dont/E lie/E ./O ./O 8/O th/E nov/E ke/H pehle/H bhi/H sbi/H me/H withdrawal/E ke/H 20/O minute/E lagte/H the/E <url>/O …/O
+CMI 42.9  <user>/O sabse/H ganda/H hangover/E royal/E stag/E ka/H hai/H
+CMI 18.2  chota/H bachcha/H samajh/H ke/H humko/H na/H aankh/H dikhaana/H re/H ./O ./O -/O arya/E stark/E <user>/O
+CMI  0.0  tujhe/H udaar/H maine/H hi/H diya/H tha/H ./O ./O bhool/H gaya/H <user>/O <user>/O
+CMI 10.0  "/O ye/H bhi/H tum/H karo/H toh/H hum/H kya/H karenge/H ?/O "/O -/O papa/E ranjeet/H <url>/O …/O
+CMI 13.3  chalo/H ab/H koi/H sting/E operation/E karke/H kisi/H sarkar/H ko/H nanga/H nahi/H kar/H sakti/H ./O ./O ./O maare/H jaoge/H <hashtag>/O
+CMI 14.3  ye/H sirf/H yahan/H ke/H liye/H limited/E hai/H :/O )/O
+CMI 33.3  m/O 2/O k/H stud/E h/H :/O d/O
+CMI  0.0  kamzor/H dilke/H aur/H garbhvati/H mahilayein/H na/H <url>/O
+CMI 11.1  koi/H aur/H kaam/H dhandha/H nhi/H hai/H ?/O kal/H monday/E hai/H :/O p/O
+CMI  0.0  apna/H kaam/H banta/H ,/O uske/H baad/H kaun/H sunta/H ?/O
+CMI  0.0  2002/O se/H pehle/H ki/H baatein/H bhi/H yaad/H hai/H inhe/H ./O bajao/H taali/H <url>/O …/O
+CMI  0.0  <user>/O ye/H to/H andar/H ki/H baat/H hai/H <user>/O
+CMI  0.0  <user>/O aisa/H bhi/H karna/H padta/H hai/H kya/H ?/O
+CMI  4.3  so/E many/E of/E these/E sketches/E take/E us/E back/E to/E our/E days/E ,/O this/E took/E me/E to/E my/E science/E projects/E ,/O made/E in/E "/O collaboration/E "/O with/E maa/H ./O
+CMI  0.0  <user>/O aur/H aaj/H ulti/H bhi/H karegi/H
+CMI  0.0  my/E trick/E or/E treating/E will/E happen/E tomorrow/E night/E ./O ./O at/E walgreens/E ./O ./O ./O ./O in/E the/E candy/E aisle/E ./O
+CMI 36.4  jan/E dhan/H yojana/H for/E the/E poor/E ,/O janardhan/H yojana/H for/E the/E rich/E <url>/O …/O
+CMI 16.7  sharminda/H naa/H kar/H ,/O hot/E tu/H hai/H
+CMI 14.3  kyun/H ki/H unhe/H students/E ki/H leni/H thi/H ./O ./O
+CMI 47.8  <user>/O abhi/H bhi/H time/E hain/H parth/H baba/H shouldn't/E use/E slang/E n/E talk/E bad/E ./O ./O nor/E drink/E n/E smoke/E ./O ./O gadha/H kahinka/H 😒/O par/H dil/H ka/H accha/H hain/H 😖/O
+CMI 33.3  <user>/O ye/H ladki/H hamare/H saath/H divide/E and/E rule/E wala/H game/E khel/H ri/H hai/H <user>/O
+CMI 10.0  salman/E bhai/H ./O ./O ./O suna/H hai/H ap/H ko/H kamar/H k/H takleef/H hai/H ./O ./O allah/E ap/H ko/H jald/H sihat/H yab/H kare/H ./O ./O ameen/H suma/H ameen/H
+CMI  0.0  theek/H hai/H behen/H ./O ./O kal/H se/H <hashtag>/O karenge/H
+CMI 41.2  sir/E apne/H rastriya/H rojgar/H youjana/H me/H sms/E job/E ke/H liye/H news/E paper/E me/E add/E dya/H he/H kya/H ?/O ?/O ?/O
+CMI 10.5  agar/H aapko/H potty/E aaye/H aur/H aas/H -/O pas/H toilet/E na/H ho/H to/H kya/H karoge/H ?/O socho/H ,/O kyonki/H jahan/H soch/H wahin/H shauchalay/H ./O
+CMI  0.0  rt/O <user>/O :/O sab/H mile/H hue/H hain/H ji/H !/O !/O !/O <url>/O
+CMI  0.0  1/O %/O ladko/H ki/H wajah/H se/H 99/O %/O ladkiya/H badnam/H hoti/H hai/H
+CMI 11.1  shuru/H karo/H patriotic/E ban/H na/H "/O le/H kar/H <hashtag>/O ka/H naam/H
+CMI  0.0  <user>/O ye/H bahot/H hi/H alag/H dimesnion/H par/H chali/H gayi/H baat/H ,/O magar/H theek/H hai/H !/O
+CMI 35.3  <user>/O bas/H dhoni/H ko/H ek/H world/E cup/E ,/O ek/H ipl/E aur/H ek/H champions/E league/E trophy/E uthaye/H aur/H dekh/H lun/H
+CMI 37.5  plz/E ap/H prem/E patel/E ki/H help/E kijiye/H plzzzzz/E ./O
+CMI 15.0  ye/H raat/H aur/H ye/H doori/H tera/H milna/H ha/H zaroori/H ke/H dil/H mera/H ./O ./O ./O */O ding/E ting/E */O ke/H dil/H mera/H dhak/H dhak/H dole/E
+CMI  0.0  "/O <user>/O :/O rithvik/H aur/H asha/H ka/H havan/H khas/H mahashivratri/H par/H ./O ./O dekhiyega/H zarur/H sirf/H sbb/H me/H 2.30/O baje/H <url>/O "/O omg/O
+CMI 19.2  <user>/O ji/H please/E <user>/O se/H poochiye/H ki/H agar/H jents/H ki/H proof/E karna/H hoga/H ki/H usne/H <hashtag>/O nahi/H diya/H hai/H to/H phir/H case/E hi/H khatam/H ho/H jata/H hai/H ./O ./O ./O ?/O ?/O ?/O please/E ask/E ./O ./O ./O ./O ./O
+CMI 20.0  <user>/O ab/H bihar/E me/H aayegi/H bahaar/H <hashtag>/O
+CMI 12.5  <hashtag>/O bhaiya/H to/E get/E <hashtag>/O from/E women/E of/E haryana/E village/E
+CMI 25.0  maulvi/H be/E like/E :/O but/E ./O ./O lekin/H ./O ./O arey/H ./O ./O matlab/H ./O ./O ./O but/E ./O ./O ./O ye/H saare/H milke/H humko/H pagal/H bana/H rahe/H hai/H <hashtag>/O
+CMI 16.7  <user>/O <user>/O <user>/O no/E ./O ballay/H baaz/H kuch/H nhi/H karega/H
+CMI  0.0  <url>/O i/E just/E voted/E for/E 1/O st/E lady/E to/E be/E on/E coast/E 2/O coast/E mixtape/E 224/O hosted/E by/E kendrick/E lamar/E !/O <user>/O
+CMI  0.0  sauchalay/H bana/H lo/H ,/O zyada/H zaroorat/H hai/H <url>/O …/O
+CMI 25.0  congrats/E <user>/O behen/H log/H tumhara/H naam/H jaan/H gaye/H ./O kam/H se/H kam/H twitter/E par/E ./O
+CMI  0.0  <user>/O ye/H kal/H ho/H chuka/H hai/H <url>/O …/O
+CMI 12.5  20/O countries/E to/E attend/E iranplast/H 2012/O expo/E :/O tehran/E -/O the/E 8/O th/E edition/E of/E the/E iranplast/H exhibition/E will/E open/E on/E ./O ./O ./O <url>/O
+CMI  0.0  <user>/O <user>/O tu/H abrahamovic/H hai/H aaj/H pata/H chala/H ./O _/O //O \/O _/O
+CMI  0.0  <user>/O <user>/O <hashtag>/O nahi/H tha/H
+CMI 33.3  :/O last/E night/E mahashivratri/H rudrabhishek/H ./O ./O ./O ./O ./O kartikey/H maharaaj/H ./O ./O <url>/O
+CMI 11.1  <user>/O romance/E kaise/H hota/H hai/H ye/H main/H bhul/H chuka/H hu/H :/O '/O (/O <hashtag>/O :/O -/O */O */O
+CMI  0.0  ./O <user>/O <user>/O <user>/O so/H jaa/H bhai/H
+CMI  0.0  <user>/O bc/O holi/H ki/H yaad/H aa/H gayee/H ./O ./O hahaha/O
+CMI 16.7  <user>/O sir/E aapne/H iss/H layak/H samjha/H hume/H <user>/O <user>/O <user>/O <user>/O
+CMI 11.1  apne/H desh/H me/H <hashtag>/O kaha/H jana/H ./O ./O wo/H bhi/H advertise/E se/H samjana/H padta/H he/H ./O ./O ./O to/H <hashtag>/O ke/H benefits/E kese/H samjavo/H ge/H ./O
+CMI  5.3  q/O 3/O 0:54/O ./O eli/E manning/E pass/E intended/E for/E victor/E cruz/E intercepted/E by/E danny/E mccray/H at/E the/E dallas/E 35/O returned/E for/E no/E gain/E ./O 1/O st/E &/O amp/O
+CMI 16.7  <user>/O sir/E seedha/H khopdi/H phodte/H ho/H aap/H
+CMI 16.7  haan/H aunty/E ,/O kaam/H zyada/H hai/H aajkal/H
+CMI 40.0  <user>/O phir/H bhi/H saadhe/H 3/O ladkiyan/H !/O pakad/H unhe/H ./O look/E at/E the/E positives/E
+CMI  8.3  <user>/O there/E was/E no/E handshake/E abigayle/H ?/O also/E when/E i/E come/E in/E tomorrow/E i/E expect/E my/E new/E schuh/H tee/E you/E ordered/E to/E be/E there/E ./O ./O ./O good/E girl/E
+CMI  0.0  <user>/O gaur/H se/H dekhiye/H iss/H ladki/H ko/H
+CMI  0.0  <user>/O aur/H karo/H ungli/H
+CMI  0.0  tu/H apni/H biwi/H se/H bartan/H manjwata/H hai/H ?/O
+CMI 12.5  <user>/O jao/H pehle/H us/H aadmi/H ka/H sign/E lekar/H aao/H
+CMI 14.3  umpire/E log/H ko/H koi/H ye/H batao/H zara/H ki/H <hashtag>/O aur/H <hashtag>/O ka/H owner/E ek/H he/H hai/H
+CMI  0.0  kya/H baat/H kya/H baat/H kya/H hai/H ./O dats/H the/H sprit/H 😊/O <url>/O
+CMI 43.8  i/E love/E u/E salman/E vai/H ./O i/E like/E i/E so/E much/E ./O khuda/H hamesha/H apki/H saath/H rahegi/H vai/H ./O ./O
+CMI 22.2  thanks/E bhai/H bas/H pyar/H barkarar/H rahe/H ,/O subscribe/E kar/H lijiyega/H
+CMI 40.0  rt/O <user>/O :/O good/E afternoon/E bhaijaan/H 🙏/O jai/H ho/H <user>/O <url>/O
+CMI  0.0  <user>/O "/O meri/H uchaiyon/H pe/H pohochne/H ke/H liye/H bohot/H girna/H padega/H "/O :/O p/O
+CMI  0.0  tu/H ,/O tu/H hai/H wahi/H ./O ./O dil/H ne/H jise/H ./O ./O apna/H kaha/H ./O ./O
+CMI  0.0  assalamalikum/H ./O ./O ./O ./O ./O ap/H ki/H aesi/H jo/H aadhri/H dowaye/H hai/H jo/H ramzan/H k/H sadk/H puri/H ho/H jaye/H ./O ./O ./O ./O ./O ./O ./O ./O ./O ./O ./O ./O ./O ./O ramzaan/H mobarak/H
+CMI 18.8  ye/H deal/E bhi/H kya/H cheez/H hai/H !/O -/O aamir/H khan/E ye/H meal/E bhi/H kya/H cheez/H hai/H !/O -/O sonakshi/H sinha/H
+CMI 20.0  <user>/O abhi/H decide/E kiya/H ,/O dekhta/H hu/H ./O
+CMI 25.0  kaha/H ho/H ./O ./O ./O ./O aap/H salman/E
+CMI  0.0  han/H <hashtag>/O ki/H amma/H aaegi/H ./O ./O
+CMI 16.7  <user>/O zarurat/H se/H zyada/H rts/E mil/H gaye/H
+CMI 25.0  ./O <user>/O bharat/E mata/H ki/H jai/H
+CMI  0.0  <user>/O tu/H haan/H hi/H nahi/H bol/H rahi/H
+CMI  9.1  "/O viru/H :/O yaad/H hai/H jab/H 2003/O me/H aapke/H over/E me/H sachin/H ne/H 20/O runs/E maare/H the/H shoaib/H :/O aapko/H mera/H kuch/H acha/H bhi/H yaad/H hai/H "/O roflcopter/H <hashtag>/O
+CMI 40.0  pak/E ka/H movie/E flop/E hoji/H ?/O ?/O ?/O
+CMI 25.0  <user>/O ghar/H ki/H deewaro/H par/H lagaye/H jk/E wall/E putty/H
+CMI 20.0  <user>/O abhi/H phasa/H hua/H hai/H match/E <user>/O
+CMI 50.0  mumbai/E ghatiya/H team/E hai/H ./O
+CMI 14.3  <user>/O bhai/H 25/O jagah/H bol/H chuke/H ho/H same/E baat/H
+CMI  8.3  won/E the/E toss/E !/O elected/E to/E bat/E first/E ./O come/E on/E india/E jita/H do/E ./O ./O
+CMI 23.8  are/H beimano/H <hashtag>/O pe/H tumhi/H log/H pakistan/E ki/H tarah/H evidence/E mang/H rahe/H thena/H ?/O ?/O ?/O tumhara/H fake/E emotion/E sab/H hindustani/H jan/E chuke/H he/H ab/H !/O
+CMI 11.1  rt/O <user>/O :/O <user>/O <user>/O hattrick/H inshaallah/H #/O amplifiar/H #/O se/H bhi/H jaada/H hit/E hoga/H #/O inshaallah/H #/O
+CMI  0.0  <user>/O _/O //O \/O _/O shukriya/H bajaj/H ji/H
+CMI  0.0  <user>/O aaj/H hi/H kaate/H :/O (/O
+CMI 12.5  pakistan/E ki/H didi/H ,/O ghar/H ki/H na/H ghat/H ki/H <url>/O …/O
+CMI 33.3  bose/E ke/H speaker/E zyada/H achche/H hai/H <url>/O …/O
+CMI 25.0  <user>/O ladki/H dekhi/H nahi/H ki/H reply/E karna/H chalo/H ./O ./O leech/E <user>/O
+CMI  0.0  sorat/H mein/H chashma/H laga/H hai/H ./O <url>/O …/O
+CMI  8.3  not/E to/E be/E overlooked/E by/E sandy/E ,/O a/E summery/H mid/E -/O upper/E 70/O s/O with/E sunshine/E today/E in/E cny/H ./O record/E high/E of/E 79/O set/E in/E buffalo/E ./O more/E warmth/E friday/E !/O
+CMI  0.0  <user>/O <user>/O <user>/O yaar/H ladkiyan/H ye/H sab/H padhengi/H toh/H kya/H sochengi/H tumhare/H baare/H mein/H ./O main/H chala/H ./O :/O -/O d/O
+CMI 42.9  mr/E ./O pm/E ,/O great/E atmospahre/H to/H hoga/H hi/H ./O ./O ./O ./O
+CMI 16.7  aaj/H ki/H party/E mere/H taraf/H se/H ./O ./O
+CMI  8.7  language/E barriers/E ./O any/E species/E of/E the/E above/E mentioned/E group/E who/E can/E speak/E hindi/E passably/H well/E will/E have/E a/E very/E diverse/E friend/E circle/E @/O iitb/H ./O
+CMI 20.0  arre/H bohot/H hi/H umda/H bhaisahab/H ./O ./O haste/E haste/E pakaude/H lag/H gaye/H ./O ./O ./O :/O d/O
+CMI  0.0  <user>/O salmab/H ne/H tere/H baap/H ke/H upar/H gaadi/H chadayee/H hoti/H ./O tab/H bhi/H yehi/H bola/H ?/O
+CMI  0.0  <user>/O chhodiye/H jai/H mata/H di/H boliye/H
+CMI 20.0  ajab/H prem/E ki/H ghazab/H kahani/H <url>/O …/O
+CMI 28.6  <user>/O <user>/O lol/O ./O yahan/H aakar/H phir/H hair/E growth/E hui/H hai/H
+CMI 38.5  lingodbhava/H kaalam/H 12:30:12/O to/E 12:32:23/O say/E it/E loud/E om/E namah/H sivaya/H maha/H siva/H ratrhi/H jagaran/H <hashtag>/O
+CMI 14.3  naam/H hai/H <hashtag>/O "/O khelta/H hu/H runs/E ki/H holi/H 0/O
+CMI  0.0  <user>/O ye/H aapka/H badappan/H hai/H bhai/H :/O )/O hum/H to/H jeevan/H ki/H aapa/H -/O dhapi/H mein/H fanse/H hain/H ./O
+CMI  0.0  badi/H mushkil/H hai/H khoya/H tera/H dimaag/H hai/H ,/O koi/H usse/H dhund/H ke/H laaye/H na/H ./O <url>/O …/O
+CMI 33.3  sir/E ,/O <user>/O <user>/O <user>/O ek/H nazar/H
+CMI  0.0  <hashtag>/O ka/H toh/H <hashtag>/O chalo/H samajh/H me/H aata/H hai/H 0/O lekin/H ye/H <hashtag>/O wale/H kab/H se/H <hashtag>/O ke/H <hashtag>/O ho/H gaye/H 0/O
+CMI 12.5  itni/H charbi/H h/H fir/E b/O thand/H lagti/H h/H terko/H :/O //O
+CMI 11.1  sabhi/H trading/E karke/H bahot/H accha/H faida/H utha/H sakte/H hai/H ./O ./O ./O
+CMI 50.0  <user>/O green/E color/E ki/H haldi/H <user>/O
+CMI  0.0  ben/E amos/E is/E on/E the/E bench/E for/E the/E england/E u/E 21/O s/O ./O as/E they/E take/E on/E serbia/E in/E the/E 2/O nd/E leg/E of/E their/E play/E -/O off/E for/E the/E euros/E ./O
+CMI  5.0  ek/H ladki/H thi/H deewani/H si/H ,/O ek/H ladke/H pe/H woh/H marti/H thi/H ,/O nazre/H jhukake/H ,/O sharma/E ke/H paise/H kharch/H karaya/H karti/H thi/H <hashtag>/O <hashtag>/O
+CMI 12.5  <user>/O <user>/O yeh/H pun/E to/H raavan/H ke/H zamaaney/H ka/H hai/H ./O :/O d/O
+CMI  9.1  hamein/H aur/H jeene/H ki/H khwahish/H na/H hoti/H ,/O agar/H rum/E na/H hote/H ./O ./O ./O
+CMI 22.2  haha/O true/E ./O ./O ./O ./O wo/H 4/O games/E hi/E bar/E bar/E repeat/E hote/H the/E ./O ./O
+CMI 22.2  phone/E ka/H wallpaper/E dekhte/H dekhte/H zindagi/H kat/H rahi/H hai/H ./O
+CMI 17.4  rt/O <user>/O :/O modi/E ji/H ,/O aapne/H kisi/H aur/H ko/H exam/E likhne/H bheja/H hoga/H ./O syllabus/E se/H kuch/H sawaal/H mein/H poonchu/H toh/H ans/E de/H paaoge/H aap/H ?/O bolo/H bolo/H ./O ./O
+CMI  7.7  faisal/H bhai/H ./O ./O ./O ./O itna/H waqt/H kyu/H lagate/H ho/H apne/H fans/E se/H mukhatib/H hone/H mein/H ./O ./O
+CMI 20.0  duck/E hunt/E to/E kabhi/H paar/H nhi/H hui/H stage/E mujse/H ,/O sabse/H ho/H jati/H thi/H ,/O gussa/H aata/H tha/H us/H dogi/H k/H upar/H :/O (/O :/O (/O
+CMI  6.7  <user>/O tum/H to/H baat/H hi/H mat/H karo/H ./O ./O australia/E gayee/H aur/H kuch/H layee/H bhi/H nahi/H mere/H liye/H <user>/O
+CMI 11.5  observers/E from/E un/H ,/O eu/E ,/O cw/E ,/O send/E to/E coni/H ,/O according/E to/E this/E observers/E what/E the/E maldivian/H have/E seen/E live/E and/E on/E tvs/E on/E 7/O feb/E are/E day/E dream/E ,/O
+CMI  0.0  <user>/O <user>/O waah/H irshaad/H irshaad/H irshaad/H !/O !/O
+CMI 20.0  10/O game/E bhi/H badi/H mushkil/H se/H hoti/H thi/H ./O ./O ./O baki/H sab/H repeat/E ./O ./O ./O :/O d/O
+CMI 33.3  in/E "/O 1942/O call/E was/E karenge/H ya/H "/O marenge/H '/O <hashtag>/O it's/E karenge/H aur/H kar/H ke/H rahenge/H '/O :/O <hashtag>/O
+CMI 42.9  sankashti/H is/E the/H mini/E sunburn/H of/E maharashtra/E ./O
+CMI  0.0  dear/E <user>/O and/E <user>/O finally/E tomorrow/E dream/E high/E 2/O will/E be/E aired/E in/E my/E country/E ./O ./O ./O finally/E i/E can/E see/E you/E again/E ^/O ^/O miss/E u/E alot/E ~/O ~/O
+CMI  9.1  <user>/O main/H aur/H <user>/O aap/H se/H cheen/H ke/H apka/H khana/H khaein/H gein/H ./O guaranteed/E !/O
+CMI  0.0  <user>/O dimaag/H nahi/H hai/H chutiyo/H me/H
+CMI 37.5  jab/H car/E 40/O pe/H chalti/H hai/H ./O ./O police/E wale/H bolte/H hai/H seat/E belt/E lagai/H ./O ./O train/E to/E 100/O +/O daud/H rahi/H <user>/O
+CMI 12.5  mere/H whatsapp/E pe/H bhi/H aa/H chuka/H hai/H 2/O -/O 3/O baar/H lol/O
+CMI  0.0  <user>/O gareeb/H ka/H kya/H hai/H ./O ./O jo/H kisi/H ne/H pyaar/H se/H diya/H ./O le/H liya/H
+CMI  9.1  <user>/O hume/H aap/H pasand/H ho/H kyuki/H aap/H zameen/H se/H jude/E hue/H hai/H :/O )/O
+CMI 28.6  <user>/O na/H be/E ,/O family/E me/H sab/H dekhte/H hai/H
+CMI 42.1  rajnikanth's/H robot/E chitti/H goes/E to/H pankaj/H udhas's/H home/E ./O knock/E knock/E ./O who's/E there/E ?/O chitti/H ./O oh/E ./O chitti/H aayi/H hai/H ,/O aayi/H hai/H ./O ./O ./O <hashtag>/O
+CMI 50.0  changed/E the/E channel/E !/O !/O watching/E chhota/H bheem/H in/H pogo/H !/O !/O !/O <hashtag>/O
+CMI 16.7  <user>/O bol/H tune/H kaafi/H pi/E rakhi/H hai/H
+CMI 26.7  <user>/O landline/E number/E pe/H call/E karna/H aur/H ye/H puchna/H ghar/H pe/H ho/H kya/H ?/O <hashtag>/O point/E kya/H hai/H <user>/O
+CMI  0.0  kabhi/H to/H waqt/H pe/H aya/H kro/H salu/H miya/H ./O ./O ./O ./O ./O ./O ./O ./O ./O ./O
+CMI  8.3  <user>/O eys/H donet/H kidni/H donets/H krna/H <hashtag>/O y/E manvta/H ka/H ak/H ahm/H hisa/H h/H
+CMI 30.0  ek/H baar/H mere/H wrestling/E stickers/E chura/H liye/H the/H mere/H best/E friend/E ne/H ./O fir/E ek/H din/H uski/H book/E ke/H andar/H mile/H ./O ./O :/O p/O
+CMI  6.7  ye/H babar/H azam/H kaafi/H tej/H ladka/H hai/H ./O dekhna/H kitni/H teji/H se/H wapas/H pavilion/E jata/H hai/H ./O
+CMI 20.0  yar/H lalu/H -/O mulayam/H type/E logon/H se/H achha/H hai/H tum/H aap/H aur/H congress/E ko/H vote/E kardo/H <hashtag>/O
+CMI 22.2  bade/H log/H milkar/H ek/H kanya/H ke/H saath/H ./O ./O ./O patriarchy/E ./O damn/E ./O
+CMI  9.1  ek/H chakke/H par/H itni/H khushi/H ?/O tumhare/H paas/H toh/H 11/O hai/H team/E mein/H ./O
+CMI 33.3  prestige/E ki/H whistle/E bajaa/H di/H sir/E ne/H guddu/H ki/H :/O d/O :/O d/O
+CMI  0.0  <user>/O yaar/H anda/H ,/O tu/H itna/H ubla/H hua/H kyu/H hai/H ?/O
+CMI  9.1  tu/H batman/E ki/H aulaad/H hai/H na/H ?/O mar/H toh/H nahi/H gaya/H na/H ?/O
+CMI  7.1  <user>/O ye/H hain/H vicco/H turmeric/H ka/H kamaal/H ./O navratna/H tel/E ka/H jadoo/H aur/H vasmol/H ka/H vaada/H ./O
+CMI 25.0  "/O main/H kuch/H bhi/H dekh/H sakta/H hun/H bas/H teri/H ankhon/H main/H aansoo/H nahi/H "/O two/E girls/E one/E cup/E ?/O
+CMI  0.0  badh/H raha/H apraadh/H ban/H rahe/H hathyaar/H <hashtag>/O
+CMI 30.0  msg/E khud/H god/E hain/H ,/O par/H unke/H bhi/H ek/H lord/E hain/H <url>/O
+CMI 42.9  <user>/O "/O sir/E aapke/H <hashtag>/O ne/H mere/H khane/H ka/H bill/E lagbhag/H 10/O %/O badha/H diya/H "/O hai/H i/E deserve/E 10/O %/O salary/E hike/E also/E !/O what/E abt/E my/E salary/E hike/E ?/O ?/O
+CMI 50.0  <user>/O <user>/O yes/E please/E ,/O ek/H achhi/H wali/H banana/E ./O romantic/E si/H ./O
+CMI 16.7  <user>/O 2/O -/O 2/O diwali/H kismat/H waale/H hain/H bihar/E wale/H ./O ./O ./O ./O <hashtag>/O
+CMI  0.0  <user>/O 1/O -/O 2/O saal/H pehle/H maine/H hi/H bataya/H tha/H
+CMI  5.6  <user>/O yuhi/H kat/H jaayega/H safar/H sath/H tweetne/H se/H ,/O ki/H manzil/H aayegi/H nazar/H sath/H tweetne/H se/H ./O hum/H raahi/H twitter/E ke/H <user>/O <user>/O
+CMI 11.1  <user>/O bhai/H tere/H fake/E accouts/H bohot/H pareshaan/H kar/H rahe/H hai/H
+CMI  0.0  <user>/O bhai/H ye/H pehle/H ho/H chuka/H hai/H ./O
+CMI 27.8  sir/E <user>/O ye/H bewafai/H hai/H ./O rahul/E ji/H vacations/E par/H kya/H chale/H gaye/H aap/H unhe/H bhoolkar/H roger/E -/O roger/E karne/H lage/H ./O
+CMI 36.4  love/E u/E sir/E love/E u/E soo/E much/E urs/H i'ts/H beautyful/H vedio/H ./O ./O ./O
+CMI  0.0  <user>/O bhai/H maine/H khaye/H tune/H khaye/H ./O ./O ek/H hi/H baat/H hai/H
+CMI 17.6  aao/H behen/H apni/H selfie/E par/H apne/H toote/H dil/H ki/H daastaan/H par/H motivational/E bakwaas/H likh/H kar/H like/E batore/H ./O <url>/O …/O
+CMI 44.4  finally/E a/E gaga/E featuring/E luncher/H paaji/H ./O ./O ./O maza/H aa/H gaya/H ./O ./O ./O !/O !/O !/O
+CMI  0.0  <user>/O maine/H unka/H namak/H khaya/H hai/H
+CMI  0.0  <user>/O sirf/H ladiyon/H ko/H rt/O karna/H bandh/H kar/H pehle/H
+CMI 25.0  <user>/O sir/E chupe/H woh/H jisne/H dogala/H -/O pan/E kiya/H hai/H <user>/O
+CMI 25.0  <user>/O thanks/E jagjit/H ./O tera/H hi/H wait/E kar/H raha/H tha/H ./O
+CMI 33.3  dream/E :/O mere/H sapnon/H ka/H rajkumar/H aayega/H reality/E :/O pankajlal/H choube/H ,/O balrampur/H ,/O uttar/E pradesh/E
+CMI  0.0  kya/H hua/H ./O ./O ./O bhaijaan/H ./O ./O ./O ./O
+CMI 20.0  avitak/H 4/O pm/E hua/H nehi/H kya/H ?/O
+CMI 15.8  melody/E itni/H chocolaty/H kyon/H hai/H became/E bhaiya/H ,/O hum/H chloremint/H kyon/H khaate/H hai/H became/E katappa/H nay/H bahubali/H ko/H kyon/H maara/H ./O <hashtag>/O
+CMI 33.3  sir/E nawaz/E sharif/E ka/H phone/E hai/H <url>/O
+CMI 50.0  rt/O <user>/O :/O shikher/H well/E played/E 100/O not/E out/E ./O ./O gabbar/H abhi/H thokho/H ./O ./O ./O <hashtag>/O
+CMI  0.0  <user>/O aur/H mere/H paise/H tu/H dega/H kya/H ?/O ?/O <user>/O
+CMI  5.0  jabse/H <hashtag>/O aaya/H "/O hai/H sabne/H restaurant/E mei/H khana/H shuru/H kr/H diya/H kyu/H "/O behn/H ghar/H pe/H dal/H roti/H bhi/H nahi/H pakti/H tujhse/H ?/O
+CMI 25.0  <user>/O nahi/H bhai/H gujarat/E @/O bababakchod/H
+CMI 15.8  agar/H ne/H is/H class/E me/H hoti/H to/H kissi/H b/O boy/E ko/H top/E na/H karnr/H deti/H ./O ./O ./O isme/H b/O toper/H me/H hi/H hoti/H ./O ./O ./O ./O :/O d/O
+CMI 11.1  log/H roz/H rang/H badal/H k/H jite/H hai/H "/O aur/H holi/H k/H din/H inhe/H colour/E se/H allergy/E ho/H jati/H hai/H !/O
+CMI 27.3  ./O ./O ./O abhi/H aayega/H rukiye/H "/O <user>/O :/O once/E upon/E a/E time/E there/E was/E a/E hashtag/E <hashtag>/O "/O
+CMI 14.3  <user>/O hahaa/O ./O ./O lagta/H hai/H aaj/H 1/O hi/H peg/E liya/H hai/H

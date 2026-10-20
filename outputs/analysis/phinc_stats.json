@@ -1,0 +1,1652 @@
+{
+  "source": {
+    "sentences": 13399,
+    "tokens": 203772,
+    "word_tokens": 148449,
+    "vocabulary": 19514,
+    "type_token_ratio": 0.1314525527285465,
+    "singleton_type_share": 0.5644665368453418,
+    "length": {
+      "mean": 15.208000597059483,
+      "median": 14,
+      "max": 60,
+      "histogram": {
+        "1-4": 236,
+        "5-9": 3628,
+        "10-14": 3412,
+        "15-19": 2460,
+        "20-29": 2942,
+        "30-40": 688,
+        "41+": 33
+      }
+    },
+    "top_unigrams": [
+      [
+        "hai",
+        5957
+      ],
+      [
+        "to",
+        2123
+      ],
+      [
+        "nahi",
+        1876
+      ],
+      [
+        "ke",
+        1841
+      ],
+      [
+        "ki",
+        1823
+      ],
+      [
+        "bhi",
+        1744
+      ],
+      [
+        "se",
+        1520
+      ],
+      [
+        "ho",
+        1476
+      ],
+      [
+        "ka",
+        1382
+      ],
+      [
+        "bhai",
+        1354
+      ],
+      [
+        "ko",
+        1271
+      ],
+      [
+        "kya",
+        1104
+      ],
+      [
+        "ye",
+        1095
+      ],
+      [
+        "aur",
+        1092
+      ],
+      [
+        "me",
+        1090
+      ],
+      [
+        "the",
+        1075
+      ],
+      [
+        "hi",
+        1051
+      ],
+      [
+        "kar",
+        996
+      ],
+      [
+        "mein",
+        748
+      ],
+      [
+        "ek",
+        666
+      ],
+      [
+        "na",
+        593
+      ],
+      [
+        "is",
+        588
+      ],
+      [
+        "toh",
+        587
+      ],
+      [
+        "tha",
+        569
+      ],
+      [
+        "ab",
+        550
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "ke liye",
+        276
+      ],
+      [
+        "raha hai",
+        271
+      ],
+      [
+        "nahi hai",
+        201
+      ],
+      [
+        "hota hai",
+        143
+      ],
+      [
+        "hai kya",
+        128
+      ],
+      [
+        "rahe hai",
+        126
+      ],
+      [
+        "ho gaya",
+        126
+      ],
+      [
+        "bhi nahi",
+        120
+      ],
+      [
+        "rahi hai",
+        113
+      ],
+      [
+        "hai ye",
+        105
+      ],
+      [
+        "hai aur",
+        101
+      ],
+      [
+        "hai bhai",
+        100
+      ],
+      [
+        "lagta hai",
+        94
+      ],
+      [
+        "kar rahe",
+        89
+      ],
+      [
+        "rahe ho",
+        87
+      ],
+      [
+        "ke saath",
+        85
+      ],
+      [
+        "hi nahi",
+        81
+      ],
+      [
+        "kar raha",
+        78
+      ],
+      [
+        "kar diya",
+        78
+      ],
+      [
+        "modi ji",
+        77
+      ],
+      [
+        "ki baat",
+        77
+      ],
+      [
+        "ke baad",
+        73
+      ],
+      [
+        "kya hai",
+        71
+      ],
+      [
+        "hai to",
+        71
+      ],
+      [
+        "ko bhi",
+        69
+      ]
+    ]
+  },
+  "target": {
+    "sentences": 13399,
+    "tokens": 192759,
+    "word_tokens": 148662,
+    "vocabulary": 13982,
+    "type_token_ratio": 0.09405227966797164,
+    "singleton_type_share": 0.5475611500500643,
+    "length": {
+      "mean": 14.386073587581162,
+      "median": 13,
+      "max": 58,
+      "histogram": {
+        "1-4": 443,
+        "5-9": 3798,
+        "10-14": 3541,
+        "15-19": 2461,
+        "20-29": 2568,
+        "30-40": 559,
+        "41+": 29
+      }
+    },
+    "top_unigrams": [
+      [
+        "the",
+        4138
+      ],
+      [
+        "you",
+        3918
+      ],
+      [
+        "is",
+        3709
+      ],
+      [
+        "to",
+        3145
+      ],
+      [
+        "i",
+        2451
+      ],
+      [
+        "a",
+        2196
+      ],
+      [
+        "of",
+        2193
+      ],
+      [
+        "in",
+        2187
+      ],
+      [
+        "and",
+        1904
+      ],
+      [
+        "this",
+        1751
+      ],
+      [
+        "it",
+        1724
+      ],
+      [
+        "will",
+        1541
+      ],
+      [
+        "are",
+        1503
+      ],
+      [
+        "have",
+        1354
+      ],
+      [
+        "not",
+        1269
+      ],
+      [
+        "for",
+        1206
+      ],
+      [
+        "on",
+        1129
+      ],
+      [
+        "brother",
+        1015
+      ],
+      [
+        "do",
+        931
+      ],
+      [
+        "be",
+        922
+      ],
+      [
+        "that",
+        913
+      ],
+      [
+        "my",
+        894
+      ],
+      [
+        "me",
+        871
+      ],
+      [
+        "your",
+        857
+      ],
+      [
+        "what",
+        778
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "you are",
+        415
+      ],
+      [
+        "in the",
+        389
+      ],
+      [
+        "it is",
+        373
+      ],
+      [
+        "i am",
+        361
+      ],
+      [
+        "this is",
+        361
+      ],
+      [
+        "are you",
+        308
+      ],
+      [
+        "is the",
+        265
+      ],
+      [
+        "will be",
+        253
+      ],
+      [
+        "of the",
+        237
+      ],
+      [
+        "is a",
+        237
+      ],
+      [
+        "if you",
+        233
+      ],
+      [
+        "i have",
+        232
+      ],
+      [
+        "you have",
+        216
+      ],
+      [
+        "is not",
+        203
+      ],
+      [
+        "do you",
+        197
+      ],
+      [
+        "there is",
+        190
+      ],
+      [
+        "i will",
+        178
+      ],
+      [
+        "on the",
+        169
+      ],
+      [
+        "want to",
+        167
+      ],
+      [
+        "going to",
+        160
+      ],
+      [
+        "do not",
+        157
+      ],
+      [
+        "he is",
+        153
+      ],
+      [
+        "to be",
+        144
+      ],
+      [
+        "did you",
+        144
+      ],
+      [
+        "used to",
+        144
+      ]
+    ]
+  },
+  "source_oov_vs_english_dictionary": {
+    "token_rate": 0.4455334828796422,
+    "type_rate": 0.6596289843189505
+  },
+  "language_tags": {
+    "mean_all": 15.644985945071564,
+    "mean_mixed": 22.650153071638453,
+    "mixed_share": 0.6907231882976341,
+    "pooled": 28.48385640859824,
+    "mean_switch_points": 2.1641913575639973,
+    "tag_share": {
+      "hi": 0.5209989596215377,
+      "en": 0.20750642875370512,
+      "other": 0.2714946116247571
+    },
+    "dominant_language_share": {
+      "hi": 0.8482722591238152,
+      "en": 0.13060676169863422,
+      "tie": 0.020598552130756027,
+      "none": 0.0005224270467945369
+    }
+  },
+  "cmi_histogram": {
+    "0": 4144,
+    "0-10": 1473,
+    "10-20": 3352,
+    "20-30": 1871,
+    "30-40": 1619,
+    "40-50": 940
+  },
+  "ambiguous_word_share": 0.0724154423404671,
+  "spelling_variants": {
+    "hindi_types": 13117,
+    "strict": {
+      "groups_with_variants": 1385,
+      "types_in_variant_groups_share": 0.24540672409849812,
+      "tokens_in_variant_groups_share": 0.6076013752178213,
+      "mean_variants_per_group": 2.324187725631769,
+      "top_groups": [
+        {
+          "key": "hai",
+          "variants": [
+            [
+              "hai",
+              5957
+            ],
+            [
+              "hain",
+              497
+            ],
+            [
+              "haii",
+              3
+            ],
+            [
+              "haiii",
+              2
+            ],
+            [
+              "haiiiiiii",
+              1
+            ],
+            [
+              "haiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "nahi",
+          "variants": [
+            [
+              "nahi",
+              1876
+            ],
+            [
+              "nahin",
+              71
+            ],
+            [
+              "naahi",
+              10
+            ],
+            [
+              "nahiiiiinnn",
+              1
+            ],
+            [
+              "nahiiiiiiiiiiii",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "to",
+          "variants": [
+            [
+              "to",
+              1344
+            ],
+            [
+              "toh",
+              587
+            ]
+          ]
+        },
+        {
+          "key": "ke",
+          "variants": [
+            [
+              "ke",
+              1841
+            ],
+            [
+              "keh",
+              23
+            ]
+          ]
+        },
+        {
+          "key": "ki",
+          "variants": [
+            [
+              "ki",
+              1823
+            ],
+            [
+              "kii",
+              2
+            ],
+            [
+              "kki",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "bhi",
+          "variants": [
+            [
+              "bhi",
+              1744
+            ],
+            [
+              "bhii",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ka",
+          "variants": [
+            [
+              "ka",
+              1382
+            ],
+            [
+              "kaan",
+              11
+            ],
+            [
+              "kaa",
+              9
+            ],
+            [
+              "kah",
+              7
+            ]
+          ]
+        },
+        {
+          "key": "bhai",
+          "variants": [
+            [
+              "bhai",
+              1354
+            ],
+            [
+              "bhaii",
+              3
+            ],
+            [
+              "bhaai",
+              2
+            ],
+            [
+              "bhaiii",
+              2
+            ],
+            [
+              "bhaaaaiiiiii",
+              1
+            ],
+            [
+              "bhaaaiiiii",
+              1
+            ],
+            [
+              "bhaiiii",
+              1
+            ],
+            [
+              "bhaiiiii",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ye",
+          "variants": [
+            [
+              "ye",
+              1095
+            ],
+            [
+              "yeh",
+              205
+            ],
+            [
+              "yehh",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ko",
+          "variants": [
+            [
+              "ko",
+              1271
+            ],
+            [
+              "kon",
+              22
+            ]
+          ]
+        },
+        {
+          "key": "kya",
+          "variants": [
+            [
+              "kya",
+              1104
+            ],
+            [
+              "kyaa",
+              7
+            ],
+            [
+              "kyaaa",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "hi",
+          "variants": [
+            [
+              "hi",
+              1014
+            ],
+            [
+              "hii",
+              8
+            ],
+            [
+              "hee",
+              6
+            ],
+            [
+              "hiii",
+              4
+            ],
+            [
+              "hin",
+              2
+            ],
+            [
+              "heeee",
+              1
+            ],
+            [
+              "hiiiii",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "kar",
+          "variants": [
+            [
+              "kar",
+              996
+            ],
+            [
+              "kaar",
+              2
+            ],
+            [
+              "karr",
+              2
+            ],
+            [
+              "karrrrr",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "mei",
+          "variants": [
+            [
+              "mein",
+              748
+            ],
+            [
+              "mei",
+              28
+            ]
+          ]
+        },
+        {
+          "key": "na",
+          "variants": [
+            [
+              "na",
+              593
+            ],
+            [
+              "naa",
+              49
+            ],
+            [
+              "naah",
+              5
+            ],
+            [
+              "naan",
+              3
+            ],
+            [
+              "naaaa",
+              1
+            ],
+            [
+              "nahh",
+              1
+            ],
+            [
+              "naaa",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "tha",
+          "variants": [
+            [
+              "tha",
+              569
+            ],
+            [
+              "thaa",
+              10
+            ],
+            [
+              "thha",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "aj",
+          "variants": [
+            [
+              "aaj",
+              547
+            ],
+            [
+              "aj",
+              21
+            ],
+            [
+              "aaaj",
+              3
+            ],
+            [
+              "ajj",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ab",
+          "variants": [
+            [
+              "ab",
+              550
+            ],
+            [
+              "aab",
+              8
+            ],
+            [
+              "abb",
+              6
+            ]
+          ]
+        },
+        {
+          "key": "kuch",
+          "variants": [
+            [
+              "kuch",
+              500
+            ],
+            [
+              "kuchh",
+              51
+            ],
+            [
+              "kucch",
+              3
+            ],
+            [
+              "kuchhh",
+              1
+            ],
+            [
+              "kooch",
+              1
+            ],
+            [
+              "kucchh",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ap",
+          "variants": [
+            [
+              "aap",
+              496
+            ],
+            [
+              "ap",
+              51
+            ]
+          ]
+        }
+      ]
+    },
+    "loose": {
+      "groups_with_variants": 1952,
+      "types_in_variant_groups_share": 0.65258824426317,
+      "tokens_in_variant_groups_share": 0.6743371167522253,
+      "mean_variants_per_group": 4.385245901639344,
+      "top_groups": [
+        {
+          "key": "bh",
+          "variants": [
+            [
+              "bhi",
+              1744
+            ],
+            [
+              "bhai",
+              1354
+            ],
+            [
+              "bahu",
+              12
+            ],
+            [
+              "bahi",
+              8
+            ],
+            [
+              "beh",
+              4
+            ],
+            [
+              "bhau",
+              3
+            ],
+            [
+              "bhe",
+              3
+            ],
+            [
+              "bhu",
+              3
+            ]
+          ]
+        },
+        {
+          "key": "nh",
+          "variants": [
+            [
+              "nahi",
+              1876
+            ],
+            [
+              "nhi",
+              171
+            ],
+            [
+              "nehi",
+              13
+            ],
+            [
+              "naahi",
+              10
+            ],
+            [
+              "naha",
+              9
+            ],
+            [
+              "nh",
+              6
+            ],
+            [
+              "naah",
+              5
+            ],
+            [
+              "neha",
+              4
+            ]
+          ]
+        },
+        {
+          "key": "ky",
+          "variants": [
+            [
+              "kya",
+              1104
+            ],
+            [
+              "kiya",
+              300
+            ],
+            [
+              "kyu",
+              205
+            ],
+            [
+              "kiye",
+              35
+            ],
+            [
+              "kay",
+              18
+            ],
+            [
+              "kyo",
+              15
+            ],
+            [
+              "ky",
+              8
+            ],
+            [
+              "kaay",
+              8
+            ]
+          ]
+        },
+        {
+          "key": "th",
+          "variants": [
+            [
+              "toh",
+              587
+            ],
+            [
+              "tha",
+              569
+            ],
+            [
+              "the",
+              233
+            ],
+            [
+              "thi",
+              213
+            ],
+            [
+              "tho",
+              21
+            ],
+            [
+              "thaa",
+              10
+            ],
+            [
+              "thha",
+              2
+            ],
+            [
+              "thhe",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "kr",
+          "variants": [
+            [
+              "kar",
+              996
+            ],
+            [
+              "karo",
+              219
+            ],
+            [
+              "kr",
+              79
+            ],
+            [
+              "kare",
+              79
+            ],
+            [
+              "karu",
+              25
+            ],
+            [
+              "kara",
+              22
+            ],
+            [
+              "kro",
+              15
+            ],
+            [
+              "ker",
+              11
+            ]
+          ]
+        },
+        {
+          "key": "mn",
+          "variants": [
+            [
+              "mein",
+              748
+            ],
+            [
+              "main",
+              371
+            ],
+            [
+              "maine",
+              149
+            ],
+            [
+              "mana",
+              29
+            ],
+            [
+              "mann",
+              26
+            ],
+            [
+              "man",
+              24
+            ],
+            [
+              "maan",
+              19
+            ],
+            [
+              "mene",
+              14
+            ]
+          ]
+        },
+        {
+          "key": "rh",
+          "variants": [
+            [
+              "raha",
+              495
+            ],
+            [
+              "rahe",
+              357
+            ],
+            [
+              "rahi",
+              207
+            ],
+            [
+              "rha",
+              44
+            ],
+            [
+              "raho",
+              43
+            ],
+            [
+              "rhe",
+              37
+            ],
+            [
+              "reh",
+              25
+            ],
+            [
+              "rhi",
+              20
+            ]
+          ]
+        },
+        {
+          "key": "ar",
+          "variants": [
+            [
+              "aur",
+              1092
+            ],
+            [
+              "arre",
+              62
+            ],
+            [
+              "are",
+              36
+            ],
+            [
+              "aree",
+              6
+            ],
+            [
+              "aar",
+              2
+            ],
+            [
+              "aara",
+              2
+            ],
+            [
+              "aor",
+              1
+            ],
+            [
+              "auro",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "gy",
+          "variants": [
+            [
+              "gaya",
+              386
+            ],
+            [
+              "gaye",
+              249
+            ],
+            [
+              "gayi",
+              119
+            ],
+            [
+              "gayee",
+              78
+            ],
+            [
+              "gya",
+              71
+            ],
+            [
+              "gye",
+              26
+            ],
+            [
+              "gyi",
+              24
+            ],
+            [
+              "gy",
+              4
+            ]
+          ]
+        },
+        {
+          "key": "hn",
+          "variants": [
+            [
+              "hain",
+              497
+            ],
+            [
+              "haan",
+              156
+            ],
+            [
+              "hone",
+              71
+            ],
+            [
+              "hona",
+              48
+            ],
+            [
+              "hun",
+              47
+            ],
+            [
+              "hoon",
+              40
+            ],
+            [
+              "honi",
+              19
+            ],
+            [
+              "han",
+              18
+            ]
+          ]
+        },
+        {
+          "key": "mr",
+          "variants": [
+            [
+              "mere",
+              265
+            ],
+            [
+              "meri",
+              172
+            ],
+            [
+              "mera",
+              161
+            ],
+            [
+              "maar",
+              55
+            ],
+            [
+              "mar",
+              27
+            ],
+            [
+              "maare",
+              12
+            ],
+            [
+              "maaro",
+              9
+            ],
+            [
+              "maara",
+              7
+            ]
+          ]
+        },
+        {
+          "key": "ek",
+          "variants": [
+            [
+              "ek",
+              666
+            ],
+            [
+              "eeka",
+              2
+            ],
+            [
+              "eek",
+              1
+            ],
+            [
+              "eik",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "bt",
+          "variants": [
+            [
+              "baat",
+              363
+            ],
+            [
+              "beta",
+              63
+            ],
+            [
+              "bata",
+              58
+            ],
+            [
+              "batao",
+              42
+            ],
+            [
+              "beti",
+              39
+            ],
+            [
+              "bat",
+              36
+            ],
+            [
+              "bete",
+              15
+            ],
+            [
+              "baate",
+              13
+            ]
+          ]
+        },
+        {
+          "key": "ly",
+          "variants": [
+            [
+              "liye",
+              478
+            ],
+            [
+              "liya",
+              130
+            ],
+            [
+              "laya",
+              7
+            ],
+            [
+              "laaye",
+              6
+            ],
+            [
+              "lye",
+              5
+            ],
+            [
+              "layee",
+              5
+            ],
+            [
+              "laaya",
+              5
+            ],
+            [
+              "laye",
+              4
+            ]
+          ]
+        },
+        {
+          "key": "lg",
+          "variants": [
+            [
+              "log",
+              245
+            ],
+            [
+              "lag",
+              125
+            ],
+            [
+              "laga",
+              125
+            ],
+            [
+              "lagi",
+              40
+            ],
+            [
+              "lage",
+              40
+            ],
+            [
+              "lagao",
+              11
+            ],
+            [
+              "lega",
+              8
+            ],
+            [
+              "lga",
+              8
+            ]
+          ]
+        },
+        {
+          "key": "ab",
+          "variants": [
+            [
+              "ab",
+              550
+            ],
+            [
+              "abe",
+              37
+            ],
+            [
+              "abi",
+              13
+            ],
+            [
+              "aab",
+              8
+            ],
+            [
+              "abb",
+              6
+            ],
+            [
+              "aub",
+              2
+            ],
+            [
+              "abbe",
+              2
+            ],
+            [
+              "abbu",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "aj",
+          "variants": [
+            [
+              "aaj",
+              547
+            ],
+            [
+              "aaja",
+              33
+            ],
+            [
+              "aj",
+              21
+            ],
+            [
+              "aajao",
+              5
+            ],
+            [
+              "ajao",
+              3
+            ],
+            [
+              "aaaj",
+              3
+            ],
+            [
+              "ajji",
+              2
+            ],
+            [
+              "ajj",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "pr",
+          "variants": [
+            [
+              "par",
+              433
+            ],
+            [
+              "puri",
+              32
+            ],
+            [
+              "pura",
+              30
+            ],
+            [
+              "poora",
+              26
+            ],
+            [
+              "poori",
+              22
+            ],
+            [
+              "poore",
+              17
+            ],
+            [
+              "paar",
+              15
+            ],
+            [
+              "pure",
+              14
+            ]
+          ]
+        },
+        {
+          "key": "kch",
+          "variants": [
+            [
+              "kuch",
+              500
+            ],
+            [
+              "kuchh",
+              51
+            ],
+            [
+              "kachua",
+              14
+            ],
+            [
+              "kachhua",
+              7
+            ],
+            [
+              "kucch",
+              3
+            ],
+            [
+              "kuchhh",
+              1
+            ],
+            [
+              "kucho",
+              1
+            ],
+            [
+              "kachue",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ht",
+          "variants": [
+            [
+              "hota",
+              290
+            ],
+            [
+              "hoti",
+              149
+            ],
+            [
+              "hote",
+              112
+            ],
+            [
+              "hata",
+              7
+            ],
+            [
+              "hatt",
+              4
+            ],
+            [
+              "haat",
+              3
+            ],
+            [
+              "hatto",
+              2
+            ],
+            [
+              "htt",
+              2
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "unseen_in_train": {
+    "val": {
+      "token_rate": 0.06486275275959753,
+      "type_rate": 0.2617801047120419,
+      "sentences_with_unseen_share": 0.5272591486183719
+    },
+    "test": {
+      "token_rate": 0.06808220512321028,
+      "type_rate": 0.2702813719449579,
+      "sentences_with_unseen_share": 0.5331841909023117
+    }
+  }
+}

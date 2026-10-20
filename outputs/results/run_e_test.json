@@ -1,0 +1,46 @@
+{
+  "run": "run_e",
+  "split": "test",
+  "beam": 4,
+  "checkpoint_epoch": 32,
+  "checkpoint_val_chrf_greedy": 48.81533571762225,
+  "parameters": 5802049,
+  "vocabulary": 8000,
+  "config": {
+    "name": "run_e",
+    "train": "data/processed/phinc_train.tsv",
+    "val": "data/processed/phinc_val.tsv",
+    "tokeniser": "bpe",
+    "init_from": "pretrain_noisy_copy",
+    "emb_dim": 256,
+    "hidden_dim": 256,
+    "layers": 2,
+    "dropout": 0.3,
+    "copy": true,
+    "lr": 0.0002,
+    "clip": 1.0,
+    "label_smoothing": 0.1,
+    "max_tokens": 2000,
+    "max_len": 100,
+    "max_epochs": 60,
+    "patience": 5,
+    "seed": 42,
+    "train_limit": null
+  },
+  "sentences": 1341,
+  "masked": {
+    "chrf": 51.59402104242534,
+    "bleu4": 35.44441463693487,
+    "bleu1": 59.87598443016205
+  },
+  "restored": {
+    "chrf": 56.99000890050673,
+    "bleu4": 36.71843885818333,
+    "bleu1": 60.312931841483504
+  },
+  "signatures": {
+    "chrf": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+    "bleu4": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "bleu1": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0"
+  }
+}

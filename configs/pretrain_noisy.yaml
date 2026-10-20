@@ -1,0 +1,9 @@
+# Pre-training on synthetic Hinglish (noisy spelling). Start point for the fine-tuned run.
+name: pretrain_noisy
+tokeniser: bpe
+train: data/processed/synth_noisy.tsv
+val: data/processed/synth_noisy_val.tsv
+lr: 0.001
+max_tokens: 4000
+max_epochs: 10
+patience: 3

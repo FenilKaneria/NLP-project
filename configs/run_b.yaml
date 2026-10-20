@@ -1,0 +1,7 @@
+# Run B: PHINC only, BPE vocabulary.
+name: run_b
+tokeniser: bpe
+train: data/processed/phinc_train.tsv
+val: data/processed/phinc_val.tsv
+lr: 0.001
+max_tokens: 2000

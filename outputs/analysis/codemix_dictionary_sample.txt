@@ -1,0 +1,200 @@
+राष्ट्रपति	president	6788
+सरकार	government	4795
+देश	country	4183
+समय	time	4139
+भारतीय	indian	4111
+विकास	development	3719
+वर्ष	year, years	3420
+राज्य	state	3360
+जीवन	life	3127
+राष्ट्रीय	national	2970
+लोगों	people	2892
+अधिनियम	act	2862
+दिन	day, days	2859
+श्री	shri	2646
+क्षेत्र	area, sector	2601
+नई	new	2549
+शिक्षा	education	2544
+विभिन्न	various, different	2534
+आज	today	2408
+योजना	scheme, plan	2220
+प्रक्रिया	process, procedure	2081
+आर्थिक	economic	1812
+उच्च	high, higher	1802
+विश्व	world	1775
+भवन	bhavan, rashtrapati	1758
+व्यक्ति	person	1741
+धारा	section	1730
+सेवा	service	1714
+सामाजिक	social	1682
+लोग	people	1666
+बैंक	bank	1649
+कृषि	agriculture, agricultural	1628
+अवसर	occasion, opportunity	1607
+आय	income, tax	1552
+सूचना	information	1530
+काम	work	1527
+दिल्ली	delhi	1499
+महत्वपूर्ण	important	1462
+समाज	society	1459
+प्रौद्योगिकी	technology	1452
+नए	new	1432
+अलग	different, separate	1430
+पानी	water	1429
+साल	years, year	1424
+संख्या	number	1424
+नीति	policy	1415
+वर्षों	years	1399
+देशों	countries	1395
+स्वास्थ्य	health	1380
+सामान्य	general, normal, common	1377
+सहायता	help, assistance	1369
+घर	home, house	1360
+कंपनी	company	1351
+भाषा	language	1346
+अनुसंधान	research	1345
+उद्योग	industry	1344
+शरीर	body	1324
+कार्य	work	1322
+उपलब्ध	available	1301
+प्रधानमंत्री	prime, minister	1292
+उपयोग	use	1284
+विशेष	special	1284
+न्यायालय	court	1283
+अर्थ	means, meaning	1274
+दुनिया	world	1266
+व्यापार	trade, business	1245
+सुरक्षा	security, safety	1233
+मुख्य	main, chief	1218
+बच्चों	children	1205
+विश्वविद्यालय	university	1185
+उत्पादन	production	1182
+जनता	people	1178
+ज्ञान	knowledge	1178
+वेबसाइट	website	1176
+संबंधित	related, relating	1173
+प्रशिक्षण	training	1154
+सदस्य	member, members	1152
+कार्यक्रम	programme	1150
+मुखर्जी	mukherjee, pranab	1140
+जल	water	1135
+सूची	list	1132
+स्तर	level	1122
+परियोजना	project	1120
+वित्तीय	financial	1120
+मानव	human	1113
+इतिहास	history	1109
+मंत्रालय	ministry	1105
+ऊर्जा	energy	1105
+स्थिति	position, situation	1104
+विभाग	department	1102
+ऋण	loan, credit	1100
+विज्ञान	science	1096
+प्रतिशत	cent	1095
+परिवार	family	1090
+आधारित	based	1090
+अधिकार	right, rights	1078
+कांग्रेस	congress	1076
+परिवर्तन	change, changes	1074
+बाद	later	1069
+क्षेत्रों	areas	1064
+प्रणब	pranab, mukherjee	1056
+लाख	lakh, million	1054
+बाहरी	external	1052
+वास्तव	actually, really, fact	1042
+प्रदेश	pradesh	1041
+समिति	committee	1029
+स्थानीय	local	1027
+प्रबंधन	management	1012
+बाजार	market	1009
+समूह	group	1001
+चाहते	want	998
+सार्वजनिक	public	997
+खुलती	opens, window	997
+राज्यों	states	996
+विंडों	window, opens	993
+दर	rate	990
+विदेशी	foreign	987
+सिंह	singh	981
+नियंत्रण	control	967
+फ़ाइल	file	962
+संविधान	constitution	960
+भूमिका	role	947
+स्थान	place	944
+संदेश	message	939
+बंगाल	bengal	939
+सदस्यों	members	936
+अवधि	period	930
+दक्षिण	south	915
+मदद	help	909
+ग्रामीण	rural	906
+प्रयोग	use	901
+आवश्यक	necessary, required	900
+स्वतंत्रता	freedom, independence	897
+अध्ययन	study, studies	894
+निर्माण	building, construction	889
+मंदिर	temple	889
+हाथ	hand, hands	875
+जानकारी	information	874
+बच्चे	child, children	872
+पता	know, address	872
+मंत्री	minister	871
+वर्तमान	present, current	871
+आधुनिक	modern	869
+शक्ति	power	864
+प्रगति	progress	864
+निवेश	investment	854
+प्रकृति	nature	854
+समस्या	problem	849
+देखा	seen, saw	849
+औद्योगिक	industrial	842
+छोटे	small	842
+विकसित	developed, develop	841
+यात्रा	visit, journey	837
+राजा	king, raja	834
+आधार	basis	827
+मामलों	cases, matters	824
+मूल्य	value	823
+शब्द	word, words	822
+संसद	parliament	821
+संस्कृति	culture	817
+प्रेम	love	814
+दिया	given	812
+राजनीतिक	political	810
+स्कूल	school	808
+गांधी	gandhi	803
+कुल	total	799
+सेवाओं	services	799
+निर्यात	export, exports	797
+राष्ट्र	nation	782
+साहित्य	literature	781
+सरकारी	government	778
+एक्स	x	778
+सही	right, true	777
+गुणवत्ता	quality	770
+दिवस	day	767
+भूमि	land	767
+भविष्य	future	762
+क्षमता	capacity	761
+नया	new	759
+विवरण	details, description	754
+बराबर	equal	754
+जन्म	birth, born	749
+राम	ram, rama	740
+प्रकार	type	739
+पुरस्कार	awards, award	736
+कंप्यूटर	computer	736
+बेहतर	better	735
+कला	art	734
+वृद्धि	growth, increase	731
+केंद्रीय	central	728
+दिनों	days	727
+विधि	law, method	726
+किसानों	farmers	723
+लोक	public, folk	723
+अधिकारी	officer	722
+स्थापित	established, set	720
+रंग	color, colour	720
+धार्मिक	religious	716
+पुलिस	police	713
+बार	times	710

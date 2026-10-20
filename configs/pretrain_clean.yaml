@@ -1,0 +1,9 @@
+# Pre-training on synthetic Hinglish (clean spelling). Start point for the fine-tuned run.
+name: pretrain_clean
+tokeniser: bpe
+train: data/processed/synth_clean.tsv
+val: data/processed/synth_clean_val.tsv
+lr: 0.001
+max_tokens: 4000
+max_epochs: 10
+patience: 3

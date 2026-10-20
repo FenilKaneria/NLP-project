@@ -1,0 +1,1400 @@
+{
+  "source": {
+    "sentences": 13399,
+    "tokens": 251309,
+    "word_tokens": 222722,
+    "vocabulary": 22582,
+    "type_token_ratio": 0.10139097170463628,
+    "singleton_type_share": 0.5623948277389071,
+    "length": {
+      "mean": 18.75580267184118,
+      "median": 17,
+      "max": 62,
+      "histogram": {
+        "1-4": 0,
+        "5-9": 2249,
+        "10-14": 3214,
+        "15-19": 2626,
+        "20-29": 3239,
+        "30-40": 1760,
+        "41+": 311
+      }
+    },
+    "top_unigrams": [
+      [
+        "ke",
+        9822
+      ],
+      [
+        "hai",
+        7315
+      ],
+      [
+        "ki",
+        7003
+      ],
+      [
+        "mein",
+        6491
+      ],
+      [
+        "aur",
+        4693
+      ],
+      [
+        "se",
+        3765
+      ],
+      [
+        "ka",
+        3626
+      ],
+      [
+        "ko",
+        3545
+      ],
+      [
+        "hain",
+        2525
+      ],
+      [
+        "liye",
+        2246
+      ],
+      [
+        "ek",
+        2215
+      ],
+      [
+        "par",
+        2087
+      ],
+      [
+        "ye",
+        1703
+      ],
+      [
+        "nahi",
+        1451
+      ],
+      [
+        "bhi",
+        1388
+      ],
+      [
+        "is",
+        1294
+      ],
+      [
+        "kiya",
+        1251
+      ],
+      [
+        "wo",
+        1165
+      ],
+      [
+        "ne",
+        1126
+      ],
+      [
+        "karne",
+        1125
+      ],
+      [
+        "ho",
+        1108
+      ],
+      [
+        "jo",
+        1093
+      ],
+      [
+        "kar",
+        988
+      ],
+      [
+        "hi",
+        959
+      ],
+      [
+        "tha",
+        933
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "ke liye",
+        2067
+      ],
+      [
+        "hai ki",
+        544
+      ],
+      [
+        "jata hai",
+        503
+      ],
+      [
+        "ke saath",
+        462
+      ],
+      [
+        "karne ke",
+        452
+      ],
+      [
+        "hai aur",
+        414
+      ],
+      [
+        "hota hai",
+        409
+      ],
+      [
+        "roop mein",
+        341
+      ],
+      [
+        "sakta hai",
+        326
+      ],
+      [
+        "gaya hai",
+        286
+      ],
+      [
+        "ke roop",
+        279
+      ],
+      [
+        "karta hai",
+        272
+      ],
+      [
+        "kiya gaya",
+        264
+      ],
+      [
+        "roop se",
+        259
+      ],
+      [
+        "nahi hai",
+        232
+      ],
+      [
+        "hoti hai",
+        222
+      ],
+      [
+        "hai jo",
+        214
+      ],
+      [
+        "bharat ke",
+        208
+      ],
+      [
+        "karte hain",
+        199
+      ],
+      [
+        "sakte hain",
+        199
+      ],
+      [
+        "bare mein",
+        195
+      ],
+      [
+        "raha hai",
+        193
+      ],
+      [
+        "kiya jata",
+        186
+      ],
+      [
+        "ja sakta",
+        186
+      ],
+      [
+        "hote hain",
+        179
+      ]
+    ]
+  },
+  "target": {
+    "sentences": 13399,
+    "tokens": 237389,
+    "word_tokens": 205858,
+    "vocabulary": 21138,
+    "type_token_ratio": 0.10268243157904963,
+    "singleton_type_share": 0.5192071151480746,
+    "length": {
+      "mean": 17.71691917307262,
+      "median": 16,
+      "max": 58,
+      "histogram": {
+        "1-4": 4,
+        "5-9": 2636,
+        "10-14": 3375,
+        "15-19": 2585,
+        "20-29": 3128,
+        "30-40": 1454,
+        "41+": 217
+      }
+    },
+    "top_unigrams": [
+      [
+        "the",
+        14450
+      ],
+      [
+        "of",
+        8982
+      ],
+      [
+        "and",
+        6032
+      ],
+      [
+        "to",
+        5385
+      ],
+      [
+        "in",
+        4811
+      ],
+      [
+        "a",
+        4242
+      ],
+      [
+        "is",
+        3203
+      ],
+      [
+        "for",
+        2179
+      ],
+      [
+        "that",
+        1761
+      ],
+      [
+        "it",
+        1455
+      ],
+      [
+        "on",
+        1436
+      ],
+      [
+        "this",
+        1342
+      ],
+      [
+        "be",
+        1330
+      ],
+      [
+        "was",
+        1320
+      ],
+      [
+        "are",
+        1294
+      ],
+      [
+        "by",
+        1279
+      ],
+      [
+        "as",
+        1248
+      ],
+      [
+        "with",
+        1160
+      ],
+      [
+        "or",
+        1053
+      ],
+      [
+        "he",
+        967
+      ],
+      [
+        "not",
+        960
+      ],
+      [
+        "his",
+        880
+      ],
+      [
+        "have",
+        876
+      ],
+      [
+        "from",
+        870
+      ],
+      [
+        "which",
+        859
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "of the",
+        2144
+      ],
+      [
+        "in the",
+        1344
+      ],
+      [
+        "to the",
+        747
+      ],
+      [
+        "on the",
+        491
+      ],
+      [
+        "for the",
+        432
+      ],
+      [
+        "and the",
+        430
+      ],
+      [
+        "is a",
+        377
+      ],
+      [
+        "it is",
+        369
+      ],
+      [
+        "to be",
+        369
+      ],
+      [
+        "by the",
+        360
+      ],
+      [
+        "with the",
+        281
+      ],
+      [
+        "of a",
+        274
+      ],
+      [
+        "is the",
+        261
+      ],
+      [
+        "in a",
+        245
+      ],
+      [
+        "of india",
+        240
+      ],
+      [
+        "from the",
+        234
+      ],
+      [
+        "has been",
+        220
+      ],
+      [
+        "that the",
+        206
+      ],
+      [
+        "at the",
+        205
+      ],
+      [
+        "as a",
+        190
+      ],
+      [
+        "the president",
+        174
+      ],
+      [
+        "which is",
+        159
+      ],
+      [
+        "this is",
+        158
+      ],
+      [
+        "there is",
+        155
+      ],
+      [
+        "it was",
+        149
+      ]
+    ]
+  },
+  "source_oov_vs_english_dictionary": {
+    "token_rate": 0.6553236770503138,
+    "type_rate": 0.956071207156142
+  },
+  "language_tags": {
+    "mean_all": 3.2186958310696983,
+    "mean_mixed": 8.940154527467431,
+    "mixed_share": 0.3600268676766923,
+    "pooled": 3.184238647282267,
+    "mean_switch_points": 0.9163370400776177,
+    "tag_share": {
+      "hi": 0.8580273686974998,
+      "en": 0.028220238829488795,
+      "other": 0.11375239247301132
+    },
+    "dominant_language_share": {
+      "hi": 0.9987312486006419,
+      "en": 0.0002985297410254497,
+      "tie": 0.0002985297410254497,
+      "none": 0.0006716919173072617
+    }
+  },
+  "cmi_histogram": {
+    "0": 8575,
+    "0-10": 3405,
+    "10-20": 1231,
+    "20-30": 132,
+    "30-40": 47,
+    "40-50": 9
+  },
+  "ambiguous_word_share": 0.04414471852803046,
+  "spelling_variants": {
+    "hindi_types": 21746,
+    "strict": {
+      "groups_with_variants": 718,
+      "types_in_variant_groups_share": 0.06888623195070358,
+      "tokens_in_variant_groups_share": 0.3297407596345592,
+      "mean_variants_per_group": 2.086350974930362,
+      "top_groups": [
+        {
+          "key": "hai",
+          "variants": [
+            [
+              "hai",
+              7315
+            ],
+            [
+              "hain",
+              2525
+            ],
+            [
+              "haih",
+              35
+            ]
+          ]
+        },
+        {
+          "key": "ki",
+          "variants": [
+            [
+              "ki",
+              7003
+            ],
+            [
+              "kih",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "aur",
+          "variants": [
+            [
+              "aur",
+              4693
+            ],
+            [
+              "aaur",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ka",
+          "variants": [
+            [
+              "ka",
+              3626
+            ],
+            [
+              "kah",
+              45
+            ],
+            [
+              "kaan",
+              9
+            ]
+          ]
+        },
+        {
+          "key": "ko",
+          "variants": [
+            [
+              "ko",
+              3545
+            ],
+            [
+              "kon",
+              6
+            ]
+          ]
+        },
+        {
+          "key": "liye",
+          "variants": [
+            [
+              "liye",
+              2246
+            ],
+            [
+              "liyeh",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "par",
+          "variants": [
+            [
+              "par",
+              2084
+            ],
+            [
+              "paar",
+              26
+            ]
+          ]
+        },
+        {
+          "key": "bhi",
+          "variants": [
+            [
+              "bhi",
+              1388
+            ],
+            [
+              "bhinn",
+              53
+            ]
+          ]
+        },
+        {
+          "key": "is",
+          "variants": [
+            [
+              "is",
+              1274
+            ],
+            [
+              "ees",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "jo",
+          "variants": [
+            [
+              "jo",
+              1093
+            ],
+            [
+              "joh",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "kar",
+          "variants": [
+            [
+              "kar",
+              988
+            ],
+            [
+              "kaar",
+              10
+            ]
+          ]
+        },
+        {
+          "key": "hi",
+          "variants": [
+            [
+              "hi",
+              958
+            ],
+            [
+              "heen",
+              6
+            ],
+            [
+              "heeh",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "tha",
+          "variants": [
+            [
+              "tha",
+              933
+            ],
+            [
+              "thaah",
+              3
+            ],
+            [
+              "thaan",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "gaya",
+          "variants": [
+            [
+              "gaya",
+              815
+            ],
+            [
+              "gayan",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "to",
+          "variants": [
+            [
+              "to",
+              781
+            ],
+            [
+              "toh",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "apne",
+          "variants": [
+            [
+              "apne",
+              684
+            ],
+            [
+              "aapne",
+              23
+            ]
+          ]
+        },
+        {
+          "key": "rup",
+          "variants": [
+            [
+              "roop",
+              653
+            ],
+            [
+              "rup",
+              42
+            ]
+          ]
+        },
+        {
+          "key": "sath",
+          "variants": [
+            [
+              "saath",
+              663
+            ],
+            [
+              "sath",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "kuch",
+          "variants": [
+            [
+              "kuch",
+              545
+            ],
+            [
+              "kooch",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "thi",
+          "variants": [
+            [
+              "thi",
+              466
+            ],
+            [
+              "theen",
+              74
+            ],
+            [
+              "theeh",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    "loose": {
+      "groups_with_variants": 3066,
+      "types_in_variant_groups_share": 0.4577853398326129,
+      "tokens_in_variant_groups_share": 0.5889115614710384,
+      "mean_variants_per_group": 3.2469015003261577,
+      "top_groups": [
+        {
+          "key": "mn",
+          "variants": [
+            [
+              "mein",
+              6491
+            ],
+            [
+              "main",
+              440
+            ],
+            [
+              "mainne",
+              104
+            ],
+            [
+              "man",
+              57
+            ],
+            [
+              "mana",
+              55
+            ],
+            [
+              "maan",
+              37
+            ],
+            [
+              "manna",
+              14
+            ],
+            [
+              "maine",
+              9
+            ]
+          ]
+        },
+        {
+          "key": "ar",
+          "variants": [
+            [
+              "aur",
+              4693
+            ],
+            [
+              "aar",
+              31
+            ],
+            [
+              "are",
+              3
+            ],
+            [
+              "aaur",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "hn",
+          "variants": [
+            [
+              "hain",
+              2525
+            ],
+            [
+              "hone",
+              274
+            ],
+            [
+              "hoon",
+              253
+            ],
+            [
+              "hona",
+              115
+            ],
+            [
+              "honi",
+              27
+            ],
+            [
+              "haan",
+              24
+            ],
+            [
+              "hani",
+              20
+            ],
+            [
+              "heen",
+              6
+            ]
+          ]
+        },
+        {
+          "key": "ly",
+          "variants": [
+            [
+              "liye",
+              2246
+            ],
+            [
+              "liya",
+              168
+            ],
+            [
+              "laya",
+              17
+            ],
+            [
+              "laye",
+              13
+            ],
+            [
+              "layi",
+              3
+            ],
+            [
+              "layau",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "pr",
+          "variants": [
+            [
+              "par",
+              2084
+            ],
+            [
+              "puri",
+              109
+            ],
+            [
+              "pura",
+              87
+            ],
+            [
+              "pure",
+              61
+            ],
+            [
+              "paar",
+              26
+            ],
+            [
+              "pare",
+              12
+            ],
+            [
+              "pra",
+              4
+            ],
+            [
+              "pari",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "ky",
+          "variants": [
+            [
+              "kiya",
+              1251
+            ],
+            [
+              "kya",
+              278
+            ],
+            [
+              "kiye",
+              270
+            ],
+            [
+              "kayi",
+              150
+            ],
+            [
+              "kyu",
+              3
+            ],
+            [
+              "kiyi",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "th",
+          "variants": [
+            [
+              "tha",
+              933
+            ],
+            [
+              "the",
+              501
+            ],
+            [
+              "thi",
+              466
+            ],
+            [
+              "tah",
+              3
+            ],
+            [
+              "tihai",
+              3
+            ],
+            [
+              "toh",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "krn",
+          "variants": [
+            [
+              "karne",
+              1125
+            ],
+            [
+              "karna",
+              427
+            ],
+            [
+              "karein",
+              237
+            ],
+            [
+              "karni",
+              37
+            ],
+            [
+              "karane",
+              19
+            ],
+            [
+              "karana",
+              10
+            ],
+            [
+              "kuran",
+              8
+            ],
+            [
+              "korona",
+              8
+            ]
+          ]
+        },
+        {
+          "key": "is",
+          "variants": [
+            [
+              "is",
+              1274
+            ],
+            [
+              "ise",
+              182
+            ],
+            [
+              "isse",
+              114
+            ],
+            [
+              "isi",
+              89
+            ],
+            [
+              "isai",
+              8
+            ]
+          ]
+        },
+        {
+          "key": "gy",
+          "variants": [
+            [
+              "gaya",
+              815
+            ],
+            [
+              "gayi",
+              432
+            ],
+            [
+              "gaye",
+              368
+            ],
+            [
+              "gaay",
+              10
+            ]
+          ]
+        },
+        {
+          "key": "nh",
+          "variants": [
+            [
+              "nahi",
+              1451
+            ],
+            [
+              "nooh",
+              1
+            ],
+            [
+              "naha",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "bh",
+          "variants": [
+            [
+              "bhi",
+              1388
+            ],
+            [
+              "bhai",
+              26
+            ],
+            [
+              "bahu",
+              10
+            ],
+            [
+              "bhu",
+              7
+            ],
+            [
+              "bahi",
+              5
+            ],
+            [
+              "bha",
+              3
+            ],
+            [
+              "baha",
+              2
+            ],
+            [
+              "bhiu",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "ht",
+          "variants": [
+            [
+              "hota",
+              510
+            ],
+            [
+              "hoti",
+              316
+            ],
+            [
+              "hote",
+              245
+            ],
+            [
+              "hetu",
+              113
+            ],
+            [
+              "hata",
+              6
+            ],
+            [
+              "hatai",
+              2
+            ],
+            [
+              "hatti",
+              2
+            ],
+            [
+              "hait",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "apn",
+          "variants": [
+            [
+              "apne",
+              684
+            ],
+            [
+              "apni",
+              359
+            ],
+            [
+              "apna",
+              109
+            ],
+            [
+              "aapne",
+              23
+            ],
+            [
+              "apnai",
+              8
+            ],
+            [
+              "aapni",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "kr",
+          "variants": [
+            [
+              "kar",
+              988
+            ],
+            [
+              "kare",
+              39
+            ],
+            [
+              "karo",
+              33
+            ],
+            [
+              "kori",
+              20
+            ],
+            [
+              "karai",
+              10
+            ],
+            [
+              "kara",
+              10
+            ],
+            [
+              "kaar",
+              10
+            ],
+            [
+              "kor",
+              8
+            ]
+          ]
+        },
+        {
+          "key": "jt",
+          "variants": [
+            [
+              "jata",
+              573
+            ],
+            [
+              "jati",
+              263
+            ],
+            [
+              "jate",
+              142
+            ],
+            [
+              "jeet",
+              7
+            ],
+            [
+              "jute",
+              6
+            ],
+            [
+              "jite",
+              5
+            ],
+            [
+              "jita",
+              4
+            ],
+            [
+              "joot",
+              4
+            ]
+          ]
+        },
+        {
+          "key": "rh",
+          "variants": [
+            [
+              "raha",
+              371
+            ],
+            [
+              "rahe",
+              357
+            ],
+            [
+              "rahi",
+              213
+            ],
+            [
+              "rah",
+              59
+            ],
+            [
+              "raho",
+              5
+            ],
+            [
+              "raah",
+              5
+            ],
+            [
+              "riha",
+              3
+            ],
+            [
+              "rihai",
+              2
+            ]
+          ]
+        },
+        {
+          "key": "krt",
+          "variants": [
+            [
+              "karte",
+              411
+            ],
+            [
+              "karta",
+              379
+            ],
+            [
+              "karti",
+              141
+            ],
+            [
+              "karata",
+              10
+            ],
+            [
+              "kort",
+              8
+            ],
+            [
+              "kriti",
+              7
+            ],
+            [
+              "krit",
+              6
+            ],
+            [
+              "kreta",
+              3
+            ]
+          ]
+        },
+        {
+          "key": "tth",
+          "variants": [
+            [
+              "tatha",
+              868
+            ],
+            [
+              "tithi",
+              18
+            ],
+            [
+              "tatah",
+              1
+            ]
+          ]
+        },
+        {
+          "key": "skt",
+          "variants": [
+            [
+              "sakta",
+              438
+            ],
+            [
+              "sakte",
+              276
+            ],
+            [
+              "sakti",
+              157
+            ],
+            [
+              "skaut",
+              2
+            ],
+            [
+              "suket",
+              2
+            ],
+            [
+              "skaat",
+              1
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

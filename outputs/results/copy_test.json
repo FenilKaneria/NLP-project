@@ -1,0 +1,20 @@
+{
+  "run": "copy",
+  "split": "test",
+  "sentences": 1341,
+  "masked": {
+    "chrf": 41.827451744744714,
+    "bleu4": 29.28768308420544,
+    "bleu1": 45.71515972556046
+  },
+  "restored": {
+    "chrf": 48.78531197813824,
+    "bleu4": 30.910341781335294,
+    "bleu1": 46.35224444253711
+  },
+  "signatures": {
+    "chrf": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+    "bleu4": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "bleu1": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0"
+  }
+}

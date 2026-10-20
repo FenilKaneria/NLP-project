@@ -1,0 +1,7 @@
+# Run A: PHINC only, word-level vocabulary.
+name: run_a
+tokeniser: word
+train: data/processed/phinc_train.tsv
+val: data/processed/phinc_val.tsv
+lr: 0.001
+max_tokens: 2000

@@ -1,0 +1,999 @@
+hindi   कार्यवाही करने की समयोचित चेतावनी दे।
+clean   karyawahi karne ki samyochit chetavni de.
+noisy   karyawahi karne ki samyochit chetaavni de.
+english give fair warning of your action
+
+hindi   और बूटियाँ बेलें, और दरख्त (उसी को) सजदा करते हैं
+clean   aur butiyan belein, aur darakht (usi ko) sajda karte hain
+noisy   aur bootiya belein, or darakht (usi ko) sajda karte hain
+english and the grasses and the trees bow (to him) in adoration.
+
+hindi   इस तंत्र में रेखक की लम्बाई Δ लिखी जाती है।
+clean   is tantra mein rekhak ki lambai δ likhi jati hai.
+noisy   is tantra mein rekhak ki lambaai δ lkhi jaati hai.
+english in this system, the length of this rod is written as δx.
+
+hindi   और संलग्नक प्रविष्टि बढ़त रक्षक
+clean   aur sanlagnak pravishti badhat rakshak
+noisy   aur sanlagnak pravishti badhat rakshak
+english and the enclosure entry edge protector
+
+hindi   इस पूरी अभिव्यक्ति है यदि और केवल यदि एक रंग, एक 3 रंग कि ग्राफ का सच है।
+clean   is puri abhivyakti hai yadi aur keval yadi ek rang, ek 3 rang ki graaph ka sach hai.
+noisy   is poori abhivyakti hai yadi aur keval yadi ek rang, ek 3 rng ki graaph ka sach hai.
+english this whole expression true if and only if there's a coloring, a 3 coloring of that graph.
+
+hindi   अनिषेक पुंजनन एक पॅर्थेनोजेनिसिस का प्रकार है जिस में हेप्लाईड नर में अनिषेचित अंड विकसित होते हैं।
+clean   anishek punjnan ek perthenojenisis ka prakar hai jis mein heplaid nar mein anishechit and viksit hote hain.
+noisy   anishek punjnan ek perthenojenisis ka prakaar hai jis mein heplaaeed nar mein anishechit and viksit hote hai.
+english arrhenotoky parthenogenesis is a form of parthenogenesis in which unfertilised eggs develop into haploid males.
+
+hindi   अन्य वर्णों का होना मात्र संयोग या लेखक की अपनी तरंग पर निर्भरा होता है.
+clean   anya varnon ka hona matra sanyog ya lekhak ki apni tarang par nirbhara hota hai.
+noisy   anya varno ka hona mtra sanyog ya lekhak ki apni tarang par nirbhara hota hai.
+english the other syllables are entirely dependent upon accident or the writer's fancy.
+
+hindi   मैं‘सार्वजनिक क्षेत्र दिवस’के आयोजन और आपके भावी प्रयासों के सफल होने की कामना करता हूं।
+clean   main'sarvajnik kshetra divas'ke aayojan aur aapke bhavi prayason ke saphal hone ki kamna karta hoon.
+noisy   main'sarvajnik kshetra divas'k aayojan aur aapke bhaavi prayaso ke saphal hone ki kaamna karta hoon.
+english i wish all of you success in the organization of 'public sector day' and in all your future endeavors.
+
+hindi   नाक या ओठों के पास धब्बे प्रकट होना (लेकिन गोंद सूँघने से निकलने वाले दाने, केवल कुछ गोंदों के कारण ही निकलते हैं, आम तौर पर नहीं और यह भी संभव है कि ये मुँहासे हों.)
+clean   naak ya othon ke paas dhabbe prakat hona (lekin gond sunghne se nikalne wale dane, keval kuch gondon ke karan hi nikalte hain, aam taur par nahi aur ye bhi sambhav hai ki ye munhase hon.)
+noisy   naak ya othon ke paas dhabbe prakat hona (lekn gond soonghneeee se nikalne wale daane, keval kuch gondon ke karan hi nikalte hai, aam taur pe nahi aur ye bhi sambhav hai ki ye munhase ho.)
+english spots around nose and mouth - lrb - but 'glue sniffers' rash only occurs with some glues, it is n't common, and may be acne - rrb -.
+
+hindi   नेशनल फेडरेसन ऑफ़ दी ब्लाइंड के अध्‍यक्ष श्री संतोष कुमार रूंगटा ने दिव्‍यांगजनों के लिए कल्‍याणकारी योजनाओं में सहायता प्रदान करने के लिए सामाजिक न्‍याय और अधिकारिता मंत्री एवं विभाग को धन्‍यवाद दिया।
+clean   neshnal phedresan of di blaind ke adhyaksh shri santosh kumar rungta ne divyangajnon ke liye kalyankari yojnaon mein sahayta pradan karne ke liye samajik nyaay aur adhikarita mantri evam vibhag ko dhanyawad diya.
+noisy   neshnal phedresan of di blaind ke adhyaksh shri santosh kumar roongta ne divyangajno k liye kalyankari yojnaon me sahayta pradaan karne ke liye samajik nyaay aur adhikaarita mantri evam vibhag ko dhanyawaad diya.
+english chairman of national federation of blind shri santosh kumar rungta thanked the minister for social justice and empowerment and the department for supporting wholeheartedly in welfare schemes for divyangjans.
+
+hindi   'नाटक के भीतर नाटक' गर्भनाटक जिसका चौथे अंक में उल्लेख है किंतु जो वस्तुतः सातवें अंक में खेला गया, भवभूति की दूसरी महत्त्वपूर्ण नवीनता है।
+clean   'natak ke bhitar natak' garbhanatak jiska chauthe ank mein ullekh hai kintu jo vastutah satvein ank mein khela gaya, bhavbhuti ki dusri mahattwapurn navinta hai.
+noisy   'natak k bheetar natak' garbhanatak jiska chauthe ank mein ullekh hai kntu jo vastutah saatve ank me khela gaya, bhavbhuti ki doosri mahattwapurn naveenta h.
+english the 'play within the play' garbhanataka, mentioned in the fourth act and actually staged in the seventh is another significant innovation of bhavabhuti.
+
+hindi   - नाइल्स 'मार्ग में, यह सब ठीक हो गया होता.
+clean   - nails 'maarg mein, ye sab theek ho gaya hota.
+noisy   - nails 'maarg me, ye sab theek ho gya hota.
+english - in niles' driveway, it all would have been just fine.
+
+hindi   घोडे पर हौदा, हाथी पर ज़ीन।
+clean   ghode par hauda, hathi par zeen.
+noisy   ghode pe hauda, hathi pe zin.
+english a howdah on the horse and a saddle on the elephant.
+
+hindi   उन के प्रकार आकलन कर में.
+clean   un ke prakar aaklan kar mein.
+noisy   un k prakar aaklan kar me.
+english in making those kinds of assessments.
+
+hindi   अब जब कि तुम मूल्य प्रस्ताव पर व्याख्यान 2 पूरा कर दिया,
+clean   ab jab ki tum mulya prastav par vyakhyan 2 pura kar diya,
+noisy   ab jab ki tum moolya prastaav pr vyaakhyaan 2 poora kar diya,
+english now that you've completed lecture 2 on the value proposition,
+
+hindi   मुझे लगता है कि इस पूरे समारोह है।
+clean   mujhe lagta hai ki is pure samaroh hai.
+noisy   muje lagta hai ki is pure samaroh hai.
+english i think that's the whole function.
+
+hindi   ये शक्तियां एक ऐसे चेतन अस्तित्व का प्रकाश हैं जो अहंभावयुक्त अस्तित्व को लांघ जाता है और जो स्वयं वैश्व और परात्पर दोनों है, इसका स्वभाव है आनन्द।
+clean   ye shaktiyan ek aise chetan astitv ka prakash hain jo ahambhavyukt astitv ko laangh jata hai aur jo swayam vaishv aur paratpar donon hai, iska swabhav hai aanand.
+noisy   ye shaktiyaan ek aise chetan astitv ka prakash hai jo ahambhavyukt astitw ko laangh jaata hai or jo swayam vaishv aur paratpar donon hai, iska swabhav hai annd.
+english and these faculties are the light of a conscious existence superseding the egoistic and itself both cosmic and transcendent, the nature of which is bliss.
+
+hindi   राजनीतिक नेता, जो किसानों को गुमराह करने की कोशिश कर रहे हैं, लोकतंत्र का सम्मान नहीं करते हैं और भरोसा नहीं करते हैं।
+clean   rajnitik neta, jo kisanon ko gumrah karne ki koshish kar rahe hain, loktantra ka samman nahi karte hain aur bharosa nahi karte hain.
+noisy   raajneetik neta, jo kisaanon ko gumraah karne ki koshish kar rahe hainnn, loktantra ka sammaan nahi karte hain aur bharosa ni karte hai.
+english the political leaders, who are trying to mislead the farmers, do not respect and trust democracy.
+
+hindi   मैं सोचता नहीं, अतः मैं नहीं हूं।
+clean   main sochta nahi, atah main nahi hoon.
+noisy   main sochta nahi, atah main nahi hu.
+english i don't think, therefore i am not.
+
+hindi   राष्ट्रपति ने कहा कि सरकार ने ‘स्टार्ट अप इंडिया, स्टैंड अप इंडिया’ अभियान आरंभ किया है।
+clean   rashtrapti ne kaha ki sarkar ne 'staart ap indiya, staind ap indiya' abhiyan aarambh kiya hai.
+noisy   rashtrapti ne kaha ki sarkaar ne 'staart ap indiya, staind ap indiya' abhiyan aarambh kiya hai.
+english the president said the government has initiated the "start-up india, stand up india" campaign.
+
+hindi   कपाल की अस्थाई अस्थि में एक मार्ग जिससे होकर तंत्रिकाएं अंतःकपाल से मध्य एवं आंतरिक कर्ण कक्षकों की ओर जाती हैं
+clean   kapal ki asthai asthi mein ek maarg jisse hokar tantrikayen antahkpal se madhya evam aantrik karn kakshakon ki or jati hain
+noisy   kapal ki asthai asthi me ek maarg jisse hokar tantrikayeee antahkpal se madhya evam aantrik karn kakshako ki or jati hai
+english a passage in the temporal bone of skull through which nerves from inside the cranium pass towards the middle and inner ear compartments
+
+hindi   यह किसानों की आवश्यकताओं के प्रति संवेदनशील और सक्रिय होने तथा बदलती परिस्थितियों के अनुसार गतिशील बनने की अमूल की योग्यता के कारण संभव हुआ।
+clean   ye kisanon ki aavashyaktaon ke prati sanvedanshil aur sakriya hone tatha badalti paristhitiyon ke anusar gatishil banne ki amul ki yogyata ke karan sambhav hua.
+noisy   yeh kisaano k aavashyaktaaon ke prati sanvedanshil aur sakriya hone tatha badalti paristhitiyon ke anusar gatisheel bnne ki amul ki yogyata ke kaaran smbhav hua.
+english it was made possible because of amul's ability to be sensitive and proactive to the needs of farmers and dynamic to the changing circumstances.
+
+hindi   हम खॅंड़हर में बस गये हैं यानी हमारा मतलब यह है कि हमें अब आकर पता चला कि हम खॅंड़हरों के शहर में बसकर धीरे-धीरे खुद खॅंडहर बनते जो रहे हैं।
+clean   hum khendhar mein bas gaye hain yani hamara matlab ye hai ki hamein ab aakar pata chala ki hum khendehron ke shahar mein baskar dhire-dhire khud khendhar bante jo rahe hain.
+noisy   hum khendhar mein bas gaye hen yani hamaara matlab yeh hai ki hame ab aakar pata chala ki hum khendehro ke shahar mein baskar dhire-dheere khud khendhar bante jo rhe hain.
+english i am living in ruins now, i mean that i now realise that after living in the city of ruins i am gradually becoming a ruin myself.
+
+hindi   थीटा बस यह है, बस चापज्या 2 का वर्गमूल के है
+clean   thita bas ye hai, bas chapajya 2 ka vargamul ke hai
+noisy   theeta bas ye hai, bas chapajya 2 ka vargamool k hai
+english theta is just this, is just arcsine of square root of 2
+
+hindi   प्रसिद्ध समालोचक डॉ. सैयद अब्दुल्लाह यिल्दिरिम के स्वच्छन्दतावाद को सर सैयद अहमद ख़ान के गद्य के व्यावहारिक श्रेण्यवाद की प्रतिक्रिया के रूप में देखते हैं।
+clean   prasiddh samalochak do. saiyad abdullah yildirim ke swacchandatawad ko sar saiyad ahmad khaan ke gadya ke vyavharik shrenyawad ki pratikriya ke roop mein dekhte hain.
+noisy   prasiddh samaalochak do. saiyad abdullah yildirim ke swacchandataawaad ko sar saiyad ahmad khaan k gadya k vyavharik shrenyawaad ki pratikriya ke roop mein dekhte hai.
+english noted critic dr. syed abdullah sees yildirim's' romanticism 'as a reaction to the pragmatic classicism of sir syed ahmed khan' s prose.
+
+hindi   पिछले कुछ सप्‍ताहों में, प्रधानमंत्री ने कहा कि भारत सरकार अर्थव्यवस्था से संबंधित अल्पकालिक और दीर्घकालिक दोनों मुद्दों से निपट रही है।
+clean   pichle kuch saptahon mein, pradhanmantri ne kaha ki bharat sarkar arthavyavastha se sambandhit alpakalik aur dirghakalik donon muddon se nipat rahi hai.
+noisy   pichle kuch saptaahon me, pradhaanmantri ne kaha k bhrat sarkaar arthavyavastha say sambandhit alpakaalik aur dirghakalik donon muddo se nipat rahi hai.
+english in the last few weeks, the prime minister said that the government of india has addressed both short-term and long-term issues relating to the economy.
+
+hindi   इसी समय से निजी क्षेत्र इसी समय से निजी क्षेत्र स्टील उद्योग के उत्पादन और वृद्धि में महत्वपूर्ण तथा प्रभावशाली भूमिका निभाता आया है।
+clean   isi samay se niji kshetra isi samay se niji kshetra steel udyog ke utpadan aur vriddhi mein mahatwapurn tatha prabhavshali bhumika nibhata aaya hai.
+noisy   isi samay se niji kshetra isi samay se nji kshetra steel udyog ke utpaadn aur vriddhi mein mahatwapurn tatha prabhavshali bhumika nibhaata aaya hai.
+english since then, the private sector have been playing an important and dominant role in production and growth of the steel industry.
+
+hindi   पथ '% 1' के लिए एलबम ढूंढ नहीं पाया
+clean   path '% 1' ke liye elbam dhoondh nahi paya
+noisy   path '% 1' ke liye elbam dhoondh nahi paya
+english failed to find album for path '% 1'.
+
+hindi   लेखा में गल्तियों को केवल पार्श्वांकित किया गया।
+clean   lekha mein galtiyon ko keval parshwankit kiya gaya.
+noisy   lekha me galtiyon ko keval parshwankit kiya gaya.
+english the flaws in the balance sheet were only marginally noted.
+
+hindi   उनके अनुसार मानव अस्तित्व परमात्मा से पृथक् है और इसीलिए वह उससे एकरूपता का दावा नहीं कर सकते।
+clean   unke anusar manav astitv parmatma se prithak hai aur isiliye wo usse ekrupta ka dawa nahi kar sakte.
+noisy   unke anusar maanv astitv parmatma se prithak hai r isiliye wo usse ekrupta ka dawa nahi karrrr sakte.
+english according to him the entity of the human being is separate from the lord, there - fore he cannot claim oneness with him.
+
+hindi   उसके सबसे महत्वपूर्ण संवाद द रिपब्लिक में एक आदर्श राष्ट्रकुल पर विचार किया गया है।
+clean   uske sabse mahatwapurn sanwad da ripablik mein ek aadarsh rashtrakul par vichar kiya gaya hai.
+noisy   uske sabse mahatwapoorn sanwaad da ripablik me ek aadarsh raashtrakul pe vichar kiya gaya hai.
+english his most important dialogue, the republic, was broadly concerned with the construction of an ideal commonwealth.
+
+hindi   योग्य वर्षा मानदंडों की सहायता से बुवाई तिथियां पहचानी गई तथा उनके सांख्यिकीय लक्षणों को निकाला गया।
+clean   yogya varsha mandandon ki sahayta se buwai tithiyan pehchani gayi tatha unke sankhyikiya lakshanon ko nikala gaya.
+noisy   yogya varsha maandandon ki shaayta se buwai tithiyaan pehchaani gai tatha unkeee sankhyikiya lakshanon ko nikaala gaya.
+english with the help of suitable rainfall criteria, the sowing dates are identified and their statistical properties are brought out.
+
+hindi   कर्मचारियों के औद्योगिक संगठन में सेवारंभ करने के बाद औद्योगिक प्रशिक्षण दिया गया।
+clean   karmachariyon ke audyogik sangthan mein sewarambh karne ke baad audyogik prashikshan diya gaya.
+noisy   karmachariyon ke audyogik sngthan me sewaarambh karne ke baad audyogik prashikshan diya gaya.
+english the employees are given industrial taining after they join the industrial organization.
+
+hindi   मेरी अज्ञानता माफ कर दीजिए, लेकिन क्या थोरियम है?
+clean   meri agyanta maaph kar dijiye, lekin kya thoriyam hai?
+noisy   meri agyaanta maaph kar dijiye, lekin kya thoriyam h?
+english please forgive my ignorance, but what is thorium?
+
+hindi   यह मांग आर्थिक, राजनीतिक और नैतिक आधार पर प्रस्तुत की गयी।
+clean   ye maang aarthik, rajnitik aur naitik aadhar par prastut ki gayi.
+noisy   ye maang aarthik, raajneetik aurr naitik aadhaar pe prastut ki gayi.
+english this demand was put forward on economic, political and moral grounds.
+
+hindi   किसी भी सार्वजनिक मंच पर पहली बार
+clean   kisi bhi sarvajnik manch par pehli baar
+noisy   kisi bhi saarvajnik manch pe pehli baar
+english the first time in any sort of public setting
+
+hindi   मेरा देश सूचीबद्ध नहीं है
+clean   mera desh suchibaddh nahi hai
+noisy   mera desh suchibaddh nahiiii h
+english my country is not listed
+
+hindi   रीरंगम लौटने पर पदपाद को जब इस दुर्घटना की खबर दी गई तब वह बड़े ही दुखी हुए।
+clean   rirangam lautne par padpad ko jab is durghatna ki khabar di gayi tab wo bade hi dukhi hue.
+noisy   rirangam lautne pe padpaad ko jab is durghatna ki khabar di gayi tab wo bade hi dukhi hue.
+english on his return to srirangam padmapada was told of the mishap, and was greatly grieved.
+
+hindi   प्रश्न नियमों में उपबंधित शर्तों के अनुसार तारांकित या अतारांकित श्रेणी में रखे जाते हैं.
+clean   prashn niymon mein upbandhit sharton ke anusar tarankit ya atarankit shreni mein rakhe jate hain.
+noisy   prshn niymon mein upbandhit sharton ke anusaar tarankit ya atrankit sreni me rake jaate hain.
+english the distribution of questions between starred and unstarred categories depends upon the conditions provided in the rules.
+
+hindi   इसे इतनी ताकत और जोर से बजाया जाता है कि ऊंगलियों की रक्षा और आवाज में वांछित असर पैदा करने के लिए ऊंगलियों के पोरों पर गोल पट्टियां बांध ली जाती हैं।
+clean   ise itni takat aur jor se bajaya jata hai ki ungliyon ki raksha aur aawaj mein wanchit asar paida karne ke liye ungliyon ke poron par gol pattiyan baandh li jati hain.
+noisy   ise itni taakt aur jor se bajaaya jata hai ki ungliyo ki rksha aur aawaj me wanchit asr paida karne ke liye ungliyo k poro pe gol pattiyaan baandh li jati hen.
+english the striking is so hard and forceful that, to produce the desired effect and to protect the fingers, special bandages are wound round the tips of fingers.
+
+hindi   उत्तर-पश्चिम में इंडो-यूनानी राजाओं ने और बाद में कुषाणों तथा हूणों ने एक क्षेत्रीय संस्कृति के उदय को प्रोत्साहन दिया।
+clean   uttar-pashchim mein indo-yunani rajaon ne aur baad mein kushanon tatha hunon ne ek kshetriya sanskriti ke uday ko protsahan diya.
+noisy   uttar-pashchim mein indo-yoonaani rajao ne or baad me kushanon tatha huno ne ek kshetriya sanskriti ke uday ko protsahan diya.
+english in the north - west, indo - greek kings and later the kushans and the huns provided an impetus for the emergence of a regional culture.
+
+hindi   जब उपहार शहर की अवधारणा की गई थी, तब मैं गुजरात का मुख्यमंत्री था।
+clean   jab uphar shahar ki avdharna ki gayi thi, tab main gujrat ka mukhyamantri tha.
+noisy   jab uphar shahr ki avdharna ki gai thi, tab main gujraat ka mukhyamantri tha.
+english when the gift city was conceptualised, i was chief minister of gujarat.
+
+hindi   मिज़ोरम में बांस का विशाल भंडार है। यह 12,54,400 हेक्टेयर में फैला है और भारत का 14 प्रतिशत बांस है, यहां बांस की 20 प्रजातियां हैं।
+clean   mizoram mein baans ka vishal bhandar hai. ye 12,54,400 hekteyar mein phaila hai aur bharat ka 14 pratishat baans hai, yahan baans ki 20 prajatiyan hain.
+noisy   mizoram me baans ka vishal bhandar h. ye 12,54,400 hekteyar me phaila hai aur bhaarat ka 14 pratishat baans hai, yaha baans ki 20 prajatiyan hain.
+english mizoram has an abundant reserve of bamboo forest covering 12, 54, 400 ha and contributing 14% of the all india bamboo distribution.
+
+hindi   हमें खुद कुछ नहीं करना होता। हमें बस सीखना होता है।
+clean   hamein khud kuch nahi karna hota. hamein bas sikhna hota hai.
+noisy   hame khud kuch nahi karna hota. hame bas sikhna hota hai.
+english we don't have to do anything. all we have to do is learn.
+
+hindi   लडकी को डर नहीं लग रहा?
+clean   ladki ko dar nahi lag raha?
+noisy   ladki ko dar nahi lag raha?
+english wasn't the girl feeling afraid?
+
+hindi   उनका प्यार का संदेश विश्व में करोड़ों लोगों के लिए प्रेरणा स्रोत है।
+clean   unka pyaar ka sandesh vishv mein karodon logon ke liye prerna srot hai.
+noisy   unka pyaar ka sandesh vishv mein karodo logon ke liye prerna srot hai.
+english her message of love continues to inspire millions of people around the world.
+
+hindi   उसके वंश में निर्देशिका स्थानांतरित नहीं कर सकते
+clean   uske vansh mein nirdeshika sthanantrit nahi kar sakte
+noisy   uske vansh mein nirdeshika sthanantrit nahi kar sakte
+english can't move directory into one of its descendants
+
+hindi   ‘उष्णीश’ पगड़ी हमेशा पहनी जाती थी तथा आवश्यकता होने पर एक मुकुट अथवा त्रिमुकुट भी पहना जाता था।
+clean   'ushnish' pagdi hamesha pehni jati thi tatha aavashyakta hone par ek mukut athwa trimukut bhi pehna jata tha.
+noisy   'ushnish' pagdi hamesha pehni jati thi tatha aavashyakta hone pe ek mukut athwa trimukut bhi pehna jata tha.
+english the ushnisa was always worn and a crown or tiara was used when necessary.
+
+hindi   विकल्प अज्ञात था और अनदेखा किया गया
+clean   vikalp agyat tha aur andekha kiya gaya
+noisy   vikalp agyat tha aur andekha kiya gaya
+english option '% s' is unknown and was ignored '% s'
+
+hindi   पंडित रवि शंकर को याद करते हुए राष्ट्रपति ने कहा कि हमारे मध्य से उनका निधन होना भारत तथा विश्व के लिए भारी क्षति है।
+clean   pandit ravi shankar ko yaad karte hue rashtrapti ne kaha ki hamare madhya se unka nidhan hona bharat tatha vishv ke liye bhari kshati hai.
+noisy   pandit ravi sankar ko yad karte hue rashtrapti ne kaha ki hamaare madhya se unka nidhan hona bharat ttha vishv ke liye bhaari kshati hai.
+english remembering pandit ravi shankar, the president said his passing away from our midst has been a great loss to india and the world.
+
+hindi   ऐसे ब्लॉिक किए गए ड्राइंग या फोटोग्राफ पंजीयक की संतुष्टि के अनुरूप होने चाहिए, यानि इससे प्रस्तुैत किए गए डिज़ाइन की रूपरेखा की पहचान प्रभावित न होती हो।
+clean   aise blok kiye gaye draing ya photograph panjiyak ki santushti ke anurup hone chahiye, yani isse prastut kiye gaye dizain ki ruprekha ki pehchan prabhavit na hoti ho.
+noisy   aise blok kiye gaye draing ya photogrph panjiyak ki santushti ke anuroop hone chaahiye, yani isse prastut kiye gaye dizaain ki ruprekha ki pehchaan prabhavit na hoti ho.
+english the blocking of such drawing or photograph shall be to the satisfaction of the registrar such that it does not hamper the identification of the applied - for layout - design.
+
+hindi   प्रत्‍येक अंक में आमतौर पर रंगमंच और नाट्य कलाओं की विभिन्‍न तकनीकों विषय पर विचारोत्तेजक लेखों का समावेश किया जाता है।
+clean   pratyek ank mein aamtaur par rangmanch aur natya kalaon ki vibhinn taknikon vishay par vicharottejak lekhon ka samavesh kiya jata hai.
+noisy   pratyek ank mein aamtaur par rangmanch aur natya kalaon ki vibhinn takneekon vishay pe vicharottejak lekhon ka samavesh kiya jaata hai.
+english each issue contains thought provoking articles on theatre in general and on various techniques of the dramatic arts.
+
+hindi   'हरिजन' पत्रिका के बांग्ला संस्करण की असाधारण मांग थी।
+clean   'harijan' patrika ke bangla sanskaran ki asadharan maang thi.
+noisy   'harijan' patrika ke baangla sanskaran ki asaadhaaran mang thi.
+english the demand for the bengali harijan patrika was phenomenal.
+
+hindi   चेस्टर बैट्टी पुस्ताकलय,लंदन	 - अरबी और फारसी में सचित्र पांडुलिपि- अकबरनामा, हमजानामा, शाहनामा, अजैब-अल मखलुकत, ज़फरनामा, महाभारत, दीवान ऑफ हाफिज (हाफिज के दीवान), अनवर-I सुहाली।
+clean   chestar baitti pustaklay,landan - arbi aur pharsi mein sachitra pandulipi- akbarnama, hamjanama, shahnama, ajaib-al makhlukat, zapharnama, mahabharat, diwan oph haphij (haphij ke diwan), anvar-i suhali.
+noisy   chestar baitti pustaaklay,landan - arbi or pharsi mein sachitra pandulipi- akbarnama, hamjanama, sahnama, ajaib-al makhlukat, zapharnama, mahabharat, diwan oph haphij (haphij ke diwan), anvar-i suhaali.
+english chester beatty library, london - arabic and persian illustrated manuscript-akbarnama, hamzanama, shahnama, ajaib-al makhlukat, zafarnama, mahabharat, divan of hafiz, anvar-i suhali.
+
+hindi   भाड़ा भुगतान के बदले जारी की जाने वाली रसीद।
+clean   bhada bhugtan ke badle jari ki jane wali rasid.
+noisy   bhada bhugtn ke badle jaari ki jane wali rasid.
+english a receipt for having paid the amount of freight.
+
+hindi   इस्लाम आशा और विश्वास का नया संदेश, जो अरब के पैगंबर ने दुनिया को दिया, एक नया धर्म होने का दावा नहीं करता था.
+clean   islam aasha aur vishwas ka naya sandesh, jo arab ke paigambar ne duniya ko diya, ek naya dharm hone ka dawa nahi karta tha.
+noisy   islam aasha or vishwas ka naya sandesh, jo arab ke paigambar ne duniya ko diya, ek naya dharm hone ka daawa nahi karta tha.
+english islam, the new message of hope and faith which the prophet of arabia gave to the world, does not claim to be a new religion.
+
+hindi   भारतीय परंपरा में इतिहास और गाथाएं, यथार्थ और मिथक के अंत: सूत्र इतनी जटिलता से गुंथे हैं कि यह कहना बहुधा आसान नहीं होता कि एक कहां समाप्त हो जाता है और दूसरा कहां से शुरू हो जाता है.
+clean   bhartiya parampra mein itihas aur gathayen, yatharth aur mithak ke ant: sutra itni jatilta se gunthe hain ki ye kehna bahudha aasan nahi hota ki ek kahan samapt ho jata hai aur dusra kahan se shuru ho jata hai.
+noisy   bhrtiya parampra mein itihas aur gathayen, yathaarth or mithak ke ant: sootra itni jatilta se gunthe hai ki ye kehna bahudha asan nahi hota ki ek kaha samaapt ho jaata h or dusra kahan se shuru ho jata h.
+english history and legend, fact and myth are so inextricably blended in indian tradition that it is not always easy to say where the one ends and the other begins.
+
+hindi   या बस इस एक समय खरीद के बजाय मेरे प्रति वफादार रखने के लिए एक तरीका है उत्पाद अद्यतनों, यहाँ है,
+clean   ya bas is ek samay kharid ke bajay mere prati vaphadar rakhne ke liye ek tarika hai utpad adyatnon, yahan hai,
+noisy   ya bas is ek samay kharid ke bajay mre prti vaphadar rakhne ke liye ek tarika hai utpad adyatnon, yahaan hai,
+english or product updates, here's a way to keep me loyal is instead of just this one - time purchase,
+
+hindi   साथ ही अंडमान एवं पूर्वी समुद्र तट पर सुनामी से पड़े विनाशकारी प्रभाव को देखते हुए हिंद महासागर हेतु एक सुनामी चेतावनी लगाने की एक नई बड़ी पहल की गई है।
+clean   saath hi andman evam purvi samudra tat par sunami se pade vinashkari prabhav ko dekhte hue hind mahasagar hetu ek sunami chetavni lagane ki ek nayi badi pahal ki gayi hai.
+noisy   sath hi andman evam purvi samudra tat par sunami se pade vinashkari prabhav ko dekhte hue hind mahaasagar hetu ek sunami chetavni lagaane ki ek nayi badi pahal ki gayi hai.
+english further, considering the devastating effect of tsunami in andaman and east coast, a new major initiative for setting up tsunami warning system for indian ocean has been taken up.
+
+hindi   जिसने लोगों की कल्पना को उत्तेजित किया।
+clean   jisne logon ki kalpana ko uttejit kiya.
+noisy   jisne logon k kalpana ko uttejit kiya.
+english that excited the imagination of people.
+
+hindi   के लिए हुमारे पास कुछ नही है.
+clean   ke liye humare paas kuch nahi hai.
+noisy   ke liye humare paas kuch nahi hai.
+english because there's nothing to add it to.
+
+hindi   यह आवश्यक है कि कानून द्वारा जो भी प्रतिबंध लगाए जाएं, वे युक्तियुक्त हों, मनमाने या सीमाविहीन न हों, और न्यायालय की संतुष्टि के अनुरूप इन्हें सिद्ध करने की जिम्मेदारी राज्य की हो.
+clean   ye aavashyak hai ki kanun dwara jo bhi pratibandh lagaye jayen, wo yuktiyukt hon, manmane ya simavihin na hon, aur nyayalay ki santushti ke anurup inhein siddh karne ki jimmedari rajya ki ho.
+noisy   ye aavashyak hai k kaanoon dwara jo bhi pratibandhh lgaaye jaayen, woh yuktiyukt hon, manmane ya simavihin na hon, aur nyaayaalay ki santushti k anurup inhe siddh karne ki jimmedari raajya ki ho.
+english it is necessary that the restrictions imposed by law must be reasonable and not arbitrary or of excessive nature and the onus of proving it to the satisfaction of the court lies with the state.
+
+hindi   कुछ समय बाद जब शरीर की मृत्यु हो जाती है तब हम कहते है-'वह विदेह-मुक्त हुआ'।
+clean   kuch samay baad jab sharir ki mrityu ho jati hai tab hum kehte hai-'wo videh-mukt hua'.
+noisy   kuch samay baad jab shreer ki mrityu ho jati hai tab hm kehte hai-'wo videh-mukt hua'.
+english after a time when the body dies, we say 'he becomes liberated from the body videha - mukta'.
+
+hindi   11वीं योजना के लिए देश की पारेषण संभावित योजना में वर्ष 2012 तक 60,000 सीकेएम पारेषण नेटवर्क से अधिक के वर्धन के माध्यम से राष्ट्रीय विद्युत ग्रिड को सुदृढ़ बनाने पर ध्यान केन्द्रित किया गया है।
+clean   11veen yojna ke liye desh ki pareshan sambhavit yojna mein varsh 2012 tak 60,000 sikeem pareshan netvark se adhik ke vardhan ke madhyam se rashtriya vidyut grid ko sudridh banane par dhyaan kendrit kiya gaya hai.
+noisy   11veen yojna ke liye desh ki pareshan sambhavit yojna mein varsh 2012 tak 60,000 sikeem paareshan netvark se adhik ke vardhan ke maadhyam se rashtriya vidyut grid ko sudridh banaane par dhyaan kendrit kiya gaya hai.
+english the country's transmission perspective plan for xith plan focuses on the strengthening of national power grid through addition of over 60, 000 mw of transmission network by 2012.
+
+hindi   परंतु किसी भी उपाय से, किसी भी हालत में विभाजन कदापि न हो, एकता अवश्य स्थापित होगीक्योंकि यह भारत के भविष्य की महानता के लिए आवश्यक है।
+clean   parantu kisi bhi upay se, kisi bhi halat mein vibhajan kadapi na ho, ekta avashya sthapit hogikyonki ye bharat ke bhavishya ki mahanta ke liye aavashyak hai.
+noisy   parantu kisi bhi upayyy se, kisi bhi haalat me vibhajan kadapi na ho, ekta avashya sthapit hogikyonki ye bhaarat ke bhavishya ki mhaanta ke liye aavashyak he.
+english but by whatever means, in whatever way, the division must go; unity must and will be achieved, for it is necessary for the greatness of india's future.
+
+hindi   अध्यक्ष सूचनाओं को देखता है और आगामी दिन सदन की बैठक में संबंधित मंत्री द्वारा वक्तव्य दिए जाने के लिए उनमें से एक सूचना का चयन करता है।
+clean   adhyaksh suchnaon ko dekhta hai aur aagami din sadan ki baithak mein sambandhit mantri dwara vaktavya diye jane ke liye unmein se ek suchna ka chayan karta hai.
+noisy   adhyaksh soochnaaon ko dekhta hai or aagaami din sadan ki baithak me sambandhit mantri dwara vaktavya diye jane k liye unmein se ek soochna ka chayan karta hai.
+english the speaker goes through the notices and selects one of them for a statement by the concerned minister at the sitting of the house on a following day.
+
+hindi   तंत्रिकार्बुदग्रस्तता उसे निरूपित करता है जो तंत्रिकार्बुद के कारण होती है
+clean   tantrikarbudagrastata use nirupit karta hai jo tantrikarbud ke karan hoti hai
+noisy   tantrikaarbudagrastata use nirupit krta hai jo tantrikarbud ke kaaran hoti h
+english nuromatous refers to anything which is caused by neuromas.
+
+hindi   सार्वदेशिक व्यवहार के लिए ही हमको राष्ट्र भाषा चाहिए।
+clean   sarvadeshik vyavhar ke liye hi hamko rashtra bhasha chahiye.
+noisy   sarvadeshik vyavhaar ke liye hi hamko rashtra bhaasha chaahiye.
+english the national language will be used only in all - india and inter - state affairs.
+
+hindi   आंतरिक प्रेरणा तथा आवश्यकताओं के उदाहरण हैं-सामान्य जीवनशैली की प्राप्ति, अपने समाज आयु के रोगियों से पहचान, कार्यक्षेत्र में उपलब्धियां, एक अच्छा यौन जीवन, खुश वैवाहिक जीवन अथवा संतान सुख।
+clean   aantrik prerna tatha aavashyaktaon ke udahran hain-samanya jivanshaili ki prapti, apne samaj aayu ke rogiyon se pehchan, karyakshetra mein uplabdhiyan, ek accha yaun jivan, khush vaiwahik jivan athwa santan sukh.
+noisy   aantrik prerna tatha aavashyaktaao k udaahran hai-saamaanya jivanshaili ki prapti, apne samaj aayu ke rogiyo se pehchaan, kaaryakshetra mein uplabdhiyaan, ek acha yaun jeevan, khush vaiwaahik jivan athwa santan sukh.
+english possible examples of intrinsic drives and needs are achievement of a normal lifestyle, identification with a peer group, achievement in a career, a good sex life, a happy marriage or parenthood.
+
+hindi   वंक्षण हर्निया वृषणकोशों का बढ़ जाना.
+clean   vankshan harniya vrishankoshon ka badh jana.
+noisy   vankshan harniya vrishankoshon ka badh jana.
+english inguinal hernia passed into the scrotum.
+
+hindi   यह इंडियन एयरलाइंस का मुनाफा कमाने वाला केंद्र था जिसका मुख्य कार्य बोइंग 737 विमान बेड़े का उपयोग के साथ-साथ उपलब्ध संसाधनों का अधिकतम उपयोग करते हुए इंडियन एयरलाइंस का उत्पादकता और मुनाफा बढ़ाना था।
+clean   ye indiyan eyarlains ka munapha kamane wala kendra tha jiska mukhya karya boing 737 viman bede ka upyog ke saath-saath uplabdh sansadhnon ka adhiktam upyog karte hue indiyan eyarlains ka utpadakta aur munapha badhana tha.
+noisy   ye indiyan eyarlains ka munaapha kamane wala kendra tha jiska mukhya kaarya boing 737 viman bde ka upyog ke saath-saath uplabdh sansadhno ka adhiktam upyog karte hue indiyan eyarlaains ka utpaadakta aur munapha badhaana tha.
+english envisioned to function as profit centre of erstwhile indian airlines limited to effectively utilize the boeing 737 aircraft fleet and to improve productivity and profitability of india airlines ltd.
+
+hindi   उनमें से कुछ आवाजों को वह पहचान सकती थी।
+clean   unmein se kuch aawajon ko wo pehchan sakti thi.
+noisy   unme se kuchh aawajon ko wo pehchaan sakti thi.
+english she knew some of them.
+
+hindi   इस अवसर पर, आईटीएटी पर एक ई-कॉफी टेबल बुक का विमोचन भी किया जाएगा।
+clean   is avsar par, aaitiyeti par ek ee-kophi tebal buk ka vimochan bhi kiya jayega.
+noisy   is avsar par, aaitiyeti pe ek ee-kophi tebal buk ka vimochan bhi kiya jaayega.
+english on this occasion, an e-coffee table book on itat will also be released.
+
+hindi   प्रतिवर्ती पीछे लौटने को निरूपित करता है.
+clean   prativarti piche lautne ko nirupit karta hai.
+noisy   prativarti piche lautne ko niroopit karta hai.
+english retrocedent refers to going back.
+
+hindi   लेखा बहियां, अभिलेख आदि प्रस्तुत करने में असफल रहना
+clean   lekha bahiyan, abhilekh aadi prastut karne mein asphal rehna
+noisy   lekha bahiya, abhilekh aadi prastut krne mein asphal rehna
+english failure to produce accounts, records, etc.
+
+hindi   आवरण पेनल लटकन धुरी बांह पर
+clean   aavran penal latkan dhuri baanh par
+noisy   aavran penal latkan dhuri baanh par
+english cover panel over the pendant pivot arm
+
+hindi   कानूनी बाध्यता का अनुपालन कानून को लागू करवाकर किया जा सकता है।
+clean   kanuni badhyata ka anupalan kanun ko lagu karwakar kiya ja sakta hai.
+noisy   kanuni badhyata ka anupaalan kanun ko laagu karwakar kiya ja sakta hai.
+english a legal obligation can be enforced by law.
+
+hindi   तेलुगु में काफी लोक-साहित्य है और बोलचाल की भाषा में अनेक छंद लिखे गए।
+clean   telugu mein kaphi lok-sahitya hai aur bolchal ki bhasha mein anek chand likhe gaye.
+noisy   telugu mein kaphi lok-saahitya hai aur bolchal ki bhaasha mein anek chnd likhe gaye.
+english telugu literature abounds with folklore and many poems were composed in the spoken tongue.
+
+hindi   सच तो यह है कि वे तट पर या उसके आसपास रहते हैं।
+clean   sach to ye hai ki wo tat par ya uske aaspas rehte hain.
+noisy   sach to ye hai ki woh tat pe ya uske aaspas rehte hain.
+english as a matter of fact, they live on or near the shore.
+
+hindi   मक्का, ज्वार और अन्य मोटे अनाज का उत्पादन भारत के कुल खाद्य उत्पादन का एक चौथाई है तथा यह देश की अर्थव्यवस्था में अहम योगदान देता है।
+clean   makka, jwaar aur anya mote anaj ka utpadan bharat ke kul khadya utpadan ka ek chauthai hai tatha ye desh ki arthavyavastha mein aham yogdan deta hai.
+noisy   makka, jwaar aur anya mote anaj ka utpadan bharat ke kul khaadya utpaadan ka ek chauthai hai ttha ye desh ki arthavyavastha mein aham yogdan deta hai.
+english maize, sorghum and other millets account for one fourth of the total food grain production in india and occupy an important place in the food grain economy of the country.
+
+hindi   जीएसएलवी-एमके 3 भारत द्वारा निर्मित अब तक सबसे भारी रॉकेट है जो अब तक सबसे भारी उपग्रहों को ले जाने में सक्षम है। राष्ट्र को इस महत्त्वपूर्ण उपलब्धि पर गर्व है।
+clean   jiyesayelvi-emke 3 bharat dwara nirmit ab tak sabse bhari roket hai jo ab tak sabse bhari upagrahon ko le jane mein saksham hai. rashtra ko is mahattwapurn uplabdhi par garv hai.
+noisy   jiyesayelvi-emke 3 bharat dwara nirmit ab tak sbse bhari roket hai jo ab tak sabseeee bhaari upagrahon ko le jaane me saksham hai. raashtra ko is mahattwapurn uplabdhi par garv hai.
+english the gslv-mk iii is the heaviest rocket ever made by india and is capable of carrying the heaviest satellites made till date. the nation is proud of this significant achievement.
+
+hindi   एक ऊपरी सीमा पर इस मात्रा प्राप्त करने के लिए।
+clean   ek upri sima par is matra praapt karne ke liye.
+noisy   ek oopri seema par is maatra praapt karne ke lie.
+english to get an upper bound on this quantity.
+
+hindi   व्यवसाय के अलावा, भारत का उच्च शिक्षा क्षेत्र भी तीव्र गति से बढ़ रहा है तथा अनेक नए संस्थान स्थापित किए गए हैं।
+clean   vyavsay ke alawa, bharat ka ucch shiksha kshetra bhi tivra gati se badh raha hai tatha anek naye sansthan sthapit kiye gaye hain.
+noisy   vyavsay ke alawa, bharat ka ucch shiksha kshetra bhi teevra gti se badh raha hai tatha anek naye sansthan sthaapitttt kiye gaye hai.
+english apart from business, the higher education sector in india is also expanding at a fast clip and many new institutions have been established.
+
+hindi   आप को दूसरे कोई कारण के लिए आमदनी के लिए मिलने वाली आर्थिक सहायता मिल सकती है.
+clean   aap ko dusre koi karan ke liye aamadni ke liye milne wali aarthik sahayta mil sakti hai.
+noisy   ap ko doosre koi kaaran ke liye aamadni ke lie milne waali aarthik sahaayta mil sakti hai.
+english you may be able to get income support for another reason.
+
+hindi   कठिन या वास्तव में कुछ स्तर भ्रामक पर
+clean   kathin ya wastav mein kuch star bhramak par
+noisy   kathin ya waastav mein kuch star bhramak par
+english daunting or really on some level confusing
+
+hindi   जो मैंने करीब एक साल पहले लगाया था-
+clean   jo mainne karib ek saal pehle lagaya tha-
+noisy   jo mainne karib ek saal pahle lgaya tha-
+english a pasting i'd done a year earlier -
+
+hindi   निवेश पोर्टफोलियो में बाज़ार जोखिम का अनुप्रवर्तन और समीक्षा
+clean   nivesh portapholiyo mein bazar jokhim ka anupravartan aur samiksha
+noisy   nivesh portapholiyo me baazaarrrr jokhim ka anupravartan aur samiksha
+english monitoring and review of market risk in the investment portfolio
+
+hindi   उनके मन में गहरी आस्था थी कि जीवन आनंद और आशा से परिपूर्ण होना चाहिए, अंतः वे कुष्ठरोगियों के जीवन में आनंद और आशा का संचार करने के प्रयास में जुट गये।
+clean   unke man mein gehri aastha thi ki jivan aanand aur aasha se paripurn hona chahiye, antah wo kushtharogiyon ke jivan mein aanand aur aasha ka sanchar karne ke prayas mein jut gaye.
+noisy   unke man me gehri aastha ti ki jeevan aanand aur asha se paripurn hona chahiyeeee, antah wo kushtharogiyon k jeevan mein aannd aur aasha ka sanchar karne ke prayas mein jut gaye.
+english with his fundamental belief that life must be full of joy and hope, baba amte set about bringing joy and hope in the lives of leprosy patients.
+
+hindi   किसान क्रेडिट कार्ड योजना के लाभ-
+clean   kisan kredit kaard yojna ke laabh-
+noisy   kisaan kredit kaard yojna ke laabh-
+english what is the benefit of kcc scheme?
+
+hindi   तो मैंने इन कंपनी की वेबसाइट से खोजना शुरु किया
+clean   to mainne in kampni ki vebsait se khojna shuru kiya
+noisy   to mainne in kampni ki vebsaait say khojna shuru kiya
+english so i went to the company's website looking to find
+
+hindi   कुछ जो तत्काल हो या किसी चीज़ के बाद जल्द हो रही हो.
+clean   kuch jo tatkal ho ya kisi cheez ke baad jald ho rahi ho.
+noisy   kuch jo tatkal ho ya kisi cheez k baad jald ho rahi ho.
+english something that is immediate or occuring soon after something.
+
+hindi   विदेशों में चुनौतीपूर्ण परिस्थितियों में कार्य करते हुए, उन्होंने हमारे राष्ट्र की प्रतिष्ठा बढ़ाई है और प्रेषित धन के जरिए महत्त्वपूर्ण योगदान दिया है।
+clean   videshon mein chunautipurn paristhitiyon mein karya karte hue, unhonne hamare rashtra ki pratishtha badhai hai aur preshit dhan ke jariye mahattwapurn yogdan diya hai.
+noisy   videsho me chunautipurn paristhitiyon me karya karte hue, unhonne hamaare rashtra ki pratishtha badhai hai or preshit dhan ke jariye mahattwapurn yogdan diya hai.
+english while serving in challenging conditions abroad, they have brought credit to our nation and contributed significantly through their remittances.
+
+hindi   आधुनिक परीक्षण सुविधाओं और गुणवत्ता प्रमाणन;
+clean   aadhunik parikshan suvidhaon aur gunvatta pramanan;
+noisy   aadhunik parikshan suvidhaao aur gunvatta prmaanan;
+english modern testing facilities and quality certification;
+
+hindi   तीन कोणों से बनी आकृति।
+clean   teen konon se bani aakriti.
+noisy   teen konon se bani aakriti.
+english a figure formed by three angles.
+
+hindi   मैं स्थिति पर लगातार नजर रख रही हूं।
+clean   main sthiti par lagatar najar rakh rahi hoon.
+noisy   mai sthiti pe lagatar najarr rakhh rhi hu.
+english i am kept in touch with the situation.
+
+hindi   ओह, मैंने इस यात्रा के लिए क्यों स्वयंसेवी बनना स्वीकार किया!
+clean   oh, mainne is yatra ke liye kyon swayansevi banna swikar kiya!
+noisy   oh, mainne is yatra ke liye kyu swayansevi banna sweekaar kiya!
+english oh, why had i volunteered for this cruise?
+
+hindi   हास 'रस' राष्ट्रवाद की शुरुआत घर के प्यार से ही होती है।
+clean   haas 'ras' rashtrawad ki shuruat ghar ke pyaar se hi hoti hai.
+noisy   haas 'ras' rashtrawad ki shuruaat ghar ke pyaar se hi hoti hai.
+english haas rap nationalism begins with love for home.
+
+hindi   हमने अपने सुबह के ध्यान में भैरवी रागा सुना।
+clean   hamne apne subah ke dhyaan mein bhairvi raga suna.
+noisy   hmne apne subah ke dhyan mein bhairvi raaga sunaa.
+english we listened to bhairavi raga in our morning meditation.
+
+hindi   ग्रामीण क्षेत्रों से निकटता के कारण ये प्रोजेक्ट वहाँ की विद्युत आपूर्ति की गुणवत्ता को बढ़ा सकते हैं।
+clean   gramin kshetron se nikatta ke karan ye projekt wahan ki vidyut aapurti ki gunvatta ko badha sakte hain.
+noisy   gramin kshetron se nikatta ke karan ye projekt wahan ki vidyut aapoorti ki gunvatta ko badha sakte hai.
+english due to their proximity to the rural areas, these projects are likely to improve quality of electricity supply there.
+
+hindi   जलयानों के आने-जाने को संभव बनाने के लिए एक कृत्रिम जलसारणी का निर्माण किया गया।
+clean   jalyanon ke aane-jane ko sambhav banane ke liye ek kritrim jalsarni ka nirman kiya gaya.
+noisy   jalyaano ke aane-jane ko sambhav banane ke liye ek kritrim jalsaarni ka nirmannn kiya gaya.
+english an artificial channel was made to facilitate the navigation of ships.
+
+hindi   इन्द्रप्रस्थ पांडवों की राजधानी थी।
+clean   indraprasth pandwon ki rajdhani thi.
+noisy   indraprasth pandwo ki raajdhaani thi.
+english 'indraprasta' was the capital of 'pandavas'
+
+hindi   राष्ट्रपति ने कहा कि हमारे देश के युवा मेधा या प्रतिभा के मामले में किसी से पीछे नहीं हैं; हमारे देश को जरूरत है ईमानदारी और समर्पण की।
+clean   rashtrapti ne kaha ki hamare desh ke yuwa medha ya pratibha ke mamle mein kisi se piche nahi hain; hamare desh ko jarurat hai imandari aur samarpan ki.
+noisy   rashtrapti ne kaha ki hamare desh ke yuwa medha ya pratibha ke maamle me kisi se piche nahi hain; hamaare dsh ko jarurat hai imandari aur samarpan ki.
+english the president said the youth of our country are not lagging behind any other in matters of intelligence or talent; what our country needs is sincerity and dedication.
+
+hindi   मैं, राज्य सरकार तथा अन्य प्राधिकारियों से आग्रह करता हूं कि वे अपने प्रियजनों को खोने वाले शोक संतप्त परिवारों को यथासंभव सहायता तथा घायलों को चिकित्सा सहायता उपलब्ध कराएं।
+clean   main, rajya sarkar tatha anya pradhikariyon se aagrah karta hoon ki wo apne priyajnon ko khone wale shok santapt pariwaron ko yathasambhav sahayta tatha ghaylon ko chikitsa sahayta uplabdh karayen.
+noisy   me, rajya sarkaar ttha anya praadhikaariyon se aagrah karta hoon ki vo apne priyajnon ko khone wale shok santapt pariwaro ko yathaasambhav sahayta tatha ghaylo ko chikitsa sahaayta uplabdh karaaye.
+english i call upon the state government and other authorities to provide all possible aid to the bereaved families, who have lost their near and dear ones as well as medical assistance to the injured.
+
+hindi   सदस्य-30 सांसद (20 लोक सभा से, 10 राज्य सभा से)।
+clean   sadasya-30 sansad (20 lok sabha se, 10 rajya sabha se).
+noisy   sadasya-30 saansad (20 lok saba se, 10 raajya sabha se).
+english members – 30 member of parliament (20 members from house of people, 10 members from council of states)
+
+hindi   इस पर्व पर हम अपने परिवारों के साथ खुशियाँ मनाए परंतु हम इस अवसर पर उन्हें भी न भूलें जो जरूरतमंद हैं।
+clean   is parv par hum apne pariwaron ke saath khushiyan manaye parantu hum is avsar par unhein bhi na bhulein jo jaruratmand hain.
+noisy   is parv pr hum apne pariwaaron ke sath khushiya manaye parantu hum is avsar pe unhein bhi na bhule jo jaruratmand hain.
+english coinciding with the beginning of the harvest season, onam celebrates the hard work and toil of our farmers.
+
+hindi   जब गुरबख्श सिंह भारत वापिस लौटे तो उन्होंने हर एक को अमरीकियों के गुणों के बारे मे बताया।
+clean   jab gurbakhsh sinh bharat wapis laute to unhonne har ek ko amrikiyon ke gunon ke bare me bataya.
+noisy   jab gurbakhsh sinh bharat wapis laute to unhonne har ek ko amrikiyo k guno ke bare me bataya.
+english when gurbakhsh singh came back to india he spoke about the qualities of the americans to everyone.
+
+hindi   भारत के राष्ट्रपति, श्री राम नाथ कोविन्द ने आज (19 दिसंबर, 2019) राष्ट्रपति भवन में महात्मा गांधी की 150वीं जयंती के स्मरण-उत्सव के लिए गठित राष्ट्रीय समिति की दूसरी बैठक की अध्यक्षता की।
+clean   bharat ke rashtrapti, shri raam naath kovind ne aaj (19 disambar, 2019) rashtrapti bhavan mein mahatma gandhi ki 150veen jayanti ke smaran-utsav ke liye gathit rashtriya samiti ki dusri baithak ki adhyakshata ki.
+noisy   bhaarat k rashtrapti, shri raam naath kovind ne aaj (19 disambar, 2019) rashtrapti bhavan me mahatma gndhi ki 150vi jayanti ke smaran-utsav ke liye gathit raashtreeya samiti ki doosri baithak ki adhyakshata ki.
+english the president of india, shri ram nath kovind, presided over the second meeting of the national committee for commemoration of the 150th birth anniversary of mahatma gandhi at rashtrapati bhavan today (december 19, 2019).
+
+hindi   अभियोक्ता ने कुछ खास चिट्ठियों का भी हवाला दिया जो कच्छ के शासक, जैसलमेर के प्रधान और जम्मू के शासक को भेजी गयी थीं।
+clean   abhiyokta ne kuch khaas chitthiyon ka bhi hawala diya jo kacch ke shasak, jaisalmer ke pradhan aur jammu ke shasak ko bheji gayi theen.
+noisy   abhiyokta ne kuch khaas chitthiyo ka bhi hawaala diyaa jo kacch ke shasak, jaisalmer ke prdhaan aur jammu ke shaasak ko bheji gayi thi.
+english he also relied upon certain circulars purported to have been sent to the ruler of kutch, chief of jaisalmer and the ruler of jammu.
+
+hindi   एक सप्ताह बात उनकी हालत बिगड़ गई और उन्हें पार्क व्यू नर्सिंग होम ले जाया गया।
+clean   ek saptah baat unki halat bigad gayi aur unhein paark vyu narsing hom le jaya gaya.
+noisy   ek saptah baat unki halat bigad gayi aur unhein paark vyu narsing hom le jaya gaya.
+english about a week later his condition deteriorated and he was taken to park - view nursing home.
+
+hindi   अपने बोर्ड और अपने निवेशकों और वे के लिए सभी विश्वास है कि आप एक मौजूदा बाजार कर रहे हैं।
+clean   apne bord aur apne niveshkon aur wo ke liye sabhi vishwas hai ki aap ek maujuda bajar kar rahe hain.
+noisy   apne bord aur apne niveshkon aur woh ke liye sabhi vishwaas hai ki aap ek maujooda baajaar kar rahe hai.
+english for your board and your investors and they all believe that you are an existing market.
+
+hindi   रोगी के सर्जरी से पूर्व हमें उसे संज्ञाशून्य करना आवश्यक है।
+clean   rogi ke sarjari se poorv hamein use sangyashunya karna aavashyak hai.
+noisy   rogi ke sarjari se poorv hame use sangyasunya karna aavashyak hai.
+english we need to anesthize the patient before surgery.
+
+hindi   सच्चाईः अनेक मामलों में बच्चों की भागीदारी बेहद कारगर सिद्ध हुई है।
+clean   sacchaih anek mamlon mein bacchon ki bhagidari behad kargar siddh hui hai.
+noisy   sacchaih anek mamlo me bacchon ki baageedaari behad kargar siddh hui hai.
+english reality: children's participation, in many instances, has proven to be very effective.
+
+hindi   दूसरी ओर, एक नाटकीय स्थिति में शरीर की गति, मूक अभिनय तथा आशुरचित वाणी पात्रों की संपूर्ण अभिव्यक्ति के आवश्यक अंग हैं।
+clean   dusri or, ek natkiya sthiti mein sharir ki gati, mook abhinay tatha aashurchit wani patron ki sampurn abhivyakti ke aavashyak ang hain.
+noisy   dusri or, ek naatkeeya sthiti me shareer ki gti, mook abhinay tatha aashurchit waani paatron ki sampurn abhivyakti k aavashyak ang hain.
+english characterization also involves body movement, pantomime and improvised speech, all related to the total expression of the characters in a dramatic situation.
+
+hindi   इन्हें सही क्रम में ही बनाया गया है.
+clean   inhein sahi kram mein hi banaya gaya hai.
+noisy   inhe sahi kram me hi banaaya gaya hai.
+english they are made in the right order.
+
+hindi   के. आर. गणेश, भूतपूर्व मंत्री, भारत सरकार ने प्रारंभ में कांग्रेस के संगठन का अच्छा कार्य किया.
+clean   ke. aar. ganesh, bhutpurv mantri, bharat sarkar ne prarambh mein kangres ke sangthan ka accha karya kiya.
+noisy   ke. aar. ganesh, bhutpurv mantri, bharat sarkar ne prarambh mein kaangres k sangthan ka accha krya kiya.
+english k. r. ganesh, former minister, took active interest in organising the congress party in these islands.
+
+hindi   ये केवल १२ साल की है,
+clean   ye keval 12 saal ki hai,
+noisy   ye keval 12 saal ki hai,
+english she's only 12 years old,
+
+hindi   हितकारी निधि पूर्व में ही स्थापित है।
+clean   hitkari nidhi poorv mein hi sthapit hai.
+noisy   hitkari nidi poorv me hi sthapit hai.
+english benevolent fund has already been established.
+
+hindi   एक साथ, भारत और इटली दिसंबर, 2020 से जी 20 ट्रोइका का हिस्सा होंगे।
+clean   ek saath, bharat aur itli disambar, 2020 se ji 20 troika ka hissa honge.
+noisy   ek saath, bharat aur itli disambar, 2020 se ji 20 troika ka hssaa honge.
+english together, india and italy will be part of the g20 troika from december, 2020.
+
+hindi   मैं एक विशिष्ट गणितीय फलन खोज रहा हूं, जो कोई संख्यात्मक मान यथा “637” ले और आउटपुट के रूप में ऐसा “0100110100” दे।
+clean   main ek vishisht ganitiya phalan khoj raha hoon, jo koi sankhyatmak maan yatha "637" le aur aautput ke roop mein aisa "0100110100" de.
+noisy   main ek vishisht ganiteeya phalan khoj raha hu, jo koi sankhyatmak maan yatha "637" le aur aautput k roop mein aisa "0100110100" de.
+english i need help in finding a specific mathematical function which can take any numeric value say "637" and output around say "0100110100".
+
+hindi   उनके द्वारा चित्रित आदर्श मैत्री और निष्ठा का यह चित्र इंगित करता है कि वे कम-से-कम इस क्षेत्र में भाग्यशाली थे, भले ही यश और भौतिक सुख के क्षेत्र में भाग्यशाली न रहे हों जो उन्हें बहुत बाद में मिले।
+clean   unke dwara chitrit aadarsh maitri aur nishtha ka ye chitra ingit karta hai ki wo kam-se-kam is kshetra mein bhagyashali the, bhale hi yash aur bhautik sukh ke kshetra mein bhagyashali na rahe hon jo unhein bahut baad mein mile.
+noisy   unke dwaara chitrit aadarsh maitri aur nishtha ka ye chitra ingit karta hai k wo kam-se-kam is kshetra mein bhaagyashaali the, bhale hi yash aur bhautik sukh ke kshetra mein bhaagyashaali na rahe hon jo unhein bahot baad me mile.
+english the picture of ideal friendship and devotion that he has painted suggests that he may have been fortunate at least in this respect, though not in that of fame and material prosperity, which came to him late in life.
+
+hindi   विवरण: महिला का ब्लूशिस्ट स्टोन धड़ अपने दाहिने हाथ में कुछ अस्पष्ट वस्तु रखता है जबकि बायां हाथ नीचे की ओर लटका हुआ है। उसके हाथ-पैर गायब हैं।
+clean   vivran: mahila ka blushist ston dhad apne dahine haath mein kuch aspasht vastu rakhta hai jabki bayan haath niche ki or latka hua hai. uske haath-pair gayab hain.
+noisy   vivrannnn: mahila ka blooshist ston dhad apne daahine haath me kuch aspasht vastu rakhta hai jabki baya haath niche k or latka hua hai. uske haath-pair gayab hai.
+english description: the blueschist stone torso of female holds some indistinct object in her right hand while left hand suspending downward. her hands and feet are missing.
+
+hindi   ऐसे आहार के उदाहरण हैं: स्कार्सडेल डाइट; कार्बोहाइड्रेट वाला आहार; मायोक़्लिनिक आहार; दूध और केले का आहार; केवल तरल आहार; अंडे का आहार; अंगूरों का आहार और ज़ेन मैक्रोबायोटिक आहार.
+clean   aise aahar ke udahran hain: skarsadel dait; karbohaidret wala aahar; mayoklinik aahar; doodh aur kele ka aahar; keval taral aahar; ande ka aahar; anguron ka aahar aur zen maikrobayotik aahar.
+noisy   aise aahaar ke udahran hai: skaarsadel dait; karbohaidret vaala aahaar; mayoklinik aahaar; doodh aur kele ka aahar; keval taral aahaar; ande ka aahar; anguron ka aahaar aur zen maikrobaayotik aahar.
+english examples of such diets are: scarsdale diet; no carbohydrate diet; mayo clinic diet; milk and banana diet; fluids only diet; egg diet; grapefruit diet; and zen macrobiotic diet.
+
+hindi   ये कविताएं, जिनके शीर्षक ‘अंतहीन जीवन’ और ‘अंतहीन मृत्यु’ हैं इस बात की पुष्टि करती हैं।
+clean   ye kavitayen, jinke shirshak 'anthin jivan' aur 'anthin mrityu' hain is baat ki pushti karti hain.
+noisy   ye kavitaye, jinke sheershak 'anthin jivan' aur 'anthin mrityu' hain is baat ki pushti karti hai.
+english the poems are entitled endless life and endless death.
+
+hindi   इस रोटी को कमाने के लिए उसने कड़ी मेहनत की है, खून-पसीना एक किया है।
+clean   is roti ko kamane ke liye usne kadi mehnat ki hai, khoon-pasina ek kiya hai.
+noisy   is roti ko kamaane k lie usne kadi mehnat ki hai, khoon-paseena ek kiya h.
+english his bread was earned by honest labour; he sweated and toiled for it.
+
+hindi   इंद्र, अर्जुन ओर देवताओं जैसे कुछ कुलीन (राजसी) पात्र पच्‍चा पात्र होते हैं ।
+clean   indra, arjun or devtaon jaise kuch kulin (rajsi) patra paccha patra hote hain.
+noisy   indra, arjun or devtaao jaise kuch kulin (rajsi) patra paccha patra hote h.
+english the noble characters like indra, arjun and the devas are some of the pacha characters.
+
+hindi   मैं इस बात के लिए हूं कि हम गैर-जरूरी देर किये बिना इस विषय में अपने निर्णय पर पहुंच जायें।
+clean   main is baat ke liye hoon ki hum gair-jaruri der kiye bina is vishay mein apne nirnay par pahunch jayein.
+noisy   main is baat k liye hun ki hum gair-jroori der kiye bina is vishay me apne nirnay pe pahunch jaaye.
+english i am anxious that we should come to our own settlement without undue delay.
+
+hindi   एक मजबूत तथा सुव्यवस्थित कोष संचालन, शासन तथा विकास के लिए सभी तरह की योजनाओं का आधार होता है; तथा सुशासन का भी परिणाम होता है।
+clean   ek majbut tatha suvyavasthit kosh sanchalan, shasan tatha vikas ke liye sabhi tarah ki yojnaon ka aadhar hota hai; tatha sushasan ka bhi parinam hota hai.
+noisy   ek majbut tatha suvyavasthit kosh sanchalan, shaasan tatha vikas ke liye sabhi tarah ki yojnaon ka aadhaar hota hai; tatha sushaasan ka bhi parinaam hota hai.
+english a strong and well-managed treasury function is the base for all kind of planning in governance and development; and also the outcome of good governance.
+
+hindi   ऐसे सुरक्षित लेनदारों की सूची को रिकॉर्ड के लिए दर्ज किया गया है
+clean   aise surakshit lendaron ki suchi ko rikord ke liye darj kiya gaya hai
+noisy   aise surakshit lendaro ki soochi ko rikord k liye drj kiya gaya hai
+english the list of such secured creditor has been filed for record
+
+hindi   धारा - 43क, आय-कर अधिनियम, 1961-2018
+clean   dhara - 43ka, aay-kar adhiniyam, 1961-2018
+noisy   dhara - 43ka, aay-kar adhiniyam, 1961-2018
+english section - 43a, income-tax act, 1961-2018
+
+hindi   ग्रह पुछल्ले आकाश रंगों में विलीन हों? (अन्यथा रंग स्थिर रहेंगे)
+clean   grah puchalle aakash rangon mein vilin hon? (anyatha rang sthir rahenge)
+noisy   grah puchalle aakash rango me vileen hon? (anyatha rang sthir rahenge)
+english planet trails fade to sky color? (otherwise color is constant)
+
+hindi   उसका एक ही उद्देश्य था-भारत में विदेशी शासन पर निर्णायक आक्रमण करना और देश को आजाद कराना.
+clean   uska ek hi uddeshya tha-bharat mein videshi shasan par nirnayak aakraman karna aur desh ko aajad karana.
+noisy   uska ek hi uddeshya tha-bhaarat me videshi shasan par nirnayak aakraman karna or desh ko aajd karana.
+english it had only one aim - to launch a final attack on the foreign power in india and free it from foreign domination.
+
+hindi   उन्होंने जोर देकर कहा कि भारत की समग्र साक्षरता की दिशा में प्रगति की सफलता अंततः दो कारकों पर निर्भर करेगी।
+clean   unhonne jor dekar kaha ki bharat ki samagra saksharta ki disha mein pragti ki saphalta anttah do karkon par nirbhar karegi.
+noisy   unhonne jor dekar kaha ki bhaarat ki samagra saksharta ki disha me pragti ki saphalta anttah do kaarkon par nirbhar karegi.
+english he stressed that the success of our march towards total literacy in india will ultimately depend on two factors.
+
+hindi   कोई एक सदस्य कंपनी के गलत कार्यों के लिए जिम्मे्दार नहीं ठहराया जा सकता भले ही उसके पास समस्त शेयर पूंजी हो;
+clean   koi ek sadasya kampni ke galat karyon ke liye jimmedar nahi thehraya ja sakta bhale hi uske paas samast sheyar punji ho;
+noisy   koi ek sadasya kampni ke galat karyo k liye jimmedar nahi thehraaya ja sakta bhale hi uske paas samast sheyar poonji ho;
+english an individual member cannot be held liable for the wrongful acts of the company even if he / she holds virtually the entire share capital;
+
+hindi   यदि कोई जीन अपना स्थान परितर्तित नहीं करता अथवा उसमें कोई उत्परिवर्तन भी नहीं होता तो भी उसकी बारंबारता में वृद्धि या कमी होती है।
+clean   yadi koi jeen apna sthaan paritartit nahi karta athwa usmein koi utparivartan bhi nahi hota to bhi uski barambarta mein vriddhi ya kami hoti hai.
+noisy   yadi koi jeen apna sthaan paritartit nahi karta athwa usme koi utparivartan bhi nahi hota to bhi uski baarambaarta mein vriddhi ya kami hoti hai.
+english third, there is the selection pressure due to any systematic cause by which the gene tends to increase or decrease in frequency without either mutation or immi - gration.
+
+hindi   मैं अफ़्रीका को उसी प्रकार से देखती जिस तरह से मैंने
+clean   main afrika ko usi prakar se dekhti jis tarah se mainne
+noisy   mai afreeka ko usee prakar se dekhti jis tarah se mainne
+english i would see africans in the same way that i,
+
+hindi   कर्मचारी परिस्थिति विज्ञान (एर्गोनोमिक्स) और कार्य के वातावरण में सुधार हेतु संचालन के लिये बेहतर उपकरणों और बेहतर माहौल के साथ डाक कार्यालयों का आधुनिकीकरण किया जा रहा है।
+clean   karmachari paristhiti vigyan (ergonomiks) aur karya ke watavran mein sudhar hetu sanchalan ke liye behtar upkarnon aur behtar mahaul ke saath daak karyalyon ka aadhunikikran kiya ja raha hai.
+noisy   karmachaari paristhiti vigyan (ergonomiks) aur karya ke waataavrann mai sudhar hetu sanchalan ke liye behtar upkarnon aur behtr mahaul k sath daak karyalyon ka aadhunikikran kiya ja raha hai.
+english to improve the ergonomics and working environment, mail offices are being modernised with better operational equipments and improved ambience.
+
+hindi   रावण के द्वारा प्रेरित किए जाने पर उसने भंयकर युद्ध किया जिसमें लक्ष्मण ने कम्बन् एक अर्धचन्द्राकार बाण के द्वारा उसका सिर काट लिया।
+clean   ravan ke dwara prerit kiye jane par usne bhanykar yuddh kiya jismein lakshman ne kamban ek ardhachandrakar baan ke dwara uska sir kaat liya.
+noisy   ravan ke dwaara prerit kiye jane pe usne bhanykar yddh kiya jisme lkshman ne kamban ek ardhachandraakaar baan ke dwra uska sir kaat liya.
+english egged on by ravana, he fought a savage battle, in which lakshmana severed his head with a crescent - shaped arrow.
+
+hindi   यह उचित होगा यदि ऋणकर्ता से माल को नीलाम करने से पूर्व परित्याग-पत्र प्राप्त कर लिया जाए।
+clean   ye uchit hoga yadi rinkarta se maal ko nilam karne se poorv parityag-patra praapt kar liya jaye.
+noisy   ye uchit hogaa yadi rinkarta se maal ko nilam karne se poorv parityaag-patra praapt kar liya jaye.
+english it would be advisable if a letter of renunciation is obtained from the borrower before auctioning goods.
+
+hindi   इसीलिए बसव ने चेताया कि धन के पीछे पागल न हों।
+clean   isiliye basav ne chetaya ki dhan ke piche pagal na hon.
+noisy   isiliye basav ne chetaya k dan ke peeche pagal na hon.
+english that is why basava warned his followers not to be mad after money.
+
+hindi   इस ज्ञापन की सभी सूचनाएँ मिटा दी जाएँगी और फिर सहेजी नहीं जा सकेगी.
+clean   is gyapan ki sabhi suchnayen mita di jayengi aur phir saheji nahi ja sakegi.
+noisy   is gyaapan ki sabhi suchnayen mita di jayengi aur phir saheji nahi ja sakegi.
+english all information on this memo will be deleted and can not be restored.
+
+hindi   मुख्य बल मत्स्यिकी विकास में अनुकूलन उत्पादन और उत्पादकता, मत्स्य उत्पादों का निर्यात बढ़ाने, रोजगार का सृजन करने और मछुआरों के कल्याण और उनकी सामाजिक आर्थिक स्थिति सुधारने पर है।
+clean   mukhya bal matsyiki vikas mein anukulan utpadan aur utpadakta, matsya utpadon ka niryat badhane, rojgar ka srijan karne aur machuaron ke kalyan aur unki samajik aarthik sthiti sudharne par hai.
+noisy   mukhya bal matsyki vikas me anukulan utpadan aur utpaadakta, matsyaa utpdon ka niryat badhaane, rojgar ka srijn karne aur machuaro ke kalyan aur unki samajik aarthik sthiti sudharne par hai.
+english the major thrust in fisheries development has been focused on optimising production and productivity; augmenting export of fishery products; generating employment and improving welfare of fishermen and their socio - economic status.
+
+hindi   इससे पूरी की पूरी ग्रामीण अर्थव्यवस्था पिछडी बनी रह जाती है और अंततः पूरा देश ही पिछडा रह जाता है।
+clean   isse puri ki puri gramin arthavyavastha pichdi bani rah jati hai aur anttah pura desh hi pichda rah jata hai.
+noisy   isse poori k poori gramin arthavyavastha pichdi bani rah jati hai aur anttah poora desh hi pichda rah jaata hai.
+english it keeps the whole rural economy backward and ultimately it keeps the whole country backward.
+
+hindi   वन से संबधित एक प्रकार का अग्रिम।
+clean   van se sambdhit ek prakar ka agrim.
+noisy   van se sambdhit ek prakaar ka agrim.
+english a type of advance in connection with forest.
+
+hindi   इन सब ग्रन्थियों से छुटकारा पाना होगा; शुद्धि तब तक पूर्ण नहीं कही जा सकती जब तक कि वह मुक्ति को साधित न कर दे।
+clean   in sab granthiyon se chutkara pana hoga; shuddhi tab tak poorn nahi kahi ja sakti jab tak ki wo mukti ko sadhit na kar de.
+noisy   in sab granthiyo se chutkaara pana hoga; shuddhi tab tak poorn nahi kahi ja sakti jab tak ki woh mukti ko sadhitttt na kar de.
+english these bonds must be got rid of; purification is not complete till it brings about liberation.
+
+hindi   क्यों कि अपने किसी प्रिय व्यक्ति के खो जाने का अनुभव प्रायः दोष और क्रोध की भावनाओं को सामने लाता है, परन्तु यह याद रखना जरूरी है कि ये प्राकृतिक भावनाएं हैं, और शोक का एक भाग हैं.
+clean   kyon ki apne kisi priya vyakti ke kho jane ka anubhav prayah dosh aur krodh ki bhavnaon ko samne lata hai, parantu ye yaad rakhna jaruri hai ki ye prakritik bhavnayen hain, aur shok ka ek bhaag hain.
+noisy   kyon k apne kisi priya vyakti ke kho jaane ka anubhav praayah dosh aurr krodh ki bhaavnaaon ko saamne lata hai, parantu yeh yad rakhna jaroori hai ki ye prakritik bhaavnaaye hain, aur shok ka ek bhaag hain.
+english because the loss of someone dear causes irritation and you may feel at fault, but remember this is a natural feeling and part of bereavement.
+
+hindi   "पुर्तगाली भाषा में ""अगुआड़ा"" शब्द का अर्थ ताज़ा पानी होता है।"
+clean   "purtagali bhasha mein ""aguada"" shabd ka arth taza pani hota hai."
+noisy   "purtagaali bhasha mein ""aguaada"" shabd ka arth taaza pani hota hai."
+english the word "aguada" means freshwater in the portuguese language.
+
+hindi   पहली अनुसूची (313) (पीडीएफ फाइल जो नई विंडों में खुलती है)
+clean   pehli anusuchi (313) (pidiyeph phail jo nayi vindon mein khulti hai)
+noisy   pehli anusuchi (313) (peedeeyef phail jo nayi vindo mein khulti hai)
+english first schedule (313 kb) (pdf file that opens in a new window)
+
+hindi   पुरुष निश्चित रूप से जानता है कि प्रकृति उसकी शक्ति है, किन्तु फिर भी वह इसके अधीन दिखायी देता है।
+clean   purush nishchit roop se janta hai ki prakriti uski shakti hai, kintu phir bhi wo iske adhin dikhayi deta hai.
+noisy   purush nishchit roop se janta hai ki prakriti uski shakti hai, kintu phir bhi wo iske adheen dikhaayi deta hai.
+english he is sure that she is his power, but yet he seems to be subject to her.
+
+hindi   आनुषंगिक व्यय के रूप में लेखक/विद्वान को 25000/-रु. की राशि प्रतिमाह प्रदान की जाएगी।
+clean   aanushangik vyay ke roop mein lekhak/vidwan ko 25000/-ru. ki rashi pratimah pradan ki jayegi.
+noisy   aanushangik vyy ke roop me lekhak/vidwaan ko 25000/-ru. ki raashi pratimah pradan ki jayegi.
+english an amount of rs.25,000 per month might be given to the scholar/writer for meeting incidental expenses.
+
+hindi   किसी दवा, विशेष्कर इसके विपरीत प्रभावों से संबंधित
+clean   kisi dawa, visheshkar iske viprit prabhawon se sambandhit
+noisy   kisi dawa, visheshkar iske vipreet prabhaawon se sambandhit
+english relating to a drug, particulary to its adverse reaction
+
+hindi   निधि-प्रभाजन का कार्य उप-समिति को जो इस कार्य के लिए गठित की गई है, सौंप दिया जाना चाहिए।
+clean   nidhi-prabhajan ka karya up-samiti ko jo is karya ke liye gathit ki gayi hai, saump diya jana chahiye.
+noisy   nidhi-prabhajan ka kaarya up-samiti ko jo is karya ke liye gathit ki gai he, saump diya jana chahiye.
+english the fund apportionment may be decided by the sub - committee constituted for the purpose.
+
+hindi   परंतु उनके निर्दोष परिहासों पर किसी ने ध्यान नहीं दिया क्योंकि वे शायद ही कभी कटुतापूर्ण होते।
+clean   parantu unke nirdosh parihason par kisi ne dhyaan nahi diya kyonki wo shayad hi kabhi katutapurn hote.
+noisy   parantu unke nirdosh parihason pe kisi ne dhyan nahi diya kyunki woh shaayad hi kbhi katutaapoorn hote.
+english but none of them seemed to mind his innocent pranks because they were hardly ever offensive.
+
+hindi   सशर्त बिक्री बन्धक एक मान्य प्रकार की बन्धक होती है।
+clean   sashart bikri bandhak ek manya prakar ki bandhak hoti hai.
+noisy   sasart bikri bandhak ek manya prakar ki bandhak hotee hai.
+english mortgage by conditional sale is a valid form of mortgage.
+
+hindi   यदि हम प्रत्येक दूसरे को पढ़ाओ के सिद्धांत का अनुसरण करेंगे तभी इस दिशा में सफलता प्राप्त की जा सकती है।
+clean   yadi hum pratyek dusre ko padhao ke siddhant ka anusran karenge tabhi is disha mein saphalta praapt ki ja sakti hai.
+noisy   yadi hum pratyek doosre ko padhao ke siddhant ka anusran karenge tabhi is disha me saphalta praapt ki ja sakti h.
+english if we follow the principle of 'each one, teach one' success can be achieved in this direction.
+
+hindi   (ख) ऐसी सहकारी सोसाइटी की दशा में, जो ऐसी प्राथमिक सोसाइटी है जो अपने सदस्यों द्वारा उत्पादित या तैयार किए गए दूध, तिलहन, फलों या सब्जियों का प्रदाय–
+clean   (kha) aisi sehkari sosaiti ki dasha mein, jo aisi prathmik sosaiti hai jo apne sadasyon dwara utpadit ya taiyar kiye gaye doodh, tilhan, phalon ya sabjiyon ka praday–
+noisy   (kha) aisi sehkari sosaaiti ki dsha mei, jo esi praathmik sosaaiti hai jo apne sadasyo dwara utpadt ya taiyaar kiye gaye doodh, tilhan, phalon ya sabjiyon ka pradaay–
+english (b) in the case of a co-operative society, being a primary society engaged in supplying milk, oilseeds, fruits or vegetables raised or grown by its members to—
+
+hindi   प्रोग्राम निर्देशिका से. है नहीं स्थानीय
+clean   program nirdeshika se. hai nahi sthaniya
+noisy   program nirdeshika se. hai nahi sthaniya
+english program directory '% s' is not local
+
+hindi   उन्होंने कहा कि प्रयागराज स्थित संचालन नियंत्रण केन्द्र आधुनिक नियंत्रण केंद्रों में से एक है, जो नए भारत की नई ताकत का प्रतीक है।
+clean   unhonne kaha ki prayagraj sthit sanchalan niyantran kendra aadhunik niyantran kendron mein se ek hai, jo naye bharat ki nayi takat ka pratik hai.
+noisy   unhonne kaha ki prayagraj sthit sanchalan niyantran kendra aadhunik niyantran kendro me se ek hai, jo naye bharat ki nayi taakat ka pratik hai.
+english he said today when the first goods train runs in the khurja bhaupur freight corridor we can hear the roar of the self reliant india.
+
+hindi   हेनले के सर वाल्टर के 13वीं सदी के हाउसबैंड्री संबंधी निबंध में कहा गया हैः
+clean   henle ke sar waltar ke 13veen sadi ke hausbaindri sambandhi nibandh mein kaha gaya haih
+noisy   henle k sar waaltar ke 13vi sadi ke haausbaindri sambandhi nibandh mein kaha gaya haih
+english sir walter of henley's 13thcentury treatise of housebandry mentions and i quote:
+
+hindi   ग्रामीण क्षेत्रों में शारीरिक विकलांगता एक हजार लोगों में 20 के अनुपात से और शहरी क्षेत्रों में 16 व्यक्ति प्रति एक हजार पाई गई है।
+clean   gramin kshetron mein sharirik viklangta ek hajar logon mein 20 ke anupat se aur shehri kshetron mein 16 vyakti prati ek hajar pai gayi hai.
+noisy   gramin kshetro mein sharirik viklaangta ek hajaar logo mein 20 ke anupaat se aur shehri kshetro mein 16 vyakti prati ek hajar pai gayee hai.
+english the prevalence of physical disability was 20 per thousand persons in rural areas and 16 per thousand persons in urban areas.
+
+hindi   वह सबसे बड़ी घबराहट उन्हें ग़म में न डालेगी। फ़रिश्ते उनका स्वागत करेगें, "यह तुम्हारा वही दिन है, जिसका तुमसे वादा किया जाता रहा है।"
+clean   wo sabse badi ghabrahat unhein gam mein na dalegi. farishte unka swagat karegein, "ye tumhara wahi din hai, jiska tumse wada kiya jata raha hai."
+noisy   wo sabse badi ghabrahat unhe gam mai na dalegi. farishte unka swaagat karege, "yeh tumhaara wahi din hai, jiska tumse waada kiya jata raha hai."
+english they will have safety from the mighty terror, and angels will receive them, (saying:) "this is your day which had been promised you."
+
+hindi   कुछ भी कहो, कोई भी सरकार अराजकता बरदाश्त नहीं कर सकती।
+clean   kuch bhi kaho, koi bhi sarkar arajakta bardasht nahi kar sakti.
+noisy   kuch bhi kaho, koi bhi sarkaar arajakta bardaasht nhi kar skti.
+english "anyway, there's no state that can let anarchy go on. "
+
+hindi   जब विभाजन एक वास्तविकता बन ही गया तो इस बात की कोई जरूरत नहीं रह गई कि मुस्लिम लीग की तुष्टि की जाए और संघ सरकार की शक्तियों को सीमित किया जाए।
+clean   jab vibhajan ek wastavikta ban hi gaya to is baat ki koi jarurat nahi rah gayi ki muslim leeg ki tushti ki jaye aur sangh sarkar ki shaktiyon ko simit kiya jaye.
+noisy   jab vibhajan ek wastavikta ban hi gaya to is baat ki koi jaroorat nahi rah gayi ki muslim leeg ki tushti k jaaye aur sangh sarkaar k shaktiyo ko simit kiya jaaye.
+english once partition had become a reality, there was no need to appease the muslim league and restrict the powers of the union government.
+
+hindi   1 1 की रेंज में एक नैनोक्रिस्टल सिलिकॉन एनईएमएस दाब सेंसर का डिजाइन, निर्माण ओर परीक्षण।
+clean   1 1 ki renj mein ek nainokristal silikon enayiyemayes daab sensar ka dijain, nirman or parikshan.
+noisy   1 1 ki renjj me ek nainokristal silikon enayeeyemayes daab sensar ka dijain, nirman or pareekshan.
+english design, fabrication and testing of a nanocrystalline silicon mems pressure sensor in the range of 1mbar to1bar
+
+hindi   और इसलिए यह एक चक्र है।
+clean   aur isliye ye ek chakra hai.
+noisy   aur isliye ye ek chakra hai.
+english and so this is a circle.
+
+hindi   हर कोई दीर्घायु होने की कामना करता है, लेकिन बूढ़ा कोई नहीं कहलाना चाहता।
+clean   har koi dirghayu hone ki kamna karta hai, lekin budha koi nahi kehlana chahta.
+noisy   har koi deerghaayu hone ki kaamna karta hai, lekin budha koi nahi kehlaana chaahta.
+english every man desires to live long, but no one would be old.
+
+hindi   सेब सात गुना, या आप कह सकते है सात गुना सेब,
+clean   seb saat guna, ya aap kah sakte hai saat guna seb,
+noisy   seb sat guna, ya aap kah sakte hai saat guna seb,
+english apples seven times, or you'd say seven times the apple,
+
+hindi   1966 में शास्त्रीजी के देहावसान के बाद देश के समक्ष यह प्रश्न आया कि राष्ट्र का नेतृत्व कौन करेगा।
+clean   1966 mein shastriji ke dehavsan ke baad desh ke samaksh ye prashn aaya ki rashtra ka netritv kaun karega.
+noisy   1966 mai shaastreeji ke dehaavsaan ke baad desh ke samaksh ye prashn aaya ki rashtra ka netritw kaun karegaaa.
+english with shastriji's death in 1966, the country was faced with the question of who should lead the nation.
+
+hindi   इस तरह योजना तैयार करने के लिए पहली जरूरत यह हे कि मुल्क की मुकम्मिल आजादी प्राप्त हो और विदेशी नियंत्रण खत्म हो.
+clean   is tarah yojna taiyar karne ke liye pehli jarurat ye he ki mulk ki mukammil aajadi praapt ho aur videshi niyantran khatm ho.
+noisy   is tarah yojna taiyaar karne ke liye pehli jarurat yeh he ki mulk ki mukammil aajaadi praapt ho r videshi niyantran khatm ho.
+english an essential prerequisite for planning is thus complete freedom and independence for the country and the removal of outside control.
+
+hindi   यह शार्टकट “% s” पहले से हीः “% s” हेतु प्रयुक्त है
+clean   ye shartakat "% s" pehle se heeh "% s" hetu prayukt hai
+noisy   ye shaartakat "% s" pehle se heeh "% s" hetuuuu prayukt haiii
+english the shortcut "% s" is already used for"% s"
+
+hindi   अभी हाल ही में आए महाचक्रवात से पीड़ित लोगों की सहायता के लिए स्वैच्छिक प्रयासों से जो राहत सामग्री एकत्र हुई, वह इसी गौरवशाली परंपरा का एक नमूना है।
+clean   abhi haal hi mein aaye mahachakrawat se pidit logon ki sahayta ke liye swaicchik prayason se jo rahat samagri ekatra hui, wo isi gauravshali parampra ka ek namuna hai.
+noisy   abhi haal hi mein aaye mahaachakrawaat se pidit logon ki sahayta ke lye swaicchik prayaso say jo rahat samagri ekatra hui, vo isi gauravshaali parampra ka ek namoona hai.
+english during the recent super cyclone in orissa the relief supplies organized through voluntary efforts is an example of that glorious tradition.
+
+hindi   रजिस्ट्री कुँजी को बन्द नहीं किया जा सकता है
+clean   rajistri kunji ko band nahi kiya ja sakta hai
+noisy   rajistri kunji ko band nahi kiyaaa ja sakta haii
+english can't close registry key'% s' '% s'
+
+hindi   डॉ. जाखड़ 1991से 1996 तक केन्द्रीय कृषि मंत्री, 1980 से 1989 तक लोक सभा के अध्यक्ष तथा 2004से 2009 तक मध्य प्रदेश के राज्यपाल के रूप में उत्कृष्ट कार्य किया।
+clean   do. jakhad 1991se 1996 tak kendriya krishi mantri, 1980 se 1989 tak lok sabha ke adhyaksh tatha 2004se 2009 tak madhya pradesh ke rajyapal ke roop mein utkrisht karya kiya.
+noisy   do. jaakhad 1991se 1996 tak kendriya krishi mantri, 1980 se 1989 tak lok sabha ke adhyaksh tatha 2004se 2009 tak madhya pradesh ke rajyapal ke roop mein utkrisht kaarya kiya.
+english dr. jakhar worked with distinction as union minister of agriculture from 1991 to 1996, speaker of the lok sabha from 1980 to 1989 and governor of madhya pradesh from 2004 to 2009.
+
+hindi   खुशी का वास्तविक रहस्य निम्नलिखित हैः जीवन जीने और जीने देने का उत्साह, तथा अपने मन में यह स्पष्ट आभास कि झगड़ालू व्यक्ति होना एक अक्षम्य अपराध है.
+clean   khushi ka wastavik rahasya nimnalikhit haih jivan jine aur jine dene ka utsah, tatha apne man mein ye spasht aabhas ki jhagdalu vyakti hona ek akshamya apradh hai.
+noisy   khushi ka wastavik rahasyaa nimnalikit haih jeevan jine aur jine dene ka utsaah, tatha apne man me yeh spasht abhas ki jhagdalu vyakti hona ek akshamya apraadh hai.
+english the real secret of happiness is simply this: to be willing to live and let live, and to know very clearly in one's own mind that the unpardonable sin is to be an unpleasant person.
+
+hindi   मैदान का व्यास सामान्य होता है।
+clean   maidan ka vyaas samanya hota hai.
+noisy   maidan ka vyaas samanya hota haiiii.
+english the diameter of the ground is standard.
+
+hindi   इस न्यायके अनुसार ट्रान्सवालमें जब ब्रिटिश सत्ता स्थापित हुई तब हिन्दुस्तानियोंसे सम्बन्ध रखनेवाले सारे ही कानूनोंका अमल दिनोंदिन ज्यादा कड़ा होने लगा।
+clean   is nyayke anusar transawalmein jab british satta sthapit hui tab hindustaniyonse sambandh rakhnewale sare hi kanunonka amal dinondin jyada kada hone laga.
+noisy   is nyayke anusar transawalme jab british satta sthapit hui tab hindustaaniyonse sambandhh rakhnewale sare hi kanunonka amal dnondin jyada kada hone laga.
+english thus, when british power was established in the transvaal, all laws adversely affecting the indians began to be more and more strictly enforced day by day.
+
+hindi   भारत के राष्ट्रपति ने श्री प्रसन्नता नंदी के निधन पर शोक व्यक्त किया, राष्ट्रपति भवन : 04.11.2016
+clean   bharat ke rashtrapti ne shri prasannata nandi ke nidhan par shok vyakt kiya, rashtrapti bhavan: 04.11.2016
+noisy   bharat ke raashtrapti ne shri prasannata nandi ke nidhan par shok vyakt kiya, rashtrapti bhavan: 04.11.2016
+english president of india condoles the passing away of shri prasanta nandi, rashtrapati bhavan: 04.11.2016
+
+hindi   अग्न्याशय के पैपिलक या अंकुरक पुटीयुक्त अबुर्द को ठोस-पुटीयुक्त उपकला अबुर्द भी कहा जाता है
+clean   agnyashay ke paipilak ya ankurak putiyukt aburd ko thos-putiyukt upakla aburd bhi kaha jata hai
+noisy   agnyashay ke paipilak ya ankurak putiyukt aburd ko thos-pteeyukt upakla aburd bhi kaha jata hai
+english papillary cystic and solid tumour of pancreas is also known as solid - cystic epithelial tumour.
+
+hindi   पुस्तक में कई सौ दुर्लभ तस्वीरें हैं जो पाठकों को बांधे रखती हैं।
+clean   pustak mein kayi sau durlabh taswirein hain jo pathkon ko bandhe rakhti hain.
+noisy   pustak me kayi sau durlbh taswirein hain jo pathkon ko bandhe rakhti hai.
+english the text is enriched with more than hundred rare photographs, a visual treat to the readers.
+
+hindi   किसी भी स्वस्थ लोकतंत्र की विशेषता समुचित सूचना पर आधारित सहभागिता होती है।
+clean   kisi bhi swasth loktantra ki visheshta samuchit suchna par aadharit sehbhagita hoti hai.
+noisy   kisi bhi swasth loktantra ki visheshta samuchit suchna pe aadhaarit sehbhagita hoti hai.
+english a healthy democracy is marked by informed participation.
+
+hindi   शहर में घर होने के बावजूद, एक भारतीय राजा को सिमला में रहने के लिए, वाइसरॉय के कार्यालय से अनुमति लेनी पड़ती थी।
+clean   shahar mein ghar hone ke bavjud, ek bhartiya raja ko simla mein rehne ke liye, waisroy ke karyalay se anumti leni padti thi.
+noisy   shahar me ghar hone ke baavjood, ek bhartiya raaja ko simla me rehne ke liye, waaisroy ke karyalay se anumti lni padti thi.
+english in order to reside in simla during the summer, an indian prince would have to seek permission from the viceroy's office despite owning a house within the city.
+
+hindi   आप में से कुछ ने संस्कृत पढ़ी है तथा कुछ ने संगीत सीखा, लेकिन इतना ही काफी नहीं।
+clean   aap mein se kuch ne sanskrit padhi hai tatha kuch ne sangit sikha, lekin itna hi kaphi nahi.
+noisy   aap mein se kuch ne sanskrit padhi hai tatha kuch ne sangit sikha, lekin itna hi kaphi nahi.
+english some of you have studied sanskrit and some music, but these are not enough.
+
+hindi   कर मामलों में होने वाला ऐसा प्रभाव/संलग्नता जो प्रकट रूप में न हो वरन् अंतनिर्हित हो।
+clean   kar mamlon mein hone wala aisa prabhav/sanlagnata jo prakat roop mein na ho varan antnirhit ho.
+noisy   kar maamlon mein hone waala aisa prabhav/sanlagnata jo prakat roop mein na ho varan antnirht ho.
+english the effect / involvement of what is understood rather than expressed in tax matters.
+
+hindi   (i) पर्याप्त प्रतिफल के लिए और, यथास्थिति, ऐसा कार्यवाही के लंबित होने की सूचना के बिना या निर्धारिती द्वारा संदेय ऐसे कर या अन्य राशि की सूचना के बिना किया जाता है; या
+clean   (i) paryapt pratiphal ke liye aur, yathasthiti, aisa karyawahi ke lambit hone ki suchna ke bina ya nirdhariti dwara sandey aise kar ya anya rashi ki suchna ke bina kiya jata hai; ya
+noisy   (i) paryapt pratiphal ke liye aur, yathasthiti, aisa kaaryawaahi ke lambit hone ki soochna ke bina ya nirdhariti dwara sandey aise kar ya anya rashi ki soochna ke bna kiya jaata hai; ya
+english (i) for adequate consideration and without notice of the pendency of such proceeding or, as the case may be, without notice of such tax or other sum payable by the assessee; or
+
+hindi   वह प्रक्रिया जिसमें नाइट्रोजन स्थिरीकरण जीवाणु द्वारा गैसियस नाइट्रोजन अमोनिया में परिणत होता है
+clean   wo prakriya jismein naitrojan sthirikran jiwanu dwara gaisiyas naitrojan amoniya mein parinat hota hai
+noisy   wo prakriya jisme naaitrojan sthirikran jiwanu dwara gaisiyas naaitrojan amoniya mein parinat hota hai
+english a proces in which gaseous nitrogen is converted into ammonia by nitrogen fixing bacteria.
+
+hindi   सचिव/सांगठनिक प्रधान यह सुनिश्चित करें कि शिकायत निदेशक अपनी भूमिका के निर्वहन में अनुदेशों के अनुसार पूर्ण रूप से अधिकृत हों।
+clean   sachiv/sangathnik pradhan ye sunishchit karein ki shikayat nideshak apni bhumika ke nirvahan mein anudeshon ke anusar poorn roop se adhikrit hon.
+noisy   sachiv/sangathnik pradhan yeh sunishchitt karein ki shikayat nideshak apnee bhoomika ke nirvahan m anudeshon ke anusaar poorn roop se adhikrit ho.
+english secretaries / organisational heads ensuring that directors of grievances are fully 'empowered' in accordance with instructions to perform their role.
+
+hindi   अलमोड़ा का प्राचीन शहर स्वास्थ्यवर्धक जलवायु और प्राकृतिक दृश्यों के लिए प्रसिद्ध है।
+clean   almoda ka prachin shahar swasthyavardhak jalwayu aur prakritik drishyon ke liye prasiddh hai.
+noisy   almoda ka prachin shahar swasthyavardhak jalwaayu or prakritik drishyo k liye prasiddh hai.
+english the ancient town of almora is famous for its climate and is good for health and for enjoying natural beauty.
+
+hindi   मेरी मां इन पर अदरक छीलती थी।
+clean   meri maa in par adrak chilti thi.
+noisy   mri maa in pe adrak chilti thi.
+english my mother used to peel ginger on them.
+
+hindi   लाजुकलता की अधिकांश कहानियाँ पिछले तीन-चार वर्षों की पत्र-पत्रिकाओं में छप् चुकी थीं।
+clean   lajukalta ki adhikansh kahaniyan pichle teen-chaar varshon ki patra-patrikaon mein chap chuki theen.
+noisy   lajukalta k adhikaans kahaaniya pichle tin-chaar varshon ki patra-patrikao me chap chuki thi.
+english most of the stories in lajuklata had been published over the last three or four years in different journals and magazines.
+
+hindi   वे कुंकुम, बुक्का, फूलों का केशर या विभिन्न पदार्थों से बना सुगंधित पाऊडर और गुलाल हर परिवार के मुखिया पर डालते थे जो पैसे और खाद्य-पदार्थ दान करता था।
+clean   wo kunkum, bukka, phulon ka keshar ya vibhinn padarthon se bana sugandhit paudar aur gulal har pariwar ke mukhiya par dalte the jo paise aur khadya-padarth daan karta tha.
+noisy   wo kunkum, bukka, phulo ka keshar ya vibhinn padartho se banaa sugandhit paudar aur gulal har pariwaar ke mukhiya pe dalte the jo paise aur khaadya-padarth daan karta tha.
+english they shoot kumkum, bukka the pollen of flowers or fragrant powder formed of various ingredients and gulal another kind of rose - coloured powder at each family head who donates money and eatables.
+
+hindi   नाटक साहित्य की ओर आकृष्ट होने का सबसे पहला कारण उनके दादा श्री महादेव शास्त्री कोल्हटकर द्वारा रचित शेक्सपियर के ऑथेलो नाटक का मराठी अनुवाद था।
+clean   natak sahitya ki or aakrisht hone ka sabse pehla karan unke dada shri mahadev shastri kolhatkar dwara rachit sheksapiyar ke othelo natak ka marathi anuwad tha.
+noisy   natak saahitya ki or aakrisht hone ka sbse pehla kaaran unke daada shri mahadev shastri kolhatkar dwara rachit sheksapiyar k othelo natak ka maraathi anuwaad ta.
+english shripad krishna was attracted to drama on reading a translation of othello done by his grandfather mahadevshastri kolhatkar.
+
+hindi   ऐसा प्रतीत हुआ कि-यह अदभुत था।
+clean   aisa pratit hua ki-ye adbhut tha.
+noisy   aisa prateet hua ki-ye adbhut tha.
+english it felt like - it was amazing. it was great
+
+hindi   अपीलार्थी दो साल के लिए इलाज में रहा और लंबे समय के लिए पीड़ित रहा लेकिन उसके धनीय और धन से भिन्न नुकसानी की ओर केवल एक मामूली रकम अधिनिर्णित की गई.
+clean   apilarthi do saal ke liye ilaj mein raha aur lambe samay ke liye pidit raha lekin uske dhaniya aur dhan se bhinn nuksani ki or keval ek mamuli rakam adhinirnit ki gayi.
+noisy   apeelaarthi do saal k liye ilaj me raha aur lambe samay k lye peedit rha lekin uske dhaniya aur dhan se bhinn nuksaani ki or keval ek maamooli rakam adhinirnit ki gayi.
+english the appellant remained under treatment for two years and suffered for long but yet awarded only a paltry sum towards pecuniary and non - pecuniar damages.
+
+hindi   हम अब इसे निकल सकते हैं
+clean   hum ab ise nikal sakte hain
+noisy   hum ab ise nikal sakte hain
+english you could work it out.
+
+hindi   निर्णायक मंड़ल के सदस्य शशि रंजन, जो भाजपा सांसद शत्रुघ्न सिन्हा को पेश करने वाले टीवी टॉक शो के निर्माता हैं, का सवाल है, '' वे यदि इतने ही नाखुश थे, तो उन्होंने फैसल घोषित होने तक इंतजार क्यों किया.
+clean   nirnayak mandal ke sadasya shashi ranjan, jo bhajpa sansad shatrughn sinha ko pesh karne wale tivi tok sho ke nirmata hain, ka sawal hai, '' wo yadi itne hi nakhush the, to unhonne phaisal ghoshit hone tak intjar kyon kiya.
+noisy   nirnayak mandal ke sadasya shashi ranjan, jo bhajpa sansad shatrughn sinha ko pesh karne waale teewi tok sho ke nirmata hai, ka sawal hai, '' wo yadi itne hi naakhush the, to unhonne phaisal ghoshit hone tak intjaar kyu kiya.
+english but shashi ranjan, jury member and producer of a tv talkshow that features bjp mp shatrughan sinha, disagrees: " if those who walked out were so unhappy, why did they wait till the results were announced?
+
+hindi   सुतहटा और कर्नाटक में किसानों ने छिप कर ब्रितानी शासन के प्रतिरोध में गुरिल्ला कार्रवाईयां शुरू कीं और यह क्रम सन् 1944 तक चलता रहा।
+clean   sutehta aur karnatak mein kisanon ne chip kar britani shasan ke pratirodh mein gurilla karrawaiyan shuru keen aur ye kram san 1944 tak chalta raha.
+noisy   sutehta aur karnatak mein kisaanon ne chip kar britaani shasan k pratirodh me gurilla karraweyan shuru ki or ye kram san 1944 tak chalta raha.
+english in sutahata, satara, and the karnataka the peasantry started underground guerilla resistance to british rule, which continued till 1944.
+
+hindi   "प्रवेश करो उस (जन्नत) में सलामती के साथ" वह शाश्वत दिवस है
+clean   "pravesh karo us (jannat) mein salamti ke saath" wo shashwat divas hai
+noisy   "pravesh karo us (jnnat) mein salamti ke sath" wo shashwat divas hai
+english "enter it in peace. this is the day of life abiding."
+
+hindi   बैठक के दौरान महामारी के संदर्भ में राष्ट्रीय स्तर पर ताजा स्थिति और इससे निपटने की तैयारियों की समीक्षा की गई थी।
+clean   baithak ke dauran mahamari ke sandarbh mein rashtriya star par taja sthiti aur isse nipatne ki taiyariyon ki samiksha ki gayi thi.
+noisy   baithak ke dauraan mahaamaari ke sandarbh mein raashtreeya star pe taja sthiti aur isse nipatne ki teyariyon ki samiksha ki gai thi.
+english the meeting had reviewed the national level status and preparation in the context of the pandemic.
+
+hindi   श्री एस. सत्यमूर्ति,जो एक वकील और श्रेष्ठ वक्ता थे, 1923में मद्रास विधान परिषद के सदस्य बने और एक विधायक के रूप में उनकी प्रसिद्धि तेजी से पूरे देश में फैल गई।
+clean   shri es. satyamurti,jo ek vakil aur shreshth vakta the, 1923mein madras vidhan parishad ke sadasya bane aur ek vidhayak ke roop mein unki prasiddhi teji se pure desh mein phail gayi.
+noisy   shri es. satyamurti,jo ek vakeel aur shreshth vakta the, 1923me madras vidhaan parishad ke sadasya bane aur ek vidhaayak ke roop me unki prasiddhi tejee se poore desh me phel gayi.
+english shri s. satyamurti, a lawyer and outstanding orator, entered the madras legislative council in 1923 and his fame as a legislator rapidly spread all over the country.
+
+hindi   आप कुछ प्रयोगों को सेट करने के लिए की जरूरत है।
+clean   aap kuch prayogon ko set karne ke liye ki jarurat hai.
+noisy   aap kuch prayogon ko set karne ke liye ki jarurat hai.
+english you need to set up some experiments.
+
+hindi   इसके लिए हमें परिक्षण पर और अधिक बल देना है, ताकि संक्रमित व्यक्ति को हम जल्द से जल्द ट्रेस और ट्रैक और आइसोलेट कर सकें।
+clean   iske liye hamein parikshan par aur adhik bal dena hai, taki sankramit vyakti ko hum jald se jald tres aur traik aur aaisolet kar sakein.
+noisy   iske liye hamein parikshan pe aur adhik bal dena hai, taki sankramit vyakti ko hum jld se jald tres r traik aur aaisolet kar sakein.
+english for this, we have to place more emphasis on testing, so that we can trace, track and isolate the infected person as soon as possible.

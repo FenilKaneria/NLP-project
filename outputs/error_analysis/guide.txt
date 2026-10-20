@@ -1,0 +1,33 @@
+How to fill in the error-analysis sheets
+=========================================
+
+compare_b_d.csv (100 tweets)
+----------------------------
+Column "better": which translation is closer to the meaning of the source.
+    B       run B is better
+    D       run D is better
+    same    equally good or equally bad
+
+Column "error_run_d": the main problem in run D's translation. Use one of:
+    none            meaning is correct
+    wrong meaning   fluent English, but says something else
+    missing         part of the source is left out
+    untranslated    a Hindi word is copied instead of translated
+    wrong word      one word is mistranslated (often a name or a rare word)
+    repetition      words or phrases are repeated
+    grammar         meaning is right, English is broken
+    bad reference   the human translation itself is wrong or incomplete
+
+Column "notes": anything worth remembering, for example the word that went wrong.
+
+check_run_d.csv (50 tweets)
+---------------------------
+Column "verdict":
+    correct         a reader would understand the same thing as from the source
+    needs change    anything else
+
+Rules
+-----
+* Judge against the source tweet first. The reference is a help, not the truth.
+* Ignore lowercase, punctuation and the placeholders <user>, <hashtag>, <url>.
+* When two people fill in the same sheet, do it separately and compare afterwards.

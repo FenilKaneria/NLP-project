@@ -1,0 +1,9 @@
+# Run E: run D with the copy mechanism.
+name: run_e
+tokeniser: bpe
+copy: true
+init_from: pretrain_noisy_copy
+train: data/processed/phinc_train.tsv
+val: data/processed/phinc_val.tsv
+lr: 0.0002
+max_tokens: 2000

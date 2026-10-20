@@ -1,0 +1,8 @@
+# Run C: pre-trained on clean synthetic data, fine-tuned on PHINC.
+name: run_c
+tokeniser: bpe
+init_from: pretrain_clean
+train: data/processed/phinc_train.tsv
+val: data/processed/phinc_val.tsv
+lr: 0.0002
+max_tokens: 2000
